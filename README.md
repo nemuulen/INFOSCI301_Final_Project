@@ -35,7 +35,7 @@ This project analyzes global trends in international student mobility by examini
 ## 4. Methodology & Visualization Plan  
 
 ### Tools  
-- **Python 3.7+**  
+- **Python**  
   - `pandas` for data wrangling  
   - `plotly.express` for animated globe maps  
   - `pathlib` for portable file paths  
@@ -43,23 +43,3 @@ This project analyzes global trends in international student mobility by examini
 - **Google Colab** as execution environment  
 - **GitHub** for version control & reproducibility  
 
-### Planned Visualizations  
-- **Animated bubble‐map** (2000–2022):  
-  - Blue bubbles = inbound students  
-  - Red bubbles = outbound students  
-  - Bubble size ∝ student count  
-- **Choropleth overlays** to color‐code by GDP or education expenditure  
-- **Interactive pop‐up panels** showing country‐specific line charts of GDP, education %, and urbanization  
-
----
-
-## 5. Innovation Pipeline Flowchart  
-
-```mermaid
-flowchart LR
-  A[Data Acquisition] --> B[Data Cleaning]
-  B --> C[Data Integration]
-  C --> D[Exploratory Analysis]
-  D --> E[Design & Prototyping]
-  E --> F[Visualization Development]
-  F --> G[Deployment & User Testing]
