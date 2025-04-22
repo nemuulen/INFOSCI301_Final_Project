@@ -1,6 +1,5 @@
 # INFOSCI301_Final_Project
 
-# INFOSCI 301 – Team Research Proposal  
 ## Mapping Global Student Migration Patterns in Relation to Economic Indicators
 
 **Team Members**  
