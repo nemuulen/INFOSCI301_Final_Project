@@ -1,0 +1,4 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+26637,"Total inbound internationally mobile students, both sexes (number)",EDUCATION,2025-02-23,February 2025 Data Release,7299,1997,2024,"REGIONAL, NATIONAL",,3242
+MENF.5T8,"Net flow of internationally mobile students (inbound - outbound), both sexes (UIS estimate) (number)",EDUCATION,2025-02-23,February 2025 Data Release,2425,1998,2022,NATIONAL,,3238
+OE.MOD.5T8.40510,"Total outbound internationally mobile tertiary students studying abroad, all countries, both sexes (UIS estimate) (number)",EDUCATION,2025-02-23,February 2025 Data Release,392,1998,1999,NATIONAL,,3242
