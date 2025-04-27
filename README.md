@@ -61,4 +61,4 @@ By visualizing these mobility trends, our project encourages actions toward **pr
 
 ## Team Contribution Statement
 - **Yiqing Wang**: Data acquisition, data visualization, GitHub repository development.
-- **Nemuulen Togtbaatar**: Data cleaning, literature review, visualization improvements, data analysis.
+- **Nemuulen Togtbaatar**: Data acquisition and cleaning, literature review, visualization improvements.
