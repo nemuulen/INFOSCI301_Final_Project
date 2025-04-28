@@ -14,7 +14,8 @@ By integrating UNESCO Institute for Statistics (UIS) mobility data with World Ba
 
 ---
 ## Acknowledgements
-- Professor Luyao (Sunshine) Zhang’s insightful guidance and lectures throughout the course and our classmates’ thoughtful feedback and shared enthusiasm were essential in the completion of this project. A special thanks to Dongping Liu from Amazon and David Schaaf, the Deputy Head of Chemistry Education and Head of the NanoBioLab at Saarland University, for their great lectures introducing new visualization technologies.
+- Professor Luyao (Sunshine) Zhang’s insightful guidance and lectures throughout the course and our classmates’ thoughtful feedback and shared enthusiasm were essential in the completion of this project.
+- A special thanks to Dongping Liu from Amazon and David Schaaf, the Deputy Head of Chemistry Education and Head of the NanoBioLab at Saarland University, for their great lectures introducing new visualization technologies.
   
 ##  Deployment details
 
@@ -54,6 +55,7 @@ We draw design inspiration from:
 > Schöttler, S., Hinrichs, U., & Bach, B. (2025).  
 > *Practices and Strategies in Responsive Thematic Map Design.*  
 > IEEE Transactions on Visualization and Computer Graphics (TVCG).
+> https://doi.org/10.1109/TVCG.2024.3456352
 
 This paper highlights challenges in thematic map design — such as overlapping symbols, navigation difficulties, and loss of context — and suggests strategies like dynamic scaling and interactive features.  
 Our project adapts these ideas to create accessible, responsive migration visualizations.
@@ -77,8 +79,6 @@ Our project adapts these ideas to create accessible, responsive migration visual
 | **inbound_intl.csv** | [UNESCO UIS Data](https://uis.unesco.org/bdds) |
 | **Share_students_origin_to_destination.csv** | [OECD Data Explorer](https://data-explorer.oecd.org) |
 | **Total_num_students_going_abroad.csv** | [OECD Data Explorer](https://data-explorer.oecd.org) |
-
-> *Note*: China's outbound numbers were computed based on the last two datasets.
 
 ## Visualizations
 - **Main Animated Map**: Displays changing inbound and outbound student volumes globally from 2000–2021.
