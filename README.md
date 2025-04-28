@@ -13,44 +13,32 @@ By integrating UNESCO Institute for Statistics (UIS) mobility data with World Ba
 🔗 **Live App**: [infosci301finalproject.streamlit.app](https://infosci301finalproject-j34vzlrqpnbbp22g879wld.streamlit.app/?embed_options=dark_theme)
 
 ---
-
-## 🔧 Deployment Details
+## Acknowledgements
+- ?
+##  Deployment details
 
 This project was deployed using **Streamlit Community Cloud**, which allows for seamless integration with GitHub repositories and automatic deployment upon code updates.
 
-### Deployment Steps:
+### Deployment steps:
 1. **GitHub Repository**: The project's codebase is hosted on GitHub.
 2. **Streamlit App File**: The main application file is `app.py`.
 3. **Dependencies**: All required Python libraries are listed in `requirements.txt`.
-4. **Configuration**: A `.streamlit/config.toml` file is included to customize the app's appearance, such as enabling the dark theme.
-5. **Deployment**:
-   - Sign in to [Streamlit Community Cloud](https://streamlit.io/cloud).
-   - Connect your GitHub account and select the repository.
-   - Choose the `app.py` file as the entry point.
-   - Deploy the app, which will be accessible via a unique URL.
+4. **Deployment**:
+   - Signed in to [Streamlit Community Cloud](https://streamlit.io/cloud).
+   - Connected the GitHub account and selected the repository.
+   - Chose the `app.py` file as the entry point.
+   - Deployed the app, which will be accessible via a unique URL.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical details
 
 - **Programming Language**: Python
 - **Data Manipulation**: `pandas`
 - **Data Visualization**: `plotly`, `matplotlib`
 - **Web Framework**: `streamlit`
-- **Development Environment**: Google Colab, local IDEs
-- **Version Control**: Git, GitHub
-
----
-
-## ✅ Suggestions for Enhancement
-
-To further improve the project, consider the following:
-
-- **Interactive Filters**: Implement dropdowns or sliders to allow users to filter data by year, country, or region.
-- **Responsive Design**: Ensure that visualizations are responsive and render well on various devices and screen sizes.
-- **Performance Optimization**: Optimize data loading and processing to enhance app performance, especially for large datasets.
-- **Accessibility**: Incorporate accessibility features to make the app usable for individuals with disabilities.
-- **Documentation**: Expand the README to include detailed instructions on setting up the development environment and contributing to the project.
+- **Development Environment**: Google Colab, VS code
+- **Version Control**: GitHub
 
 ---
 
@@ -72,27 +60,27 @@ Our project adapts these ideas to create accessible, responsive migration visual
 ## Workflow Pipeline
 ![Innovation Flowchart](Images/Innovation_Flowchart.jpg)
 - **Data Acquisition**: Sources include World Bank, UNESCO UIS, and OECD datasets.
-- **Data Cleaning**: Handling missing values, reshaping wide/long formats, matching country names.
+- **Data Cleaning**: Handling excess values, reshaping wide/long formats, and matching country names.
 - **Visualization Planning**: Identifying key metrics (GDP, inbound/outbound numbers) and appropriate visualization types.
-- **Visualization Coding**: Using Python libraries (pandas, plotly) and Google Colab for iterative development.
+- **Visualization Coding**: Using Python libraries (pandas, plotly) and Google Colab for development.
 - **Data Analysis**: Exploring trends, regional differences, and economic correlations.
 - **Report and Deployment**: Documenting findings on GitHub with organized codes, results, and a project poster.
 
 ## Datasets Used
 | Dataset | Source |
 |:--------|:-------|
-| **GDP.xlsx** | [World Bank GDP Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) |
-| **Government expenditure on education as % of GDP (%)** | [World Bank Education Expenditure](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) |
-| **Country_names.xlsx** | UNESCO UIS (self-created lookup) |
-| **inbound and outbound of international students.xlsx** | [UNESCO UIS Data](https://uis.unesco.org/bdds) |
-| **Total inbound internationally mobile students, both sexes (number).xlsx** | [UNESCO UIS Data](https://uis.unesco.org/bdds) |
-| **Share_students_origin_to_destination.xlsx** | [OECD Data Explorer](https://data-explorer.oecd.org) |
-| **Total_num_students_going_abroad.xlsx** | [OECD Data Explorer](https://data-explorer.oecd.org) |
+| **GDP.csv** | [World Bank GDP Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) |
+| **Government expenditure on education as % of GDP (%).csv** | [World Bank Education Expenditure](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) |
+| **Country_names.csv** | UNESCO UIS (self-created lookup) |
+| **inbound and outbound of international students.csv** | [UNESCO UIS Data](https://uis.unesco.org/bdds) |
+| **Total inbound internationally mobile students, both sexes (number).csv** | [UNESCO UIS Data](https://uis.unesco.org/bdds) |
+| **Share_students_origin_to_destination.csv** | [OECD Data Explorer](https://data-explorer.oecd.org) |
+| **Total_num_students_going_abroad.csv** | [OECD Data Explorer](https://data-explorer.oecd.org) |
 
 > *Note*: China's outbound numbers were computed based on the last two datasets.
 
 ## Visualizations
-- **Main Animated Map**: Displays changing inbound and outbound student volumes globally from 2000–2022.
+- **Main Animated Map**: Displays changing inbound and outbound student volumes globally from 2000–2021.
 - **GDP vs Students Scatter Plot**: Shows correlation between GDP and student mobility numbers across countries over time.
 - **2022 Flows Map**: Focuses on 2022 only, visualizing student flows between origin and destination countries via connecting lines.
 
