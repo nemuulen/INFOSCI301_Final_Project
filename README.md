@@ -10,6 +10,8 @@
 This project analyzes global trends in international student mobility by examining inbound and outbound student flows across countries over time.  
 By integrating UNESCO Institute for Statistics (UIS) mobility data with World Bank GDP indicators, we explore the relationship between a country's economic status and its role in international education exchanges.
 
+https://infosci301finalproject-j34vzlrqpnbbp22g879wld.streamlit.app/?embed_options=dark_theme
+
 ## Research Questions
 - Which countries are the largest senders and receivers of international students, and how does this correlate with their GDP?
 - How have student mobility patterns evolved over the past two decades, particularly in relation to economic changes?
