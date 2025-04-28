@@ -83,14 +83,6 @@ The 2022 international student flow map reveals several key insights:
   
 Overall, the 2022 snapshot visualizes a complex, multi-centered network of global student mobility, demonstrating both traditional and emerging educational migration routes.
 
-## Connection to SDG 4 (Quality Education)
-This project contributes to SDG 4 by:
-- Highlighting global disparities in access to international education.
-- Promoting data-driven awareness of trends in educational migration.
-- Supporting conversations around equity in educational opportunities and resources worldwide.
-
-By visualizing these mobility trends, our project encourages actions toward **promoting equitable access to international education opportunities**.
-
 ## Data Analysis: Relationship Between GDP and Student Migration (2022)
 
 The scatter plot reveals several important trends between a country's economic strength and its international student flows:
@@ -127,7 +119,15 @@ Overall, the scatter plot highlights the economic dimension of global education 
 
 Overall, regional migration trends are closely tied to macroeconomic growth patterns: stronger economies attract more inbound students, while rising middle classes in developing regions drive outbound growth.
 
+## Connection to SDG 4 (Quality Education)
+This project contributes to SDG 4 by:
+- Highlighting global disparities in access to international education.
+- Promoting data-driven awareness of trends in educational migration.
+- Supporting conversations around equity in educational opportunities and resources worldwide.
+
+By visualizing these mobility trends, our project encourages actions toward **promoting equitable access to international education opportunities**.
+
 ## Team Contribution Statement
-- **Yiqing Wang**: Data acquisition, data visualization, GitHub repository development.
+- **Yiqing Wang**: Data acquisition and analysis, data visualization, GitHub repository development.
 - **Nemuulen Togtbaatar**: Data acquisition and cleaning, literature review, visualization improvements.
 ![image](https://github.com/user-attachments/assets/97298ab6-493b-4b0b-a961-66230828f8b0)
