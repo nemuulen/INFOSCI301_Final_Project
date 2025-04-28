@@ -165,3 +165,11 @@ By visualizing these mobility trends, our project encourages actions toward **pr
 ## Team Contribution Statement
 - **Yiqing Wang**: Data acquisition and analysis, data visualization, GitHub repository development.
 - **Nemuulen Togtbaatar**: Data acquisition and cleaning, literature review, visualization improvements, and website deployment.
+
+## Acknowledgements
+
+We sincerely acknowledge Professor Luyao (Sunshine) Zhang for her insightful guidance and inspiring lectures throughout the course, which greatly shaped the direction and quality of our project. We also thank our classmates for their thoughtful feedback, collaborative spirit, and shared enthusiasm during the project development process.
+
+## Competing Interests
+
+The authors declare no competing interests.
