@@ -28,6 +28,7 @@ This paper highlights challenges in thematic map design — such as overlapping 
 Our project adapts these ideas to create accessible, responsive migration visualizations.
 
 ## Workflow Pipeline
+![Innovation Flowchart](Images/Innovation_Flowchart.jpg)
 - **Data Acquisition**: Sources include World Bank, UNESCO UIS, and OECD datasets.
 - **Data Cleaning**: Handling missing values, reshaping wide/long formats, matching country names.
 - **Visualization Planning**: Identifying key metrics (GDP, inbound/outbound numbers) and appropriate visualization types.
@@ -54,6 +55,7 @@ Our project adapts these ideas to create accessible, responsive migration visual
 - **2022 Flows Map**: Focuses on 2022 only, visualizing student flows between origin and destination countries via connecting lines.
 
 ## Data Analysis: Overall Trends in International Student Migration (2000–2021)
+![International Student Migration 2000_2022](Images/International_Student_Migration_2000_2022.jpg)
 
 Between 2000 and 2021, international student migration patterns underwent significant transformations, reflecting broader trends in globalization, economic development, and educational access.
 
@@ -73,6 +75,7 @@ These findings highlight how global education has evolved into a complex, multi-
 
 ## Data Analysis: Major Student Flows (2022)
 
+![Major Student Flows 2022](Images/Major_Student_Flows_2022.jpg)
 The 2022 international student flow map reveals several key insights:
 
 - **Dominant Destinations**: The United States and the United Kingdom remain the largest receivers of international students. Thick lines represent major inflows from Asia, Europe, and Latin America.
@@ -85,6 +88,7 @@ Overall, the 2022 snapshot visualizes a complex, multi-centered network of globa
 
 ## Data Analysis: Relationship Between GDP and Student Migration (2022)
 
+![Relationship Between GDP and Student Migration 2022](Images/Relationship_Between_GDP_and_Student_Migration_2022.jpg)
 The scatter plot reveals several important trends between a country's economic strength and its international student flows:
 
 - **Positive Correlation**: Generally, countries with higher GDP levels tend to have higher numbers of both inbound and outbound international students. This suggests that economic resources enable better access to education abroad and greater attractiveness as education destinations.
