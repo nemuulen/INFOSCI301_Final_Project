@@ -75,7 +75,7 @@ These findings highlight how global education has evolved into a complex, multi-
 
 ## Data Analysis: Major Student Flows (2022)
 
-![Major Student Flows 2022](Images/Major_Student_Flows_2022.jpg)
+![Major Student Flows 2022](Images/Major_Student_Flows2022.jpg)
 The 2022 international student flow map reveals several key insights:
 
 - **Dominant Destinations**: The United States and the United Kingdom remain the largest receivers of international students. Thick lines represent major inflows from Asia, Europe, and Latin America.
@@ -88,7 +88,7 @@ Overall, the 2022 snapshot visualizes a complex, multi-centered network of globa
 
 ## Data Analysis: Relationship Between GDP and Student Migration (2022)
 
-![Relationship Between GDP and Student Migration 2022](Images/Relationship_Between_GDP_and_Student_Migration_2022.jpg)
+![Relationship Between GDP and Student Migration 2022](Images/Relationship_Between_GDP_and_Student_Migration2022.jpg)
 The scatter plot reveals several important trends between a country's economic strength and its international student flows:
 
 - **Positive Correlation**: Generally, countries with higher GDP levels tend to have higher numbers of both inbound and outbound international students. This suggests that economic resources enable better access to education abroad and greater attractiveness as education destinations.
