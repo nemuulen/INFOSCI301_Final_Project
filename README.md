@@ -55,7 +55,7 @@ Our project adapts these ideas to create accessible, responsive migration visual
 - **2022 Flows Map**: Focuses on 2022 only, visualizing student flows between origin and destination countries via connecting lines.
 
 ## Data Analysis: Overall Trends in International Student Migration (2000–2021)
-![International Student Migration 2000_2022](Images/International_Student_Migration_2000_2022.jpg)
+![International Student Migration 2000-2021](Images/International_Student_Migration2000_2022.jpg)
 
 Between 2000 and 2021, international student migration patterns underwent significant transformations, reflecting broader trends in globalization, economic development, and educational access.
 
