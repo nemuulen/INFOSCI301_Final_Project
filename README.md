@@ -12,6 +12,8 @@ By integrating UNESCO Institute for Statistics (UIS) mobility data with World Ba
 
 🔗 **Live App**: [infosci301finalproject.streamlit.app](https://infosci301finalproject-j34vzlrqpnbbp22g879wld.streamlit.app/?embed_options=dark_theme)
 
+![Final Project Poster](Images/301_Nemuulen_Yiqing_Poster.png)
+
 ---
 ## Acknowledgements
 - Professor Luyao (Sunshine) Zhang’s insightful guidance and lectures throughout the course and our classmates’ thoughtful feedback and shared enthusiasm were essential in the completion of this project.
