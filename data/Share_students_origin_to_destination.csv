@@ -1,8 +1,8 @@
 REF_AREA,Origin,Destination,TIME_PERIOD,Percentage_of_students
-PER,Peru,Anguilla,2022,
+PER,Peru,Anguilla,2022,0
 AUS,Australia,Libya,2022,0
-PER,Peru,Monaco,2022,
-PER,Peru,Togo,2022,
+PER,Peru,Monaco,2022,0
+PER,Peru,Togo,2022,0
 AUS,Australia,Myanmar,2022,0.364914779
 AUS,Australia,Comoros,2022,0
 AUS,Australia,Tokelau,2022,0
@@ -21,7 +21,7 @@ AUS,Australia,Iran,2022,0.54396909
 AUS,Australia,Northern America,2022,1.274322198
 AUS,Australia,Kazakhstan,2022,0.030627711
 AUS,Australia,Europe,2022,2.980311879
-AUS,Australia,China (People’s Republic of),2022,23.00978778
+AUS,Australia,China,2022,23.00978778
 AUS,Australia,El Salvador,2022,0.007067933
 AUS,Australia,Somalia,2022,0
 AUS,Australia,Honduras,2022,0.002094202
@@ -59,7 +59,7 @@ AUS,Australia,Nigeria,2022,0.607318714
 AUS,Australia,Brazil,2022,1.871955226
 AUS,Australia,Slovenia,2022,0.007853259
 AUS,Australia,Switzerland,2022,0.043192926
-AUS,Australia,Türkiye,2022,0.214655752
+AUS,Australia,Turkey,2022,0.214655752
 AUS,Australia,Anguilla,2022,0
 AUS,Australia,Ecuador,2022,0.056805242
 AUS,Australia,Andorra,2022,0.001570652
@@ -143,7 +143,7 @@ AUS,Australia,Mexico,2022,0.192404851
 AUS,Australia,Serbia,2022,0.017015395
 AUS,Australia,Grenada,2022,0
 AUS,Australia,Chad,2022,0
-AUS,Australia,Democratic People’s Republic of Korea,2022,0.006806158
+AUS,Australia,Korea,2022,0.006806158
 AUS,Australia,Democratic Republic of the Congo,2022,0.001047101
 AUS,Australia,Thailand,2022,1.707560333
 AUS,Australia,Curaçao,2022,0
@@ -181,7 +181,7 @@ AUS,Australia,Sweden,2022,0.098427516
 AUS,Australia,Latin America and the Caribbean,2022,4.64389396
 AUS,Australia,Syrian Arab Republic,2022,0.004711956
 AUS,Australia,Uruguay,2022,0.015706518
-AUS,Australia,Hong Kong (China),2022,2.366187007
+AUS,Australia,Hong Kong,2022,2.366187007
 AUS,Australia,Mozambique,2022,0.005497281
 AUS,Australia,Nepal,2022,10.13463104
 AUS,Australia,Kiribati,2022,0.010471012
@@ -212,7 +212,7 @@ AUS,Australia,Papua New Guinea,2022,0.20418474
 AUS,Australia,Portugal,2022,0.029057059
 AUS,Australia,Singapore,2022,1.509919975
 AUS,Australia,Cook Islands,2022,0
-AUS,Australia,Macau (China),2022,0.14895015
+AUS,Australia,Macau,2022,0.14895015
 AUS,Australia,Afghanistan,2022,0.019109597
 AUS,Australia,Israel,2022,0.023821553
 AUS,Australia,Armenia,2022,0
@@ -236,7 +236,7 @@ AUS,Australia,Bermuda,2022,0
 AUS,Australia,Kosovo,2022,0
 AUS,Australia,Angola,2022,0
 AUS,Australia,United Kingdom,2022,0.576429228
-AUS,Australia,Côte d’Ivoire,2022,0
+AUS,Australia,C�te d'Ivoire,2022,0
 AUS,Australia,Cameroon,2022,0.007853259
 AUT,Austria,Venezuela,2022,0.05865613
 AUT,Austria,Egypt,2022,0.51362877
@@ -279,7 +279,7 @@ AUT,Austria,Europe,2022,84.27324846
 AUT,Austria,Bulgaria,2022,1.628975556
 AUT,Austria,Luxembourg,2022,1.593616926
 AUT,Austria,Northern America,2022,1.372865709
-AUT,Austria,Democratic People’s Republic of Korea,2022,0.002347513
+AUT,Austria,Korea,2022,0.002347513
 AUT,Austria,Cyprus,2022,0.078641681
 AUT,Austria,Lesotho,2022,0
 AUT,Austria,Croatia,2022,1.257199702
@@ -323,7 +323,7 @@ AUT,Austria,Kazakhstan,2022,0.456374281
 AUT,Austria,Ireland,2022,0.186379463
 AUT,Austria,El Salvador,2022,0.011150686
 AUT,Austria,Denmark,2022,0.181112964
-AUT,Austria,China (People’s Republic of),2022,0.73790154
+AUT,Austria,China,2022,0.73790154
 AUT,Austria,Burundi,2022,0.010563808
 AUT,Austria,Sudan,2022,0.029735163
 AUT,Austria,Afghanistan,2022,0.082340774
@@ -336,7 +336,7 @@ AUT,Austria,Saint Lucia,2022,0.001173756
 AUT,Austria,Niger,2022,0
 AUT,Austria,Ukraine,2022,1.960333255
 AUT,Austria,Portugal,2022,0.168613632
-AUT,Austria,Macau (China),2022,0
+AUT,Austria,Macau,2022,0
 AUT,Austria,Mali,2022,0.004695026
 AUT,Austria,Bahrain,2022,0.003521269
 AUT,Austria,Georgia,2022,0.226143738
@@ -369,7 +369,7 @@ AUT,Austria,Iraq,2022,0.112416522
 AUT,Austria,Angola,2022,0
 AUT,Austria,Gambia,2022,0.010563808
 AUT,Austria,Turks and Caicos Islands,2022,0
-AUT,Austria,Türkiye,2022,1.548419479
+AUT,Austria,Turkey,2022,1.548419479
 AUT,Austria,United Kingdom,2022,1.326204645
 AUT,Austria,Kosovo,2022,0.577972728
 AUT,Austria,Cameroon,2022,0.03512114
@@ -386,7 +386,7 @@ AUT,Austria,Moldova,2022,0.156630753
 AUT,Austria,Uzbekistan,2022,0.086857976
 AUT,Austria,Malawi,2022,0.004695026
 AUT,Austria,Samoa,2022,0
-AUT,Austria,Côte d’Ivoire,2022,0.004695026
+AUT,Austria,C�te d'Ivoire,2022,0.004695026
 AUT,Austria,Dominican Republic,2022,0.008216295
 AUT,Austria,Saint Vincent and the Grenadines,2022,0.002347513
 AUT,Austria,Viet Nam,2022,0.11502813
@@ -421,7 +421,7 @@ BEL,Belgium,Iceland,2022,0.021525822
 BEL,Belgium,Germany,2022,1.287961684
 BEL,Belgium,Madagascar,2022,0.150680754
 BEL,Belgium,Bermuda,2022,0
-BEL,Belgium,China (People’s Republic of),2022,2.211778212
+BEL,Belgium,China,2022,2.211778212
 BEL,Belgium,Cayman Islands,2022,0
 BEL,Belgium,Netherlands,2022,7.58964608
 BEL,Belgium,Norway,2022,0.059196011
@@ -507,7 +507,7 @@ BEL,Belgium,Cuba,2022,0.050226918
 BEL,Belgium,Iraq,2022,0.148886936
 BEL,Belgium,Bangladesh,2022,0.150680754
 BEL,Belgium,Palau,2022,0
-BEL,Belgium,Côte d’Ivoire,2022,0.281629505
+BEL,Belgium,C�te d'Ivoire,2022,0.281629505
 BEL,Belgium,Botswana,2022,0.010762911
 BEL,Belgium,Malawi,2022,0.010762911
 BEL,Belgium,Uzbekistan,2022,0.021525822
@@ -569,7 +569,7 @@ BEL,Belgium,Uruguay,2022,0.017938185
 BEL,Belgium,United States,2022,0.948929987
 AUT,Austria,Tanzania,2022,0.028170154
 AUT,Austria,Finland,2022,0.173129073
-BEL,Belgium,Democratic People’s Republic of Korea,2022,0.008969093
+BEL,Belgium,Korea,2022,0.008969093
 BEL,Belgium,Iran,2022,0.63501175
 BEL,Belgium,Saudi Arabia,2022,0.098660018
 BEL,Belgium,Malta,2022,0.019732004
@@ -603,7 +603,7 @@ BEL,Belgium,Guyana,2022,0.007175274
 BEL,Belgium,Liberia,2022,0.005381456
 BEL,Belgium,Africa unspecified,2022,0.003587637
 BEL,Belgium,Latin America and the Caribbean unspecified,2022,0
-BEL,Belgium,Hong Kong (China),2022,0.060989829
+BEL,Belgium,Hong Kong,2022,0.060989829
 BEL,Belgium,Maldives,2022,0
 BEL,Belgium,Latin America and the Caribbean,2022,3.123038011
 BEL,Belgium,South Africa,2022,0.224227313
@@ -632,7 +632,7 @@ BEL,Belgium,Puerto Rico,2022,0.017938185
 BEL,Belgium,Portugal,2022,0.511238273
 BEL,Belgium,Bosnia and Herzegovina,2022,0.032288733
 BEL,Belgium,Cook Islands,2022,0
-BEL,Belgium,Macau (China),2022,0.007175274
+BEL,Belgium,Macau,2022,0.007175274
 BEL,Belgium,Spain,2022,1.458374442
 BEL,Belgium,Georgia,2022,0.075340377
 BEL,Belgium,Bahrain,2022,0.008969093
@@ -651,7 +651,7 @@ BEL,Belgium,San Marino,2022,0
 BEL,Belgium,Cambodia,2022,0.037670189
 BEL,Belgium,Kiribati,2022,0
 AUT,Austria,Micronesia,2022,0
-AUT,Austria,Hong Kong (China),2022,0
+AUT,Austria,Hong Kong,2022,0
 AUT,Austria,South Africa,2022,0.101921183
 BEL,Belgium,Palestinian Authority or West Bank and Gaza Strip,2022,0.152474573
 BEL,Belgium,Oman,2022,0.01255673
@@ -660,7 +660,7 @@ BEL,Belgium,Poland,2022,0.403609163
 BEL,Belgium,Eritrea,2022,0.017938185
 BEL,Belgium,Niue,2022,0
 BEL,Belgium,Pakistan,2022,0.419753529
-BEL,Belgium,Türkiye,2022,1.130105656
+BEL,Belgium,Turkey,2022,1.130105656
 BEL,Belgium,Slovenia,2022,0.043051644
 BEL,Belgium,Slovak Republic,2022,0.102247655
 BEL,Belgium,Turkmenistan,2022,0.003587637
@@ -727,7 +727,7 @@ CAN,Canada,Nigeria,2022,2.798386163
 CAN,Canada,Slovak Republic,2022,0.024047239
 CAN,Canada,Turkmenistan,2022,0.003562554
 CAN,Canada,Anguilla,2022,0.002671915
-CAN,Canada,Türkiye,2022,0.693807391
+CAN,Canada,Turkey,2022,0.693807391
 CAN,Canada,Ecuador,2022,0.259175803
 CAN,Canada,British Virgin Islands,2022,0
 CAN,Canada,Antigua and Barbuda,2022,0.031172347
@@ -746,9 +746,9 @@ CAN,Canada,Bolivia,2022,0.030281709
 CAN,Canada,Kuwait,2022,0.161205568
 CAN,Canada,Saudi Arabia,2022,0.364271146
 CAN,Canada,Dominica,2022,0.015140854
-CAN,Canada,China (People’s Republic of),2022,21.68170361
+CAN,Canada,China,2022,21.68170361
 CAN,Canada,Oceania,2022,0.346458376
-CAN,Canada,Democratic People’s Republic of Korea,2022,0.008906385
+CAN,Canada,Korea,2022,0.008906385
 CAN,Canada,Iran,2022,3.188485825
 CAN,Canada,Malta,2022,0.002671915
 CAN,Canada,Libya,2022,0.069469803
@@ -768,7 +768,7 @@ CAN,Canada,Georgia,2022,0.003562554
 CAN,Canada,Cook Islands,2022,0
 CAN,Canada,Singapore,2022,0.130033221
 CAN,Canada,Bahrain,2022,0.024937878
-CAN,Canada,Macau (China),2022,0.046313202
+CAN,Canada,Macau,2022,0.046313202
 CAN,Canada,Papua New Guinea,2022,0
 CAN,Canada,Paraguay,2022,0.004453192
 CAN,Canada,Hungary,2022,0.020484685
@@ -805,7 +805,7 @@ CAN,Canada,Malaysia,2022,0.260066442
 CAN,Canada,Estonia,2022,0.006234469
 CAN,Canada,Equatorial Guinea,2022,0.002671915
 CAN,Canada,Samoa,2022,0
-CAN,Canada,Côte d’Ivoire,2022,0.618103118
+CAN,Canada,C�te d'Ivoire,2022,0.618103118
 CAN,Canada,Dominican Republic,2022,0.065907249
 CAN,Canada,Lithuania,2022,0.008015746
 CAN,Canada,France,2022,5.338487161
@@ -846,7 +846,7 @@ CAN,Canada,El Salvador,2022,0.08282938
 CAN,Canada,Burundi,2022,0.057000864
 CAN,Canada,Asia unspecified,2022,0.536164376
 CAN,Canada,Lebanon,2022,0.40345924
-CHL,Chile,Türkiye,2022,0.011286045
+CHL,Chile,Turkey,2022,0.011286045
 CHL,Chile,Slovenia,2022,0
 CHL,Chile,Switzerland,2022,0.02257209
 CHL,Chile,Ecuador,2022,8.024377857
@@ -871,9 +871,9 @@ CHL,Chile,Namibia,2022,0
 CHL,Chile,Saudi Arabia,2022,0
 CHL,Chile,Tajikistan,2022,0
 CHL,Chile,Somalia,2022,0
-CHL,Chile,China (People’s Republic of),2022,0.056430224
+CHL,Chile,China,2022,0.056430224
 CHL,Chile,Central African Republic,2022,0.005643022
-CHL,Chile,Democratic People’s Republic of Korea,2022,0
+CHL,Chile,Korea,2022,0
 CHL,Chile,Iran,2022,0.073359291
 CHL,Chile,Mauritania,2022,0
 CHL,Chile,Democratic Republic of the Congo,2022,0
@@ -906,7 +906,7 @@ CAN,Canada,United States,2022,2.80016744
 CAN,Canada,Ireland,2022,0.059672779
 CAN,Canada,Denmark,2022,0.021375324
 CAN,Canada,Holy See,2022,0
-CAN,Canada,Hong Kong (China),2022,0.847887851
+CAN,Canada,Hong Kong,2022,0.847887851
 CAN,Canada,Kiribati,2022,0
 CAN,Canada,South Africa,2022,0.102423427
 CAN,Canada,Nepal,2022,0.342005184
@@ -1026,7 +1026,7 @@ CHL,Chile,Bulgaria,2022,0
 CHL,Chile,United Kingdom,2022,0.062073246
 CHL,Chile,Guyana,2022,0
 CHL,Chile,Italy,2022,0.265222053
-CHL,Chile,Hong Kong (China),2022,0
+CHL,Chile,Hong Kong,2022,0
 CHL,Chile,Maldives,2022,0
 CHL,Chile,Belgium,2022,0.039501157
 CHL,Chile,United States,2022,0.197505784
@@ -1061,7 +1061,7 @@ CHL,Chile,Romania,2022,0.02257209
 CHL,Chile,Puerto Rico,2022,0
 CHL,Chile,Mali,2022,0
 CHL,Chile,Cook Islands,2022,0
-CHL,Chile,Macau (China),2022,0
+CHL,Chile,Macau,2022,0
 CHL,Chile,Armenia,2022,0
 CHL,Chile,Georgia,2022,0
 CHL,Chile,Singapore,2022,0
@@ -1104,7 +1104,7 @@ CHL,Chile,Malaysia,2022,0
 CHL,Chile,Tanzania,2022,0
 CHL,Chile,Lithuania,2022,0
 CHL,Chile,Samoa,2022,0
-CHL,Chile,Côte d’Ivoire,2022,0
+CHL,Chile,C�te d'Ivoire,2022,0
 CHL,Chile,Moldova,2022,0
 CHL,Chile,Dominican Republic,2022,0.541730151
 CHL,Chile,France,2022,0.208791829
@@ -1152,7 +1152,7 @@ COL,Colombia,Mauritius,2022,0
 COL,Colombia,Slovak Republic,2022,0.01835536
 COL,Colombia,Netherlands,2022,0.275330396
 COL,Colombia,Germany,2022,1.5969163
-COL,Colombia,China (People’s Republic of),2022,0.403817915
+COL,Colombia,China,2022,0.403817915
 COL,Colombia,Barbados,2022,0.01835536
 COL,Colombia,Bahamas,2022,0.01835536
 COL,Colombia,Benin,2022,0.01835536
@@ -1188,7 +1188,7 @@ COL,Colombia,Kazakhstan,2022,0
 COL,Colombia,Honduras,2022,1.303230543
 COL,Colombia,Burundi,2022,0
 COL,Colombia,Denmark,2022,0.03671072
-COL,Colombia,Democratic People’s Republic of Korea,2022,0.055066079
+COL,Colombia,Korea,2022,0.055066079
 COL,Colombia,Gibraltar,2022,0
 COL,Colombia,Timor-Leste,2022,0
 COL,Colombia,Palestinian Authority or West Bank and Gaza Strip,2022,0.01835536
@@ -1239,7 +1239,7 @@ COL,Colombia,Kosovo,2022,0
 COL,Colombia,Malaysia,2022,0.03671072
 COL,Colombia,Antigua and Barbuda,2022,0
 COL,Colombia,Palau,2022,0
-COL,Colombia,Côte d’Ivoire,2022,0
+COL,Colombia,C�te d'Ivoire,2022,0
 COL,Colombia,Botswana,2022,0
 COL,Colombia,Malawi,2022,0
 COL,Colombia,Uzbekistan,2022,0
@@ -1299,7 +1299,7 @@ COL,Colombia,Rwanda,2022,0
 CZE,Czechia,Benin,2022,0.014989975
 CZE,Czechia,Madagascar,2022,0
 CZE,Czechia,Ecuador,2022,0.063707396
-CZE,Czechia,Türkiye,2022,0.811332421
+CZE,Czechia,Turkey,2022,0.811332421
 CZE,Czechia,Slovak Republic,2022,40.22185164
 CZE,Czechia,Slovenia,2022,0.07307613
 CZE,Czechia,Norway,2022,0.348516929
@@ -1322,11 +1322,11 @@ CZE,Czechia,Somalia,2022,0
 CZE,Czechia,Burundi,2022,0
 CZE,Czechia,Saudi Arabia,2022,0.076823624
 CZE,Czechia,Bolivia,2022,0.026232457
-CZE,Czechia,China (People’s Republic of),2022,1.349097791
+CZE,Czechia,China,2022,1.349097791
 CZE,Czechia,Holy See,2022,0
 CZE,Czechia,Denmark,2022,0.061833649
 CZE,Czechia,Djibouti,2022,0
-CZE,Czechia,Democratic People’s Republic of Korea,2022,0
+CZE,Czechia,Korea,2022,0
 CZE,Czechia,Democratic Republic of the Congo,2022,0.007494988
 CZE,Czechia,Chile,2022,0.031853698
 CZE,Czechia,Zambia,2022,0.086192359
@@ -1339,13 +1339,13 @@ CZE,Czechia,Other countries unspecified,2022,0.367254399
 CZE,Czechia,United Arab Emirates,2022,0.011242482
 CZE,Czechia,Azerbaijan,2022,0.676422642
 CZE,Czechia,Libya,2022,0.026232457
-COL,Colombia,Türkiye,2022,0.275330396
+COL,Colombia,Turkey,2022,0.275330396
 COL,Colombia,Bulgaria,2022,0.01835536
 COL,Colombia,Slovenia,2022,0
 COL,Colombia,Latin America and the Caribbean unspecified,2022,0.642437592
 COL,Colombia,Czechia,2022,0.01835536
 COL,Colombia,Guyana,2022,0.01835536
-COL,Colombia,Hong Kong (China),2022,0
+COL,Colombia,Hong Kong,2022,0
 COL,Colombia,Maldives,2022,0
 COL,Colombia,Africa unspecified,2022,0
 COL,Colombia,Belgium,2022,0.128487518
@@ -1380,7 +1380,7 @@ COL,Colombia,Israel,2022,0.01835536
 COL,Colombia,Algeria,2022,0.03671072
 COL,Colombia,Bosnia and Herzegovina,2022,0
 COL,Colombia,Cook Islands,2022,0
-COL,Colombia,Macau (China),2022,0
+COL,Colombia,Macau,2022,0
 COL,Colombia,Portugal,2022,0.073421439
 COL,Colombia,Armenia,2022,0
 COL,Colombia,Mali,2022,0
@@ -1481,7 +1481,7 @@ CZE,Czechia,Sweden,2022,0.23234462
 CZE,Czechia,Latin America and the Caribbean,2022,1.009949596
 CZE,Czechia,South Africa,2022,0.054338661
 CZE,Czechia,Kiribati,2022,0
-CZE,Czechia,Hong Kong (China),2022,0.031853698
+CZE,Czechia,Hong Kong,2022,0.031853698
 CZE,Czechia,Mozambique,2022,0.009368735
 CZE,Czechia,Micronesia,2022,0
 CZE,Czechia,Nepal,2022,0.142404767
@@ -1508,7 +1508,7 @@ CZE,Czechia,Portugal,2022,0.387865615
 CZE,Czechia,Poland,2022,0.642695198
 CZE,Czechia,Romania,2022,0.266072064
 CZE,Czechia,Bosnia and Herzegovina,2022,0.166763477
-CZE,Czechia,Macau (China),2022,0
+CZE,Czechia,Macau,2022,0
 CZE,Czechia,Cook Islands,2022,0
 CZE,Czechia,Grenada,2022,0.001873747
 COL,Colombia,Latin America and the Caribbean,2022,88.27092511
@@ -1552,7 +1552,7 @@ CZE,Czechia,Uzbekistan,2022,0.449699264
 CZE,Czechia,Palau,2022,0
 CZE,Czechia,Kyrgyzstan,2022,0.603346512
 CZE,Czechia,Malaysia,2022,0.044969926
-CZE,Czechia,Côte d’Ivoire,2022,0.011242482
+CZE,Czechia,C�te d'Ivoire,2022,0.011242482
 CZE,Czechia,Samoa,2022,0
 CZE,Czechia,Viet Nam,2022,0.888156046
 CZE,Czechia,Cuba,2022,0.005621241
@@ -1611,7 +1611,7 @@ DNK,Denmark,Andorra,2022,0.006374502
 DNK,Denmark,Angola,2022,0
 DNK,Denmark,Ecuador,2022,0.089243028
 DNK,Denmark,Anguilla,2022,0
-DNK,Denmark,Türkiye,2022,0.484462151
+DNK,Denmark,Turkey,2022,0.484462151
 DNK,Denmark,Oceania,2022,0.627888446
 DNK,Denmark,Chile,2022,0.168924303
 DNK,Denmark,Bolivia,2022,0.012749004
@@ -1626,9 +1626,9 @@ DNK,Denmark,Somalia,2022,0.019123506
 DNK,Denmark,Europe,2022,78.86215139
 DNK,Denmark,El Salvador,2022,0.003187251
 DNK,Denmark,Saudi Arabia,2022,0.070119522
-DNK,Denmark,China (People’s Republic of),2022,5.284462151
+DNK,Denmark,China,2022,5.284462151
 DNK,Denmark,Burundi,2022,0
-DNK,Denmark,Democratic People’s Republic of Korea,2022,0.194422311
+DNK,Denmark,Korea,2022,0.194422311
 DNK,Denmark,Montserrat,2022,0
 DNK,Denmark,Democratic Republic of the Congo,2022,0.015936255
 DNK,Denmark,Comoros,2022,0
@@ -1686,7 +1686,7 @@ CZE,Czechia,Israel,2022,0.801963687
 DNK,Denmark,Malawi,2022,0.009561753
 DNK,Denmark,Lithuania,2022,2.211952191
 DNK,Denmark,Samoa,2022,0
-DNK,Denmark,Côte d’Ivoire,2022,0.012749004
+DNK,Denmark,C�te d'Ivoire,2022,0.012749004
 DNK,Denmark,France,2022,1.874103586
 DNK,Denmark,Dominican Republic,2022,0.006374502
 DNK,Denmark,South Sudan,2022,0
@@ -1737,7 +1737,7 @@ DNK,Denmark,Tunisia,2022,0.03187251
 DNK,Denmark,Greece,2022,2.380876494
 DNK,Denmark,Jordan,2022,0.06374502
 EST,Estonia,Switzerland,2022,0.177795338
-EST,Estonia,Türkiye,2022,2.824970367
+EST,Estonia,Turkey,2022,2.824970367
 EST,Estonia,Angola,2022,0
 EST,Estonia,Australia,2022,0.375345713
 EST,Estonia,Other countries unspecified,2022,0.23706045
@@ -1755,7 +1755,7 @@ EST,Estonia,Denmark,2022,0.1580403
 EST,Estonia,Iran,2022,2.765705255
 EST,Estonia,Bolivia,2022,0
 EST,Estonia,India,2022,4.08929277
-EST,Estonia,Democratic People’s Republic of Korea,2022,0
+EST,Estonia,Korea,2022,0
 EST,Estonia,Malta,2022,0.039510075
 EST,Estonia,Lao People’s Democratic Republic,2022,0
 EST,Estonia,Democratic Republic of the Congo,2022,0.019755038
@@ -1788,7 +1788,7 @@ DNK,Denmark,Latin America and the Caribbean,2022,2.227888446
 DNK,Denmark,Cabo Verde,2022,0.003187251
 DNK,Denmark,Belgium,2022,0.701195219
 DNK,Denmark,Sweden,2022,5.131474104
-DNK,Denmark,Hong Kong (China),2022,0
+DNK,Denmark,Hong Kong,2022,0
 DNK,Denmark,South Africa,2022,0.143426295
 DNK,Denmark,Mozambique,2022,0.012749004
 DNK,Denmark,Kiribati,2022,0
@@ -1812,7 +1812,7 @@ DNK,Denmark,Jamaica,2022,0.003187251
 DNK,Denmark,Poland,2022,4.803187251
 DNK,Denmark,Cook Islands,2022,0
 DNK,Denmark,Israel,2022,0.168924303
-DNK,Denmark,Macau (China),2022,0
+DNK,Denmark,Macau,2022,0
 DNK,Denmark,Portugal,2022,1.485258964
 DNK,Denmark,Puerto Rico,2022,0
 DNK,Denmark,Niger,2022,0
@@ -1892,7 +1892,7 @@ EST,Estonia,Iceland,2022,0.059265113
 EST,Estonia,Holy See,2022,0
 EST,Estonia,Germany,2022,1.797708416
 EST,Estonia,Luxembourg,2022,0
-EST,Estonia,China (People’s Republic of),2022,2.489134729
+EST,Estonia,China,2022,2.489134729
 EST,Estonia,Netherlands,2022,0.533386013
 EST,Estonia,Korea,2022,0.414855788
 EST,Estonia,Benin,2022,0
@@ -1915,7 +1915,7 @@ EST,Estonia,Slovenia,2022,0.039510075
 EST,Estonia,Sweden,2022,0.296325563
 EST,Estonia,Mozambique,2022,0
 EST,Estonia,South Africa,2022,0.217305413
-EST,Estonia,Hong Kong (China),2022,0.256815488
+EST,Estonia,Hong Kong,2022,0.256815488
 EST,Estonia,Nepal,2022,0.553141051
 EST,Estonia,Syrian Arab Republic,2022,0.039510075
 EST,Estonia,Niger,2022,0
@@ -1946,7 +1946,7 @@ EST,Estonia,Mali,2022,0.019755038
 EST,Estonia,Papua New Guinea,2022,0.019755038
 EST,Estonia,Bahrain,2022,0
 EST,Estonia,Armenia,2022,0.375345713
-EST,Estonia,Macau (China),2022,0
+EST,Estonia,Macau,2022,0
 EST,Estonia,Georgia,2022,2.054523904
 EST,Estonia,Saint Lucia,2022,0
 EST,Estonia,Cambodia,2022,0.059265113
@@ -1988,7 +1988,7 @@ EST,Estonia,Saudi Arabia,2022,0.098775188
 EST,Estonia,Monaco,2022,0
 EST,Estonia,Cuba,2022,0
 EST,Estonia,Sint Maarten,2022,0
-EST,Estonia,Côte d’Ivoire,2022,0
+EST,Estonia,C�te d'Ivoire,2022,0
 EST,Estonia,Tanzania,2022,0.059265113
 EST,Estonia,Moldova,2022,0.118530225
 EST,Estonia,Dominican Republic,2022,0.019755038
@@ -2006,7 +2006,7 @@ FIN,Finland,Africa,2022,9.214162994
 FIN,Finland,Cabo Verde,2022,0.003734967
 FIN,Finland,Chad,2022,0
 FIN,Finland,Grenada,2022,0
-FIN,Finland,Democratic People’s Republic of Korea,2022,0
+FIN,Finland,Korea,2022,0
 FIN,Finland,Iran,2022,3.264360947
 FIN,Finland,Holy See,2022,0
 FIN,Finland,Tajikistan,2022,0.014939867
@@ -2038,7 +2038,7 @@ FIN,Finland,Benin,2022,0.007469934
 FIN,Finland,Belize,2022,0
 FIN,Finland,Madagascar,2022,0.007469934
 FIN,Finland,Switzerland,2022,0.310002241
-FIN,Finland,Türkiye,2022,1.21012923
+FIN,Finland,Turkey,2022,1.21012923
 FIN,Finland,Bulgaria,2022,0.268917607
 FIN,Finland,Nigeria,2022,2.465078061
 FIN,Finland,Turkmenistan,2022,0.0112049
@@ -2061,7 +2061,7 @@ FIN,Finland,Dominican Republic,2022,0.029879734
 FIN,Finland,Japan,2022,0.556510047
 FIN,Finland,Kazakhstan,2022,0.354821842
 FIN,Finland,Bolivia,2022,0.044819601
-FIN,Finland,China (People’s Republic of),2022,8.437289908
+FIN,Finland,China,2022,8.437289908
 FIN,Finland,Honduras,2022,0.033614701
 FIN,Finland,Denmark,2022,0.235302906
 FIN,Finland,Oceania,2022,0.433256144
@@ -2123,7 +2123,7 @@ FIN,Finland,Estonia,2022,1.770374244
 FIN,Finland,Viet Nam,2022,6.812579368
 FIN,Finland,Guinea,2022,0.003734967
 FIN,Finland,Samoa,2022,0
-FIN,Finland,Côte d’Ivoire,2022,0.0112049
+FIN,Finland,C�te d'Ivoire,2022,0.0112049
 FIN,Finland,Moldova,2022,0.052289535
 FIN,Finland,Senegal,2022,0.0112049
 FIN,Finland,France,2022,1.841338612
@@ -2191,7 +2191,7 @@ FRA,France,El Salvador,2022,0.073181392
 FRA,France,Saudi Arabia,2022,0.205345894
 FRA,France,Denmark,2022,0.059593035
 FRA,France,Northern America,2022,1.563443508
-FRA,France,China (People’s Republic of),2022,8.829055376
+FRA,France,China,2022,8.829055376
 FIN,Finland,Malta,2022,0.048554568
 FIN,Finland,Barbados,2022,0.003734967
 FIN,Finland,Kenya,2022,0.971091357
@@ -2221,7 +2221,7 @@ FIN,Finland,Maldives,2022,0
 FIN,Finland,South Africa,2022,0.160603571
 FIN,Finland,Belgium,2022,0.496750579
 FIN,Finland,Sweden,2022,2.095316352
-FIN,Finland,Hong Kong (China),2022,0.041084634
+FIN,Finland,Hong Kong,2022,0.041084634
 FIN,Finland,Uruguay,2022,0.022409801
 FIN,Finland,Nepal,2022,3.499663853
 FIN,Finland,Micronesia,2022,0
@@ -2257,7 +2257,7 @@ FIN,Finland,Singapore,2022,0.108314036
 FIN,Finland,Papua New Guinea,2022,0.003734967
 FIN,Finland,Canada,2022,0.571449914
 FIN,Finland,Georgia,2022,0.052289535
-FIN,Finland,Macau (China),2022,0
+FIN,Finland,Macau,2022,0
 FIN,Finland,Hungary,2022,0.810487787
 FIN,Finland,Thailand,2022,0.227832972
 FIN,Finland,Paraguay,2022,0.014939867
@@ -2320,7 +2320,7 @@ FRA,France,Cyprus,2022,0.059667924
 FRA,France,Croatia,2022,0.048053425
 FRA,France,Austria,2022,0.134064041
 FRA,France,Liechtenstein,2022,0.001897831
-FRA,France,Democratic People’s Republic of Korea,2022,0.046155594
+FRA,France,Korea,2022,0.046155594
 FRA,France,Madagascar,2022,1.188991032
 FRA,France,Korea,2022,0.670164737
 FRA,France,Mauritius,2022,0.446073168
@@ -2338,7 +2338,7 @@ FRA,France,Brunei Darussalam,2022,0.004554795
 FRA,France,Belize,2022,0.00083516
 FRA,France,Benin,2022,1.573848974
 FRA,France,British Virgin Islands,2022,0
-FRA,France,Türkiye,2022,0.920279214
+FRA,France,Turkey,2022,0.920279214
 FRA,France,Slovak Republic,2022,0.073713012
 FRA,France,Barbados,2022,0.002809018
 FRA,France,Anguilla,2022,0
@@ -2380,7 +2380,7 @@ FRA,France,Portugal,2022,0.557960597
 FRA,France,Mali,2022,0.858085885
 FRA,France,Papua New Guinea,2022,0.001138699
 FRA,France,Armenia,2022,0.116397549
-FRA,France,Macau (China),2022,0
+FRA,France,Macau,2022,0
 FRA,France,Bahrain,2022,0.026418151
 FRA,France,Georgia,2022,0.110688114
 FRA,France,Thailand,2022,0.12465319
@@ -2426,7 +2426,7 @@ FRA,France,Equatorial Guinea,2022,0.019055477
 FRA,France,Malawi,2022,0.001138699
 FRA,France,Tanzania,2022,0.017991667
 FRA,France,Samoa,2022,0
-FRA,France,Côte d’Ivoire,2022,2.975339281
+FRA,France,C�te d'Ivoire,2022,2.975339281
 FRA,France,Moldova,2022,0.105830919
 FRA,France,Sao Tome and Principe,2022,0.004479337
 FRA,France,Turks and Caicos Islands,2022,0
@@ -2444,7 +2444,7 @@ DEU,Germany,Somalia,2022,0.005700505
 DEU,Germany,Cayman Islands,2022,0
 DEU,Germany,Northern America,2022,2.319857834
 DEU,Germany,Bermuda,2022,0
-DEU,Germany,Democratic People’s Republic of Korea,2022,0.041638474
+DEU,Germany,Korea,2022,0.041638474
 FRA,France,Egypt,2022,0.827689842
 FRA,France,Ghana,2022,0.129358901
 FRA,France,Eswatini,2022,0.001518265
@@ -2467,7 +2467,7 @@ DEU,Germany,Slovak Republic,2022,0.190347309
 DEU,Germany,Nigeria,2022,1.04467957
 DEU,Germany,Madagascar,2022,0.025280502
 DEU,Germany,United Kingdom,2022,1.369112679
-DEU,Germany,Türkiye,2022,3.551910537
+DEU,Germany,Turkey,2022,3.551910537
 DEU,Germany,Slovenia,2022,0.11624074
 DEU,Germany,Anguilla,2022,0
 DEU,Germany,Switzerland,2022,1.567886823
@@ -2489,7 +2489,7 @@ DEU,Germany,Iran,2022,2.892139003
 DEU,Germany,Lao People’s Democratic Republic,2022,0.002726329
 DEU,Germany,Ireland,2022,0.264206031
 DEU,Germany,Kazakhstan,2022,0.344508802
-DEU,Germany,China (People’s Republic of),2022,9.538680407
+DEU,Germany,China,2022,9.538680407
 DEU,Germany,United Arab Emirates,2022,0.243634642
 DEU,Germany,Chile,2022,0.409692842
 DEU,Germany,Algeria,2022,0.129376687
@@ -2517,7 +2517,7 @@ FRA,France,Czechia,2022,0.109923858
 FRA,France,Guyana,2022,0.005088692
 FRA,France,Italy,2022,3.687617915
 FRA,France,Sudan,2022,0.086998969
-FRA,France,Hong Kong (China),2022,0
+FRA,France,Hong Kong,2022,0
 FRA,France,Belgium,2022,0.937549629
 FRA,France,Costa Rica,2022,0.069460618
 FRA,France,Sweden,2022,0.145451028
@@ -2545,7 +2545,7 @@ DEU,Germany,Cuba,2022,0.044364803
 DEU,Germany,Monaco,2022,0.000991392
 DEU,Germany,Samoa,2022,0.000247848
 DEU,Germany,Moldova,2022,0.20943161
-DEU,Germany,Côte d’Ivoire,2022,0.057996446
+DEU,Germany,C�te d'Ivoire,2022,0.057996446
 DEU,Germany,Dominican Republic,2022,0.02304987
 DEU,Germany,France,2022,2.396938581
 DEU,Germany,Saint Vincent and the Grenadines,2022,0.000495696
@@ -2644,7 +2644,7 @@ DEU,Germany,Latin America and the Caribbean,2022,5.195886714
 DEU,Germany,Cabo Verde,2022,0.002726329
 DEU,Germany,Sweden,2022,0.190099461
 DEU,Germany,South Africa,2022,0.290477925
-DEU,Germany,Hong Kong (China),2022,0.098643528
+DEU,Germany,Hong Kong,2022,0.098643528
 DEU,Germany,Uruguay,2022,0.032963792
 DEU,Germany,Haiti,2022,0.007931138
 DEU,Germany,Saint Lucia,2022,0.000743544
@@ -2676,7 +2676,7 @@ DEU,Germany,Bosnia and Herzegovina,2022,0.304605265
 DEU,Germany,Mali,2022,0.009666074
 DEU,Germany,Singapore,2022,0.131359471
 DEU,Germany,Bahrain,2022,0.019579997
-DEU,Germany,Macau (China),2022,0.004709113
+DEU,Germany,Macau,2022,0.004709113
 DEU,Germany,Georgia,2022,0.486773588
 DEU,Germany,Ukraine,2022,1.568382519
 DEU,Germany,Canada,2022,0.330381463
@@ -2748,7 +2748,7 @@ GRC,Greece,Bermuda,2022,0
 GRC,Greece,Ecuador,2022,0
 GRC,Greece,Iceland,2022,0
 GRC,Greece,Germany,2022,4.943065148
-GRC,Greece,China (People’s Republic of),2022,0.261340302
+GRC,Greece,China,2022,0.261340302
 GRC,Greece,Cayman Islands,2022,0
 GRC,Greece,Luxembourg,2022,0.048534628
 GRC,Greece,Korea,2022,0.044801195
@@ -2762,7 +2762,7 @@ GRC,Greece,Madagascar,2022,0
 GRC,Greece,Brunei Darussalam,2022,0
 GRC,Greece,Benin,2022,0
 GRC,Greece,Turkmenistan,2022,0
-GRC,Greece,Türkiye,2022,0.496546575
+GRC,Greece,Turkey,2022,0.496546575
 GRC,Greece,Bulgaria,2022,1.172297928
 GRC,Greece,Switzerland,2022,0.033600896
 GRC,Greece,Anguilla,2022,0
@@ -2794,7 +2794,7 @@ GRC,Greece,Ukraine,2022,1.276834049
 GRC,Greece,Israel,2022,0.246406571
 GRC,Greece,Bosnia and Herzegovina,2022,0.029867463
 GRC,Greece,Cook Islands,2022,0
-GRC,Greece,Macau (China),2022,0
+GRC,Greece,Macau,2022,0
 GRC,Greece,Mali,2022,0
 GRC,Greece,Portugal,2022,0.044801195
 GRC,Greece,Spain,2022,0.190405077
@@ -2843,7 +2843,7 @@ GRC,Greece,Equatorial Guinea,2022,0
 GRC,Greece,Cuba,2022,0.02613403
 GRC,Greece,Monaco,2022,0
 GRC,Greece,Tanzania,2022,0.018667164
-GRC,Greece,Côte d’Ivoire,2022,0.014933732
+GRC,Greece,C�te d'Ivoire,2022,0.014933732
 GRC,Greece,Samoa,2022,0
 GRC,Greece,France,2022,0.481612843
 GRC,Greece,Dominican Republic,2022,0.011200299
@@ -2896,7 +2896,7 @@ HUN,Hungary,Brazil,2022,1.250930752
 HUN,Hungary,Brunei Darussalam,2022,0
 HUN,Hungary,Nigeria,2022,2.251178953
 HUN,Hungary,Turkmenistan,2022,0.094316207
-HUN,Hungary,Türkiye,2022,2.534127575
+HUN,Hungary,Turkey,2022,2.534127575
 HUN,Hungary,Ecuador,2022,0.389674857
 HUN,Hungary,Anguilla,2022,0
 HUN,Hungary,Switzerland,2022,0.220898486
@@ -2917,8 +2917,8 @@ HUN,Hungary,Ireland,2022,0.660213452
 HUN,Hungary,Oceania,2022,0.067014147
 HUN,Hungary,Burundi,2022,0.002482005
 HUN,Hungary,El Salvador,2022,0.007446016
-HUN,Hungary,China (People’s Republic of),2022,6.423430132
-HUN,Hungary,Democratic People’s Republic of Korea,2022,0.002482005
+HUN,Hungary,China,2022,6.423430132
+HUN,Hungary,Korea,2022,0.002482005
 HUN,Hungary,Democratic Republic of the Congo,2022,0.059568131
 HUN,Hungary,Burkina Faso,2022,0.002482005
 HUN,Hungary,Zambia,2022,0.017374038
@@ -2945,7 +2945,7 @@ GRC,Greece,South Africa,2022,0
 GRC,Greece,Maldives,2022,0
 GRC,Greece,Sweden,2022,0.112002987
 GRC,Greece,Uruguay,2022,0.011200299
-GRC,Greece,Hong Kong (China),2022,0
+GRC,Greece,Hong Kong,2022,0
 GRC,Greece,Nepal,2022,0
 GRC,Greece,Mozambique,2022,0
 GRC,Greece,Costa Rica,2022,0
@@ -2955,7 +2955,7 @@ GRC,Greece,Saint Lucia,2022,0
 GRC,Greece,Peru,2022,0.037334329
 GRC,Greece,Philippines,2022,0.037334329
 GRC,Greece,El Salvador,2022,0
-GRC,Greece,Democratic People’s Republic of Korea,2022,0
+GRC,Greece,Korea,2022,0
 GRC,Greece,Honduras,2022,0.003733433
 GRC,Greece,Montserrat,2022,0
 GRC,Greece,Sudan,2022,0.003733433
@@ -2973,7 +2973,7 @@ HUN,Hungary,Guinea,2022,0.064532142
 HUN,Hungary,Kyrgyzstan,2022,0.717299578
 HUN,Hungary,Moldova,2022,0.181186399
 HUN,Hungary,Uzbekistan,2022,0.245718541
-HUN,Hungary,Côte d’Ivoire,2022,0.009928022
+HUN,Hungary,C�te d'Ivoire,2022,0.009928022
 HUN,Hungary,Monaco,2022,0
 HUN,Hungary,Cuba,2022,0.004964011
 HUN,Hungary,Malawi,2022,0.004964011
@@ -3076,7 +3076,7 @@ HUN,Hungary,South Africa,2022,0.553487218
 HUN,Hungary,Sweden,2022,0.285430628
 HUN,Hungary,Uruguay,2022,0.012410027
 HUN,Hungary,Haiti,2022,0.007446016
-HUN,Hungary,Hong Kong (China),2022,0.014892033
+HUN,Hungary,Hong Kong,2022,0.014892033
 HUN,Hungary,Micronesia,2022,0
 HUN,Hungary,Nepal,2022,0.029784066
 HUN,Hungary,Syrian Arab Republic,2022,2.092330603
@@ -3104,7 +3104,7 @@ HUN,Hungary,Israel,2022,1.275750807
 HUN,Hungary,Cook Islands,2022,0
 HUN,Hungary,Romania,2022,6.867709109
 HUN,Hungary,Portugal,2022,0.687515513
-HUN,Hungary,Macau (China),2022,0.004964011
+HUN,Hungary,Macau,2022,0.004964011
 HUN,Hungary,Mali,2022,0.002482005
 HUN,Hungary,Canada,2022,0.501365103
 HUN,Hungary,Armenia,2022,0.049640109
@@ -3170,7 +3170,7 @@ ISL,Iceland,Austria,2022,0.66603235
 ISL,Iceland,Somalia,2022,0.047573739
 ISL,Iceland,Tajikistan,2022,0
 ISL,Iceland,Cayman Islands,2022,0
-ISL,Iceland,Democratic People’s Republic of Korea,2022,0
+ISL,Iceland,Korea,2022,0
 ISL,Iceland,Cyprus,2022,0
 ISL,Iceland,Lao People’s Democratic Republic,2022,0
 ISL,Iceland,Lesotho,2022,0
@@ -3197,7 +3197,7 @@ ISL,Iceland,Brazil,2022,0.523311132
 ISL,Iceland,Brunei Darussalam,2022,0
 ISL,Iceland,Turkmenistan,2022,0
 ISL,Iceland,Nigeria,2022,0.428163654
-ISL,Iceland,Türkiye,2022,0.523311132
+ISL,Iceland,Turkey,2022,0.523311132
 ISL,Iceland,Slovenia,2022,0.142721218
 ISL,Iceland,Switzerland,2022,0.856327307
 ISL,Iceland,Bulgaria,2022,0.237868696
@@ -3217,7 +3217,7 @@ ISL,Iceland,Tuvalu,2022,0
 ISL,Iceland,Mauritania,2022,0
 ISL,Iceland,Saudi Arabia,2022,0.095147479
 ISL,Iceland,Europe,2022,56.61274976
-ISL,Iceland,China (People’s Republic of),2022,2.521408183
+ISL,Iceland,China,2022,2.521408183
 ISL,Iceland,Iran,2022,2.093244529
 ISL,Iceland,Kazakhstan,2022,0.190294957
 ISL,Iceland,Holy See,2022,0
@@ -3231,7 +3231,7 @@ ISL,Iceland,Myanmar,2022,0
 ISL,Iceland,Equatorial Guinea,2022,0
 ISL,Iceland,Romania,2022,0.523311132
 ISL,Iceland,Cook Islands,2022,0
-ISL,Iceland,Macau (China),2022,0
+ISL,Iceland,Macau,2022,0
 ISL,Iceland,Bahrain,2022,0.047573739
 ISL,Iceland,Armenia,2022,0.047573739
 ISL,Iceland,Portugal,2022,0.475737393
@@ -3276,7 +3276,7 @@ ISL,Iceland,Viet Nam,2022,0.713606089
 ISL,Iceland,Uzbekistan,2022,0
 ISL,Iceland,Monaco,2022,0
 ISL,Iceland,Cuba,2022,0.047573739
-ISL,Iceland,Côte d’Ivoire,2022,0
+ISL,Iceland,C�te d'Ivoire,2022,0
 ISL,Iceland,Malawi,2022,0.095147479
 ISL,Iceland,Lithuania,2022,0.999048525
 ISL,Iceland,Samoa,2022,0
@@ -3336,7 +3336,7 @@ IRL,Ireland,Nigeria,2022,1.984609154
 IRL,Ireland,Switzerland,2022,0.412386318
 IRL,Ireland,Turkmenistan,2022,0.003682021
 IRL,Ireland,Madagascar,2022,0.003682021
-IRL,Ireland,Türkiye,2022,0.670127766
+IRL,Ireland,Turkey,2022,0.670127766
 IRL,Ireland,Bulgaria,2022,0.220921242
 IRL,Ireland,Equatorial Guinea,2022,0
 IRL,Ireland,Bolivia,2022,0.025774145
@@ -3378,7 +3378,7 @@ ISL,Iceland,Italy,2022,2.854424358
 ISL,Iceland,United States,2022,13.84395814
 ISL,Iceland,Tonga,2022,0
 ISL,Iceland,Sudan,2022,0
-ISL,Iceland,Hong Kong (China),2022,0.142721218
+ISL,Iceland,Hong Kong,2022,0.142721218
 ISL,Iceland,Cabo Verde,2022,0.047573739
 ISL,Iceland,Uruguay,2022,0
 ISL,Iceland,Denmark,2022,5.185537583
@@ -3415,7 +3415,7 @@ IRL,Ireland,Gambia,2022,0
 IRL,Ireland,Viet Nam,2022,0.592805332
 IRL,Ireland,Malawi,2022,0.077322435
 IRL,Ireland,Estonia,2022,0.044184248
-IRL,Ireland,Côte d’Ivoire,2022,0.011046062
+IRL,Ireland,C�te d'Ivoire,2022,0.011046062
 IRL,Ireland,Tanzania,2022,0.103096579
 IRL,Ireland,Moldova,2022,0.025774145
 IRL,Ireland,Samoa,2022,0
@@ -3475,8 +3475,8 @@ IRL,Ireland,Congo,2022,0
 IRL,Ireland,Mexico,2022,0.522846938
 IRL,Ireland,Europe,2022,27.90235281
 IRL,Ireland,Kuwait,2022,2.555322361
-IRL,Ireland,China (People’s Republic of),2022,13.28841268
-IRL,Ireland,Democratic People’s Republic of Korea,2022,0
+IRL,Ireland,China,2022,13.28841268
+IRL,Ireland,Korea,2022,0
 IRL,Ireland,Indonesia,2022,0.235649324
 IRL,Ireland,Iran,2022,0.603851394
 IRL,Ireland,Cyprus,2022,0.128870724
@@ -3506,7 +3506,7 @@ IRL,Ireland,Guyana,2022,0.003682021
 IRL,Ireland,Maldives,2022,0.025774145
 IRL,Ireland,Czechia,2022,0.460252587
 IRL,Ireland,Sweden,2022,0.324017821
-IRL,Ireland,Hong Kong (China),2022,0.438160462
+IRL,Ireland,Hong Kong,2022,0.438160462
 IRL,Ireland,Latin America and the Caribbean,2022,2.349129202
 IRL,Ireland,Micronesia,2022,0
 IRL,Ireland,South Africa,2022,0.589123311
@@ -3545,7 +3545,7 @@ IRL,Ireland,Puerto Rico,2022,0.007364041
 IRL,Ireland,Saint Lucia,2022,0.014728083
 IRL,Ireland,Niger,2022,0.003682021
 IRL,Ireland,Singapore,2022,0.983099525
-IRL,Ireland,Macau (China),2022,0.007364041
+IRL,Ireland,Macau,2022,0.007364041
 IRL,Ireland,Georgia,2022,0.05523031
 IRL,Ireland,Bahrain,2022,0.173054973
 IRL,Ireland,Armenia,2022,0.025774145
@@ -3596,10 +3596,10 @@ ISR,Israel,Mexico,2022,0.697974357
 ISR,Israel,Chad,2022,0.007586678
 ISR,Israel,Tonga,2022,0
 ISR,Israel,Belgium,2022,0.553827479
-ISR,Israel,China (People’s Republic of),2022,3.16364464
+ISR,Israel,China,2022,3.16364464
 ISR,Israel,Honduras,2022,0.045520067
 ISR,Israel,Denmark,2022,0.075866778
-ISR,Israel,Democratic People’s Republic of Korea,2022,0
+ISR,Israel,Korea,2022,0
 ISR,Israel,Malta,2022,0.007586678
 ISR,Israel,Kuwait,2022,0
 ISR,Israel,Indonesia,2022,0.007586678
@@ -3633,7 +3633,7 @@ ISR,Israel,Slovak Republic,2022,0.083453456
 ISR,Israel,Ecuador,2022,0.091040134
 ISR,Israel,Turkmenistan,2022,0.030346711
 ISR,Israel,Switzerland,2022,0.462787345
-ISR,Israel,Türkiye,2022,0.485547379
+ISR,Israel,Turkey,2022,0.485547379
 ISR,Israel,British Virgin Islands,2022,0.015173356
 IRL,Ireland,Greece,2022,0.519164918
 IRL,Ireland,Chad,2022,0
@@ -3712,7 +3712,7 @@ ISR,Israel,Malawi,2022,0.037933389
 ISR,Israel,Cuba,2022,0.037933389
 ISR,Israel,Monaco,2022,0
 ISR,Israel,Samoa,2022,0
-ISR,Israel,Côte d’Ivoire,2022,0
+ISR,Israel,C�te d'Ivoire,2022,0
 ISR,Israel,Dominican Republic,2022,0.007586678
 ISR,Israel,France,2022,9.187466808
 ISR,Israel,Turks and Caicos Islands,2022,0
@@ -3784,7 +3784,7 @@ ITA,Italy,Europe,2022,27.67549419
 ITA,Italy,Kazakhstan,2022,1.255197563
 ITA,Italy,Burundi,2022,0.0611478
 ITA,Italy,Saudi Arabia,2022,0.230138083
-ITA,Italy,China (People’s Republic of),2022,6.637315723
+ITA,Italy,China,2022,6.637315723
 ITA,Italy,Central African Republic,2022,0.005558891
 ITA,Italy,Libya,2022,0.245702977
 ITA,Italy,Timor-Leste,2022,0.002223556
@@ -3839,7 +3839,7 @@ ISR,Israel,Puerto Rico,2022,0.007586678
 ISR,Israel,Armenia,2022,0.060693422
 ISR,Israel,Ukraine,2022,4.476139898
 ISR,Israel,Bosnia and Herzegovina,2022,0
-ISR,Israel,Macau (China),2022,0
+ISR,Israel,Macau,2022,0
 ISR,Israel,Mali,2022,0
 ISR,Israel,Georgia,2022,0.174493589
 ISR,Israel,Cook Islands,2022,0
@@ -3902,7 +3902,7 @@ ITA,Italy,Uruguay,2022,0.056700687
 ITA,Italy,Serbia,2022,0.484735286
 ITA,Italy,Bosnia and Herzegovina,2022,0.141195829
 ITA,Italy,Djibouti,2022,0.01222956
-ITA,Italy,Democratic People’s Republic of Korea,2022,0.002223556
+ITA,Italy,Korea,2022,0.002223556
 ITA,Italy,Holy See,2022,0.007782447
 ITA,Italy,Indonesia,2022,0.256820759
 ITA,Italy,Iran,2022,7.585662509
@@ -3941,7 +3941,7 @@ ITA,Italy,Latin America and the Caribbean unspecified,2022,0
 ITA,Italy,Nepal,2022,0.102283592
 ITA,Italy,Maldives,2022,0.002223556
 ITA,Italy,Sweden,2022,0.125630934
-ITA,Italy,Hong Kong (China),2022,0.050030018
+ITA,Italy,Hong Kong,2022,0.050030018
 ITA,Italy,South Africa,2022,0.15231361
 ITA,Italy,Mozambique,2022,0.067818469
 ITA,Italy,Costa Rica,2022,0.126742712
@@ -3977,7 +3977,7 @@ ITA,Italy,Bahrain,2022,0.014453116
 ITA,Italy,Canada,2022,0.489182398
 ISR,Israel,Africa unspecified,2022,0.364160534
 ISR,Israel,Congo,2022,0
-ISR,Israel,Hong Kong (China),2022,0.045520067
+ISR,Israel,Hong Kong,2022,0.045520067
 ITA,Italy,Georgia,2022,0.244591199
 ITA,Italy,Armenia,2022,0.098948258
 ITA,Italy,Mongolia,2022,0.171213839
@@ -3996,7 +3996,7 @@ ITA,Italy,Haiti,2022,0.163431392
 ITA,Italy,Slovenia,2022,0.163431392
 ITA,Italy,Barbados,2022,0.006670669
 ITA,Italy,Anguilla,2022,0
-ITA,Italy,Türkiye,2022,4.200297957
+ITA,Italy,Turkey,2022,4.200297957
 ITA,Italy,Switzerland,2022,1.580948569
 ITA,Italy,Bangladesh,2022,0.411357926
 ITA,Italy,Iraq,2022,0.112289596
@@ -4014,7 +4014,7 @@ ITA,Italy,Viet Nam,2022,0.551441976
 ITA,Italy,Cuba,2022,0.282391657
 ITA,Italy,Cameroon,2022,2.197985458
 ITA,Italy,Kosovo,2022,0.160096058
-ITA,Italy,Côte d’Ivoire,2022,0.133413381
+ITA,Italy,C�te d'Ivoire,2022,0.133413381
 ITA,Italy,Moldova,2022,0.592577769
 ITA,Italy,Malawi,2022,0.020012007
 ITA,Italy,Uzbekistan,2022,0.520312187
@@ -4144,7 +4144,7 @@ JPN,Japan,Australia,2022,0.062218387
 JPN,Japan,Malawi,2022,0.026593343
 JPN,Japan,Turks and Caicos Islands,2022,0
 JPN,Japan,Cuba,2022,0.004515851
-ITA,Italy,Macau (China),2022,0
+ITA,Italy,Macau,2022,0
 ITA,Italy,Hungary,2022,0.245702977
 ITA,Italy,Singapore,2022,0.058924243
 JPN,Japan,Dominican Republic,2022,0.003512328
@@ -4215,7 +4215,7 @@ KOR,Korea,Saudi Arabia,2022,0.065704088
 KOR,Korea,Burundi,2022,0.049480857
 KOR,Korea,Other countries unspecified,2022,0
 KOR,Korea,Somalia,2022,0.010545101
-KOR,Korea,Democratic People’s Republic of Korea,2022,0
+KOR,Korea,Korea,2022,0
 KOR,Korea,Central African Republic,2022,0.000811162
 KOR,Korea,Azerbaijan,2022,0.067326411
 KOR,Korea,Libya,2022,0.009733939
@@ -4229,7 +4229,7 @@ KOR,Korea,Equatorial Guinea,2022,0.002433485
 KOR,Korea,Mauritania,2022,0.000811162
 KOR,Korea,United Arab Emirates,2022,0.050292018
 KOR,Korea,Democratic Republic of the Congo,2022,0.027579494
-JPN,Japan,Türkiye,2022,0.081285311
+JPN,Japan,Turkey,2022,0.081285311
 JPN,Japan,Switzerland,2022,0.036126805
 JPN,Japan,Barbados,2022,0.001505284
 JPN,Japan,Grenada,2022,0
@@ -4316,7 +4316,7 @@ KOR,Korea,Ghana,2022,0.192245295
 KOR,Korea,Vanuatu,2022,0.001622323
 JPN,Japan,Tanzania,2022,0.028098626
 JPN,Japan,Samoa,2022,0.005519373
-JPN,Japan,Côte d’Ivoire,2022,0.014049313
+JPN,Japan,C�te d'Ivoire,2022,0.014049313
 KOR,Korea,Rwanda,2022,0.099772875
 KOR,Korea,Guinea-Bissau,2022,0
 KOR,Korea,Zambia,2022,0.028390655
@@ -4356,7 +4356,7 @@ KOR,Korea,Djibouti,2022,0.000811162
 KOR,Korea,Iceland,2022,0.001622323
 KOR,Korea,Kenya,2022,0.103828683
 KOR,Korea,Norway,2022,0.050292018
-KOR,Korea,China (People’s Republic of),2022,48.74026606
+KOR,Korea,China,2022,48.74026606
 KOR,Korea,Cayman Islands,2022,0
 KOR,Korea,Luxembourg,2022,0.003244646
 KOR,Korea,Netherlands,2022,0.038935756
@@ -4374,7 +4374,7 @@ KOR,Korea,Africa unspecified,2022,0
 KOR,Korea,United States,2022,0.841174562
 KOR,Korea,Sweden,2022,0.041369241
 KOR,Korea,South Africa,2022,0.025957171
-KOR,Korea,Hong Kong (China),2022,0.354477612
+KOR,Korea,Hong Kong,2022,0.354477612
 KOR,Korea,Nepal,2022,1.850259572
 KOR,Korea,Mozambique,2022,0.010545101
 KOR,Korea,Paraguay,2022,0.023523686
@@ -4402,7 +4402,7 @@ KOR,Korea,Micronesia,2022,0
 JPN,Japan,Mexico,2022,0.12293149
 JPN,Japan,Curaçao,2022,0
 KOR,Korea,Cook Islands,2022,0
-KOR,Korea,Macau (China),2022,0.021901363
+KOR,Korea,Macau,2022,0.021901363
 KOR,Korea,Canada,2022,0.279039585
 KOR,Korea,Bahrain,2022,0.004055808
 KOR,Korea,Singapore,2022,0.081116158
@@ -4426,7 +4426,7 @@ KOR,Korea,Eritrea,2022,0.001622323
 KOR,Korea,Niue,2022,0
 KOR,Korea,Pakistan,2022,0.996917586
 KOR,Korea,Slovenia,2022,0.005678131
-KOR,Korea,Türkiye,2022,0.22550292
+KOR,Korea,Turkey,2022,0.22550292
 KOR,Korea,Switzerland,2022,0.03082414
 KOR,Korea,Bangladesh,2022,1.033419857
 KOR,Korea,Andorra,2022,0.000811162
@@ -4448,7 +4448,7 @@ KOR,Korea,Estonia,2022,0.007300454
 KOR,Korea,Bahamas,2022,0.002433485
 KOR,Korea,Palau,2022,0
 KOR,Korea,Kyrgyzstan,2022,0.279850746
-KOR,Korea,Côte d’Ivoire,2022,0.018656716
+KOR,Korea,C�te d'Ivoire,2022,0.018656716
 KOR,Korea,Samoa,2022,0.000811162
 KOR,Korea,Malawi,2022,0.01541207
 KOR,Korea,Uzbekistan,2022,6.669370539
@@ -4470,7 +4470,7 @@ LVA,Latvia,Northern America,2022,1.20285423
 LVA,Latvia,Bermuda,2022,0
 LVA,Latvia,Marshall Islands,2022,0
 LVA,Latvia,Lesotho,2022,0
-LVA,Latvia,Democratic People’s Republic of Korea,2022,0
+LVA,Latvia,Korea,2022,0
 LVA,Latvia,Croatia,2022,0.0509684
 LVA,Latvia,Luxembourg,2022,0.0509684
 LVA,Latvia,Malta,2022,0.02038736
@@ -4494,7 +4494,7 @@ LVA,Latvia,British Virgin Islands,2022,0.01019368
 LVA,Latvia,Benin,2022,0.01019368
 LVA,Latvia,Turkmenistan,2022,0.0509684
 LVA,Latvia,Nigeria,2022,0.193679918
-LVA,Latvia,Türkiye,2022,1.804281346
+LVA,Latvia,Turkey,2022,1.804281346
 LVA,Latvia,Slovak Republic,2022,0.01019368
 LVA,Latvia,Bulgaria,2022,0.04077472
 LVA,Latvia,Ecuador,2022,0
@@ -4513,7 +4513,7 @@ LVA,Latvia,Kazakhstan,2022,1.539245668
 LVA,Latvia,Somalia,2022,0.01019368
 LVA,Latvia,El Salvador,2022,0.01019368
 LVA,Latvia,Denmark,2022,0.387359837
-LVA,Latvia,China (People’s Republic of),2022,0.621814475
+LVA,Latvia,China,2022,0.621814475
 LVA,Latvia,Honduras,2022,0.01019368
 LVA,Latvia,India,2022,17.34964322
 LVA,Latvia,Europe,2022,48.23649337
@@ -4640,11 +4640,11 @@ LTU,Lithuania,Iran,2022,1.095410231
 LTU,Lithuania,Kazakhstan,2022,2.201774565
 LTU,Lithuania,Somalia,2022,0.032862307
 LTU,Lithuania,Bolivia,2022,0
-LTU,Lithuania,China (People’s Republic of),2022,2.070325337
+LTU,Lithuania,China,2022,2.070325337
 LTU,Lithuania,Honduras,2022,0.098586921
 LTU,Lithuania,Denmark,2022,0.339577172
 LTU,Lithuania,Djibouti,2022,0
-LTU,Lithuania,Democratic People’s Republic of Korea,2022,0
+LTU,Lithuania,Korea,2022,0
 LTU,Lithuania,Burundi,2022,0.010954102
 LTU,Lithuania,Croatia,2022,0.054770512
 LTU,Lithuania,Indonesia,2022,0.065724614
@@ -4673,7 +4673,7 @@ LVA,Latvia,Tonga,2022,0
 LVA,Latvia,United States,2022,0.886850153
 LVA,Latvia,Czechia,2022,0.03058104
 LVA,Latvia,Sweden,2022,6.666666667
-LVA,Latvia,Hong Kong (China),2022,0
+LVA,Latvia,Hong Kong,2022,0
 LVA,Latvia,South Africa,2022,0.081549439
 LVA,Latvia,Micronesia,2022,0
 LVA,Latvia,Uruguay,2022,0
@@ -4700,7 +4700,7 @@ LVA,Latvia,Israel,2022,0.693170234
 LVA,Latvia,Jamaica,2022,0.01019368
 LVA,Latvia,Afghanistan,2022,0.04077472
 LVA,Latvia,Romania,2022,0.04077472
-LVA,Latvia,Macau (China),2022,0
+LVA,Latvia,Macau,2022,0
 LVA,Latvia,Cook Islands,2022,0
 LVA,Latvia,Mali,2022,0.02038736
 LVA,Latvia,Ukraine,2022,9.327217125
@@ -4740,7 +4740,7 @@ LTU,Lithuania,Gabon,2022,0
 LTU,Lithuania,El Salvador,2022,0.032862307
 LTU,Lithuania,Fiji,2022,0
 LTU,Lithuania,Zimbabwe,2022,0.131449228
-LVA,Latvia,Côte d’Ivoire,2022,0.02038736
+LVA,Latvia,C�te d'Ivoire,2022,0.02038736
 LVA,Latvia,Iraq,2022,0.06116208
 LVA,Latvia,Malawi,2022,0
 LTU,Lithuania,Dominica,2022,0
@@ -4834,7 +4834,7 @@ LTU,Lithuania,Ukraine,2022,8.084127506
 LTU,Lithuania,Portugal,2022,1.007777413
 LTU,Lithuania,Bosnia and Herzegovina,2022,0.010954102
 LTU,Lithuania,Cook Islands,2022,0
-LTU,Lithuania,Macau (China),2022,0
+LTU,Lithuania,Macau,2022,0
 LTU,Lithuania,Singapore,2022,0.021908205
 LTU,Lithuania,Mali,2022,0
 LTU,Lithuania,Cambodia,2022,0.010954102
@@ -4859,7 +4859,7 @@ LTU,Lithuania,Poland,2022,0.89823639
 LTU,Lithuania,Pakistan,2022,1.336400482
 LTU,Lithuania,Nicaragua,2022,0.010954102
 LTU,Lithuania,Niue,2022,0
-LTU,Lithuania,Türkiye,2022,2.234636872
+LTU,Lithuania,Turkey,2022,2.234636872
 LTU,Lithuania,Andorra,2022,0
 LTU,Lithuania,Angola,2022,0.021908205
 LTU,Lithuania,Kosovo,2022,0.56961332
@@ -4879,7 +4879,7 @@ LTU,Lithuania,Kyrgyzstan,2022,0.251944353
 LTU,Lithuania,Viet Nam,2022,0.043816409
 LTU,Lithuania,Saudi Arabia,2022,0.262898455
 LTU,Lithuania,Guinea,2022,0.010954102
-LTU,Lithuania,Côte d’Ivoire,2022,0.010954102
+LTU,Lithuania,C�te d'Ivoire,2022,0.010954102
 LTU,Lithuania,Estonia,2022,0.273852558
 LTU,Lithuania,Australia,2022,0.208127944
 LTU,Lithuania,Malawi,2022,0
@@ -4931,7 +4931,7 @@ LUX,Luxembourg,Brunei Darussalam,2022,0
 LUX,Luxembourg,Belize,2022,0
 LUX,Luxembourg,Switzerland,2022,0.33286391
 LUX,Luxembourg,United Kingdom,2022,0.844962233
-LUX,Luxembourg,Türkiye,2022,0.99859173
+LUX,Luxembourg,Turkey,2022,0.99859173
 LUX,Luxembourg,Andorra,2022,0
 LUX,Luxembourg,Angola,2022,0
 LUX,Luxembourg,Ecuador,2022,0.076814748
@@ -4953,7 +4953,7 @@ LUX,Luxembourg,India,2022,3.021380105
 LUX,Luxembourg,Tajikistan,2022,0.051209832
 LUX,Luxembourg,Kazakhstan,2022,0.179234413
 LUX,Luxembourg,Somalia,2022,0
-LUX,Luxembourg,China (People’s Republic of),2022,2.483676866
+LUX,Luxembourg,China,2022,2.483676866
 LUX,Luxembourg,Europe,2022,72.2442709
 LUX,Luxembourg,Azerbaijan,2022,0.307258994
 LUX,Luxembourg,Libya,2022,0.051209832
@@ -4984,7 +4984,7 @@ LTU,Lithuania,Latin America and the Caribbean,2022,1.161134845
 LTU,Lithuania,Sweden,2022,4.611677073
 LTU,Lithuania,Micronesia,2022,0
 LTU,Lithuania,South Africa,2022,0.164311535
-LTU,Lithuania,Hong Kong (China),2022,0.098586921
+LTU,Lithuania,Hong Kong,2022,0.098586921
 LTU,Lithuania,Costa Rica,2022,0
 LTU,Lithuania,Mozambique,2022,0.010954102
 LTU,Lithuania,Syrian Arab Republic,2022,0.098586921
@@ -5009,7 +5009,7 @@ LUX,Luxembourg,Moldova,2022,0.256049161
 LUX,Luxembourg,Malawi,2022,0
 LUX,Luxembourg,Cuba,2022,0.128024581
 LUX,Luxembourg,Malaysia,2022,0.076814748
-LUX,Luxembourg,Côte d’Ivoire,2022,0.153629497
+LUX,Luxembourg,C�te d'Ivoire,2022,0.153629497
 LUX,Luxembourg,Estonia,2022,0.204839329
 LUX,Luxembourg,Guinea,2022,0.358468826
 LUX,Luxembourg,Samoa,2022,0
@@ -5075,7 +5075,7 @@ LUX,Luxembourg,Chad,2022,0.025604916
 LUX,Luxembourg,Maldives,2022,0
 LUX,Luxembourg,Honduras,2022,0.076814748
 LUX,Luxembourg,Oceania,2022,0.179234413
-LUX,Luxembourg,Democratic People’s Republic of Korea,2022,0
+LUX,Luxembourg,Korea,2022,0
 LUX,Luxembourg,Holy See,2022,0
 NLD,Netherlands,Iran,2022,0.380778032
 NLD,Netherlands,India,2022,2.04546148
@@ -5113,7 +5113,7 @@ LUX,Luxembourg,Sweden,2022,0.66572782
 LUX,Luxembourg,Sudan,2022,0
 LUX,Luxembourg,Belgium,2022,8.96172065
 LUX,Luxembourg,Latin America and the Caribbean,2022,3.91755217
-LUX,Luxembourg,Hong Kong (China),2022,0.051209832
+LUX,Luxembourg,Hong Kong,2022,0.051209832
 LUX,Luxembourg,Kiribati,2022,0
 LUX,Luxembourg,South Africa,2022,0.102419665
 LUX,Luxembourg,Uruguay,2022,0.025604916
@@ -5149,7 +5149,7 @@ LUX,Luxembourg,Singapore,2022,0.051209832
 LUX,Luxembourg,Papua New Guinea,2022,0
 LUX,Luxembourg,Bahrain,2022,0.025604916
 LUX,Luxembourg,Armenia,2022,0.204839329
-LUX,Luxembourg,Macau (China),2022,0
+LUX,Luxembourg,Macau,2022,0
 LUX,Luxembourg,Spain,2022,2.406862118
 LUX,Luxembourg,Cambodia,2022,0.076814748
 LUX,Luxembourg,Georgia,2022,0.128024581
@@ -5211,7 +5211,7 @@ NLD,Netherlands,Kuwait,2022,0.007322654
 NLD,Netherlands,Austria,2022,0.618764302
 NLD,Netherlands,Liechtenstein,2022,0.004271548
 NLD,Netherlands,Marshall Islands,2022,0
-NLD,Netherlands,Democratic People’s Republic of Korea,2022,0
+NLD,Netherlands,Korea,2022,0
 NLD,Netherlands,Cyprus,2022,0.573607933
 NLD,Netherlands,Central African Republic,2022,0
 NLD,Netherlands,Lao People’s Democratic Republic,2022,0.000610221
@@ -5222,7 +5222,7 @@ NLD,Netherlands,Germany,2022,14.9150267
 NLD,Netherlands,Luxembourg,2022,0.572997712
 NLD,Netherlands,Bermuda,2022,0
 NLD,Netherlands,Ecuador,2022,0.098855835
-NLD,Netherlands,China (People’s Republic of),2022,3.254309687
+NLD,Netherlands,China,2022,3.254309687
 NLD,Netherlands,Norway,2022,0.432646834
 NLD,Netherlands,Belarus,2022,0.059801678
 NLD,Netherlands,Cayman Islands,2022,0
@@ -5236,7 +5236,7 @@ NLD,Netherlands,Benin,2022,0.001220442
 NLD,Netherlands,Brunei Darussalam,2022,0.001220442
 NLD,Netherlands,Kenya,2022,0.057971014
 NLD,Netherlands,Brazil,2022,0.238596491
-NLD,Netherlands,Türkiye,2022,1.126468345
+NLD,Netherlands,Turkey,2022,1.126468345
 NLD,Netherlands,Slovenia,2022,0.265446224
 NLD,Netherlands,Slovak Republic,2022,0.670022883
 NLD,Netherlands,Switzerland,2022,0.511975591
@@ -5271,7 +5271,7 @@ NLD,Netherlands,Papua New Guinea,2022,0
 NLD,Netherlands,Israel,2022,0.061632342
 NLD,Netherlands,Cook Islands,2022,0
 NLD,Netherlands,Ukraine,2022,0.466209001
-NLD,Netherlands,Macau (China),2022,0
+NLD,Netherlands,Macau,2022,0
 NLD,Netherlands,Mali,2022,0.000610221
 NLD,Netherlands,Spain,2022,2.85583524
 NLD,Netherlands,Armenia,2022,0.034782609
@@ -5311,7 +5311,7 @@ NLD,Netherlands,Samoa,2022,0
 NLD,Netherlands,Viet Nam,2022,0.738367658
 NLD,Netherlands,Iraq,2022,0.03051106
 NLD,Netherlands,Cameroon,2022,0.046376812
-NLD,Netherlands,Côte d’Ivoire,2022,0.002440885
+NLD,Netherlands,C�te d'Ivoire,2022,0.002440885
 NLD,Netherlands,Moldova,2022,0.067124333
 NLD,Netherlands,Turks and Caicos Islands,2022,0
 NLD,Netherlands,Cuba,2022,0.009763539
@@ -5362,7 +5362,7 @@ NZL,New Zealand,Nigeria,2022,0.342661241
 NZL,New Zealand,Turkmenistan,2022,0
 NZL,New Zealand,Switzerland,2022,0.074834064
 NZL,New Zealand,Slovak Republic,2022,0
-NZL,New Zealand,Türkiye,2022,0.098465874
+NZL,New Zealand,Turkey,2022,0.098465874
 NZL,New Zealand,Brazil,2022,0.684830079
 NZL,New Zealand,Bangladesh,2022,0.428115663
 NZL,New Zealand,Andorra,2022,0
@@ -5383,9 +5383,9 @@ NZL,New Zealand,El Salvador,2022,0.00787727
 NZL,New Zealand,Burundi,2022,0
 NZL,New Zealand,Denmark,2022,0.051202254
 NZL,New Zealand,Bolivia,2022,0.011815905
-NZL,New Zealand,China (People’s Republic of),2022,41.1884151
+NZL,New Zealand,China,2022,41.1884151
 NZL,New Zealand,Oceania,2022,12.25900626
-NZL,New Zealand,Democratic People’s Republic of Korea,2022,0
+NZL,New Zealand,Korea,2022,0
 NZL,New Zealand,Burkina Faso,2022,0
 NZL,New Zealand,Zambia,2022,0.003938635
 NZL,New Zealand,Comoros,2022,0
@@ -5418,7 +5418,7 @@ NLD,Netherlands,South Africa,2022,0.216628528
 NLD,Netherlands,Belgium,2022,2.896720061
 NLD,Netherlands,Sweden,2022,0.54187643
 NLD,Netherlands,Nepal,2022,0.056140351
-NLD,Netherlands,Hong Kong (China),2022,0
+NLD,Netherlands,Hong Kong,2022,0
 NLD,Netherlands,Kiribati,2022,0
 NLD,Netherlands,Haiti,2022,0.000610221
 NLD,Netherlands,Mozambique,2022,0.018916857
@@ -5435,7 +5435,7 @@ NZL,New Zealand,Argentina,2022,0.095620215
 NZL,New Zealand,Palau,2022,0.003938635
 NZL,New Zealand,Guinea,2022,0
 NZL,New Zealand,Kyrgyzstan,2022,0
-NZL,New Zealand,Côte d’Ivoire,2022,0
+NZL,New Zealand,C�te d'Ivoire,2022,0
 NZL,New Zealand,Viet Nam,2022,3.438886575
 NZL,New Zealand,Cameroon,2022,0.03150908
 NZL,New Zealand,Saudi Arabia,2022,0.303274892
@@ -5541,7 +5541,7 @@ NZL,New Zealand,Maldives,2022,0.098465874
 NZL,New Zealand,South Africa,2022,0.517602092
 NZL,New Zealand,Sweden,2022,0.118159049
 NZL,New Zealand,Micronesia,2022,0
-NZL,New Zealand,Hong Kong (China),2022,0
+NZL,New Zealand,Hong Kong,2022,0
 NZL,New Zealand,Nepal,2022,0.732994261
 NZL,New Zealand,Czechia,2022,0.035447715
 NZL,New Zealand,Syrian Arab Republic,2022,0.011815905
@@ -5570,7 +5570,7 @@ NZL,New Zealand,Ukraine,2022,0.027570445
 NZL,New Zealand,Bosnia and Herzegovina,2022,0
 NZL,New Zealand,Israel,2022,0.047263619
 NZL,New Zealand,Mali,2022,0
-NZL,New Zealand,Macau (China),2022,0
+NZL,New Zealand,Macau,2022,0
 NZL,New Zealand,Cook Islands,2022,0
 NZL,New Zealand,Singapore,2022,0.949211025
 NZL,New Zealand,Georgia,2022,0.011815905
@@ -5657,7 +5657,7 @@ NOR,Norway,Barbados,2022,0
 NOR,Norway,Madagascar,2022,0.082837563
 NOR,Norway,Brazil,2022,1.242563446
 NOR,Norway,Benin,2022,0.007530688
-NOR,Norway,Türkiye,2022,1.739588824
+NOR,Norway,Turkey,2022,1.739588824
 NOR,Norway,Bulgaria,2022,0.263574064
 NOR,Norway,Nigeria,2022,1.634159199
 NOR,Norway,Turkmenistan,2022,0
@@ -5684,9 +5684,9 @@ NOR,Norway,Japan,2022,0.331350252
 NOR,Norway,Other countries unspecified,2022,2.462534829
 NOR,Norway,Iran,2022,5.971835229
 NOR,Norway,Saudi Arabia,2022,0.218389939
-NOR,Norway,China (People’s Republic of),2022,6.363430981
+NOR,Norway,China,2022,6.363430981
 NOR,Norway,Honduras,2022,0.03012275
-NOR,Norway,Democratic People’s Republic of Korea,2022,0.007530688
+NOR,Norway,Korea,2022,0.007530688
 NOR,Norway,Mauritius,2022,0.03012275
 NOR,Norway,Montserrat,2022,0
 NOR,Norway,Kuwait,2022,0.067776188
@@ -5701,7 +5701,7 @@ NOR,Norway,Poland,2022,1.438361322
 NOR,Norway,Romania,2022,0.587393629
 NOR,Norway,Bosnia and Herzegovina,2022,0.165675126
 NOR,Norway,Mali,2022,0
-NOR,Norway,Macau (China),2022,0
+NOR,Norway,Macau,2022,0
 NOR,Norway,Cook Islands,2022,0
 NOR,Norway,Bahrain,2022,0.007530688
 NOR,Norway,Armenia,2022,0.037653438
@@ -5730,7 +5730,7 @@ NOR,Norway,Slovenia,2022,0.075306876
 NOR,Norway,Kosovo,2022,0.112960313
 NOR,Norway,Monaco,2022,0
 NOR,Norway,Antigua and Barbuda,2022,0
-NOR,Norway,Côte d’Ivoire,2022,0
+NOR,Norway,C�te d'Ivoire,2022,0
 NOR,Norway,Malaysia,2022,0.150613751
 NOR,Norway,Uzbekistan,2022,0.158144439
 NOR,Norway,Estonia,2022,0.173205814
@@ -5782,7 +5782,7 @@ NOR,Norway,El Salvador,2022,0.015061375
 POL,Poland,Austria,2022,0.050135693
 POL,Poland,Iceland,2022,0.015258689
 POL,Poland,Korea,2022,0.094821855
-POL,Poland,China (People’s Republic of),2022,1.458294732
+POL,Poland,China,2022,1.458294732
 POL,Poland,Cayman Islands,2022,0
 POL,Poland,Netherlands,2022,0.074113634
 POL,Poland,Belize,2022,0.002179813
@@ -5798,7 +5798,7 @@ POL,Poland,Ecuador,2022,0.082832885
 POL,Poland,Brunei Darussalam,2022,0
 POL,Poland,Slovenia,2022,0.013078877
 POL,Poland,Anguilla,2022,0
-POL,Poland,Türkiye,2022,2.467548038
+POL,Poland,Turkey,2022,2.467548038
 POL,Poland,Japan,2022,0.088282417
 POL,Poland,Equatorial Guinea,2022,0
 POL,Poland,Other countries unspecified,2022,10.05765605
@@ -5817,7 +5817,7 @@ POL,Poland,Northern America,2022,1.488812111
 POL,Poland,Somalia,2022,0.008719251
 POL,Poland,Europe,2022,59.12415124
 POL,Poland,Central African Republic,2022,0.005449532
-POL,Poland,Democratic People’s Republic of Korea,2022,0.007629345
+POL,Poland,Korea,2022,0.007629345
 POL,Poland,Democratic Republic of the Congo,2022,0.083922791
 POL,Poland,Chile,2022,0.018528408
 POL,Poland,Zambia,2022,0.038146723
@@ -5841,7 +5841,7 @@ NOR,Norway,Latin America and the Caribbean,2022,4.134347466
 NOR,Norway,Italy,2022,2.21402214
 NOR,Norway,Guyana,2022,0
 NOR,Norway,United States,2022,3.373748023
-NOR,Norway,Hong Kong (China),2022,0.165675126
+NOR,Norway,Hong Kong,2022,0.165675126
 NOR,Norway,Mexico,2022,0.835906318
 NOR,Norway,Sweden,2022,5.188643723
 NOR,Norway,South Africa,2022,0.39912644
@@ -5872,7 +5872,7 @@ POL,Poland,Moldova,2022,0.11444017
 POL,Poland,Iraq,2022,0.256127999
 POL,Poland,Malawi,2022,0.008719251
 POL,Poland,Guinea,2022,0.010899064
-POL,Poland,Côte d’Ivoire,2022,0.01198897
+POL,Poland,C�te d'Ivoire,2022,0.01198897
 POL,Poland,Viet Nam,2022,0.480648712
 POL,Poland,Cuba,2022,0.004359626
 POL,Poland,Samoa,2022,0
@@ -5970,7 +5970,7 @@ POL,Poland,United States,2022,1.067018343
 POL,Poland,Mozambique,2022,0.097001668
 POL,Poland,Czechia,2022,0.975466207
 POL,Poland,Costa Rica,2022,0.010899064
-POL,Poland,Hong Kong (China),2022,0.021798128
+POL,Poland,Hong Kong,2022,0.021798128
 POL,Poland,Belgium,2022,0.085012697
 POL,Poland,Latin America and the Caribbean,2022,0.801081187
 POL,Poland,Maldives,2022,0.001089906
@@ -5999,7 +5999,7 @@ POL,Poland,Romania,2022,0.078473259
 POL,Poland,Israel,2022,0.262667437
 POL,Poland,Bosnia and Herzegovina,2022,0.007629345
 POL,Poland,Cook Islands,2022,0
-POL,Poland,Macau (China),2022,0.002179813
+POL,Poland,Macau,2022,0.002179813
 POL,Poland,Saint Lucia,2022,0
 POL,Poland,Mali,2022,0.021798128
 POL,Poland,Ukraine,2022,36.03993417
@@ -6057,7 +6057,7 @@ PRT,Portugal,Morocco,2022,0.228383685
 PRT,Portugal,Africa,2022,39.80086545
 PRT,Portugal,North Macedonia,2022,0.010016828
 PRT,Portugal,Denmark,2022,0.042070679
-PRT,Portugal,Democratic People’s Republic of Korea,2022,0
+PRT,Portugal,Korea,2022,0
 PRT,Portugal,Iran,2022,1.131901595
 PRT,Portugal,Lesotho,2022,0
 PRT,Portugal,Mauritius,2022,0.016026925
@@ -6114,7 +6114,7 @@ PRT,Portugal,Tajikistan,2022,0
 PRT,Portugal,Somalia,2022,0.008013463
 PRT,Portugal,Kuwait,2022,0.008013463
 PRT,Portugal,Burundi,2022,0.002003366
-PRT,Portugal,China (People’s Republic of),2022,1.885167081
+PRT,Portugal,China,2022,1.885167081
 PRT,Portugal,Holy See,2022,0
 PRT,Portugal,Colombia,2022,0.454764004
 PRT,Portugal,Chile,2022,0.144242327
@@ -6147,7 +6147,7 @@ PRT,Portugal,Kiribati,2022,0
 PRT,Portugal,Nicaragua,2022,0.006010097
 PRT,Portugal,Pakistan,2022,0.270454363
 PRT,Portugal,Bermuda,2022,0
-PRT,Portugal,Türkiye,2022,0.248417341
+PRT,Portugal,Turkey,2022,0.248417341
 PRT,Portugal,British Virgin Islands,2022,0
 PRT,Portugal,Andorra,2022,0.030050485
 PRT,Portugal,Argentina,2022,0.10617838
@@ -6170,7 +6170,7 @@ PRT,Portugal,Uzbekistan,2022,0.008013463
 PRT,Portugal,Malaysia,2022,0.030050485
 PRT,Portugal,France,2022,5.605417101
 PRT,Portugal,Equatorial Guinea,2022,0.038063947
-PRT,Portugal,Côte d’Ivoire,2022,0.008013463
+PRT,Portugal,C�te d'Ivoire,2022,0.008013463
 PRT,Portugal,Tanzania,2022,0.022037022
 PRT,Portugal,Samoa,2022,0
 PRT,Portugal,Moldova,2022,0.034057216
@@ -6228,9 +6228,9 @@ SVK,Slovak Republic,Dominican Republic,2022,0.005989459
 SVK,Slovak Republic,Kazakhstan,2022,1.503354097
 SVK,Slovak Republic,Europe,2022,89.61427887
 SVK,Slovak Republic,Somalia,2022,0
-SVK,Slovak Republic,China (People’s Republic of),2022,0.245567801
+SVK,Slovak Republic,China,2022,0.245567801
 SVK,Slovak Republic,Denmark,2022,0.023957834
-SVK,Slovak Republic,Democratic People’s Republic of Korea,2022,0
+SVK,Slovak Republic,Korea,2022,0
 SVK,Slovak Republic,Iran,2022,1.413512218
 SVK,Slovak Republic,El Salvador,2022,0.005989459
 SVK,Slovak Republic,Honduras,2022,0
@@ -6272,7 +6272,7 @@ PRT,Portugal,Bolivia,2022,0.03205385
 PRT,Portugal,Other countries unspecified,2022,0
 PRT,Portugal,El Salvador,2022,0.018030291
 PRT,Portugal,South Africa,2022,0.310521676
-PRT,Portugal,Hong Kong (China),2022,0.010016828
+PRT,Portugal,Hong Kong,2022,0.010016828
 PRT,Portugal,Costa Rica,2022,0.038063947
 PRT,Portugal,Haiti,2022,0.004006731
 PRT,Portugal,Panama,2022,0.050084141
@@ -6295,7 +6295,7 @@ PRT,Portugal,Ukraine,2022,0.274461095
 PRT,Portugal,Israel,2022,0.030050485
 PRT,Portugal,Bosnia and Herzegovina,2022,0.012020194
 PRT,Portugal,Mali,2022,0
-PRT,Portugal,Macau (China),2022,0.490824585
+PRT,Portugal,Macau,2022,0.490824585
 PRT,Portugal,Armenia,2022,0.026043754
 PRT,Portugal,Papua New Guinea,2022,0
 PRT,Portugal,Georgia,2022,0.020033657
@@ -6323,7 +6323,7 @@ SVK,Slovak Republic,Kyrgyzstan,2022,0.017968376
 SVK,Slovak Republic,Estonia,2022,0.017968376
 SVK,Slovak Republic,Botswana,2022,0
 SVK,Slovak Republic,Moldova,2022,0.113799713
-SVK,Slovak Republic,Côte d’Ivoire,2022,0.011978917
+SVK,Slovak Republic,C�te d'Ivoire,2022,0.011978917
 SVK,Slovak Republic,Monaco,2022,0
 SVK,Slovak Republic,Viet Nam,2022,0.149736464
 SVK,Slovak Republic,Malawi,2022,0
@@ -6383,7 +6383,7 @@ SVK,Slovak Republic,Brazil,2022,0.071873503
 SVK,Slovak Republic,Ecuador,2022,0.017968376
 SVK,Slovak Republic,Turkmenistan,2022,0.023957834
 SVK,Slovak Republic,Brunei Darussalam,2022,0
-SVK,Slovak Republic,Türkiye,2022,0.395304264
+SVK,Slovak Republic,Turkey,2022,0.395304264
 SVK,Slovak Republic,Antigua and Barbuda,2022,0
 SVK,Slovak Republic,Switzerland,2022,0.035936751
 SVK,Slovak Republic,British Virgin Islands,2022,0
@@ -6394,7 +6394,7 @@ SVK,Slovak Republic,Slovenia,2022,0.023957834
 SVK,Slovak Republic,Pakistan,2022,0.077862961
 SVK,Slovak Republic,Panama,2022,0
 SVK,Slovak Republic,Belgium,2022,0.029947293
-SVK,Slovak Republic,Hong Kong (China),2022,0.005989459
+SVK,Slovak Republic,Hong Kong,2022,0.005989459
 SVK,Slovak Republic,South Africa,2022,0.017968376
 SVK,Slovak Republic,Uruguay,2022,0
 SVK,Slovak Republic,Costa Rica,2022,0
@@ -6420,7 +6420,7 @@ SVK,Slovak Republic,Romania,2022,0.239578342
 SVK,Slovak Republic,Papua New Guinea,2022,0
 SVK,Slovak Republic,Bosnia and Herzegovina,2022,0.149736464
 SVK,Slovak Republic,Mali,2022,0
-SVK,Slovak Republic,Macau (China),2022,0
+SVK,Slovak Republic,Macau,2022,0
 SVK,Slovak Republic,Israel,2022,1.599185434
 SVK,Slovak Republic,Cook Islands,2022,0
 SVK,Slovak Republic,Puerto Rico,2022,0
@@ -6481,7 +6481,7 @@ SVK,Slovak Republic,Liberia,2022,0
 SVK,Slovak Republic,United States,2022,0.215620508
 SVK,Slovak Republic,Maldives,2022,0
 ESP,Spain,Morocco,2022,4.075600925
-ESP,Spain,Democratic People’s Republic of Korea,2022,0.011996685
+ESP,Spain,Korea,2022,0.011996685
 ESP,Spain,Tajikistan,2022,0.005453038
 ESP,Spain,Holy See,2022,0.001090608
 ESP,Spain,Marshall Islands,2022,0
@@ -6503,7 +6503,7 @@ ESP,Spain,Mauritius,2022,0.022902761
 ESP,Spain,Iceland,2022,0.037080661
 ESP,Spain,Central African Republic,2022,0.004362431
 ESP,Spain,Ecuador,2022,7.086768748
-ESP,Spain,China (People’s Republic of),2022,3.914190987
+ESP,Spain,China,2022,3.914190987
 ESP,Spain,Norway,2022,0.434061859
 ESP,Spain,Germany,2022,2.505125856
 ESP,Spain,Netherlands,2022,0.55620992
@@ -6520,7 +6520,7 @@ ESP,Spain,Brunei Darussalam,2022,0.001090608
 ESP,Spain,Brazil,2022,2.213933604
 ESP,Spain,Slovak Republic,2022,0.118876238
 ESP,Spain,Switzerland,2022,0.536578982
-ESP,Spain,Türkiye,2022,0.426427605
+ESP,Spain,Turkey,2022,0.426427605
 ESP,Spain,Libya,2022,0.025083977
 ESP,Spain,United Arab Emirates,2022,0.323910483
 ESP,Spain,Equatorial Guinea,2022,0.281376783
@@ -6591,7 +6591,7 @@ ESP,Spain,Kosovo,2022,0
 ESP,Spain,Palau,2022,0
 ESP,Spain,Guinea,2022,0.034899446
 ESP,Spain,Kyrgyzstan,2022,0.015268508
-ESP,Spain,Côte d’Ivoire,2022,0.038171269
+ESP,Spain,C�te d'Ivoire,2022,0.038171269
 ESP,Spain,Viet Nam,2022,0.102517123
 ESP,Spain,Cameroon,2022,0.047986738
 ESP,Spain,Uzbekistan,2022,0.016359115
@@ -6663,8 +6663,8 @@ SWE,Sweden,Japan,2022,0.289732772
 SWE,Sweden,Europe,2022,35.19154995
 SWE,Sweden,Somalia,2022,0.016905227
 SWE,Sweden,Burundi,2022,0.005897926
-SWE,Sweden,China (People’s Republic of),2022,8.353241104
-SWE,Sweden,Democratic People’s Republic of Korea,2022,0
+SWE,Sweden,China,2022,8.353241104
+SWE,Sweden,Korea,2022,0
 SWE,Sweden,Myanmar,2022,0.058660298
 SWE,Sweden,Burkina Faso,2022,0.0079622
 SWE,Sweden,Democratic Republic of the Congo,2022,0.009062745
@@ -6718,7 +6718,7 @@ ESP,Spain,Colombia,2022,9.041137722
 ESP,Spain,Poland,2022,0.486411028
 ESP,Spain,Africa unspecified,2022,0.011996685
 ESP,Spain,Romania,2022,1.485407669
-ESP,Spain,Macau (China),2022,0.006543646
+ESP,Spain,Macau,2022,0.006543646
 ESP,Spain,Mali,2022,0.007634254
 ESP,Spain,Ukraine,2022,0.422065175
 ESP,Spain,Bosnia and Herzegovina,2022,0.021812154
@@ -6818,7 +6818,7 @@ SWE,Sweden,British Virgin Islands,2022,0
 SWE,Sweden,Switzerland,2022,0.437758011
 SWE,Sweden,Ecuador,2022,0.149120624
 SWE,Sweden,Brunei Darussalam,2022,0
-SWE,Sweden,Türkiye,2022,1.095733518
+SWE,Sweden,Turkey,2022,1.095733518
 SWE,Sweden,United Kingdom,2022,1.219250009
 SWE,Sweden,Iraq,2022,0.249105021
 SWE,Sweden,Namibia,2022,0.012833361
@@ -6845,7 +6845,7 @@ SWE,Sweden,Portugal,2022,0.585712386
 SWE,Sweden,Jamaica,2022,0.0150725
 SWE,Sweden,Spain,2022,2.130371393
 SWE,Sweden,Algeria,2022,0.060555378
-SWE,Sweden,Macau (China),2022,0
+SWE,Sweden,Macau,2022,0
 SWE,Sweden,Cook Islands,2022,0
 SWE,Sweden,Ukraine,2022,0.374613147
 SWE,Sweden,Bosnia and Herzegovina,2022,0.125632851
@@ -6862,7 +6862,7 @@ SWE,Sweden,Bahrain,2022,0.020642741
 SWE,Sweden,San Marino,2022,0
 SWE,Sweden,Canada,2022,0.496660628
 SWE,Sweden,Kiribati,2022,0
-ESP,Spain,Hong Kong (China),2022,0
+ESP,Spain,Hong Kong,2022,0
 ESP,Spain,Mozambique,2022,0.051258561
 ESP,Spain,Micronesia,2022,0
 SWE,Sweden,Haiti,2022,0.005897926
@@ -6896,7 +6896,7 @@ SWE,Sweden,Botswana,2022,0.011613582
 SWE,Sweden,Moldova,2022,0.102369611
 SWE,Sweden,Malawi,2022,0.055630517
 SWE,Sweden,Uzbekistan,2022,0.032927833
-SWE,Sweden,Côte d’Ivoire,2022,0.009731578
+SWE,Sweden,C�te d'Ivoire,2022,0.009731578
 SWE,Sweden,Monaco,2022,0.008846889
 SWE,Sweden,Equatorial Guinea,2022,0.002948963
 SWE,Sweden,Cuba,2022,0.03623416
@@ -6955,11 +6955,11 @@ CHE,Switzerland,Iran,2022,1.090258609
 CHE,Switzerland,Namibia,2022,0.016963005
 CHE,Switzerland,Japan,2022,0.422533039
 CHE,Switzerland,Somalia,2022,0.001542091
-CHE,Switzerland,China (People’s Republic of),2022,5.255447438
+CHE,Switzerland,China,2022,5.255447438
 CHE,Switzerland,India,2022,1.810415285
 CHE,Switzerland,Burundi,2022,0.015420914
 CHE,Switzerland,Denmark,2022,0.148040773
-CHE,Switzerland,Democratic People’s Republic of Korea,2022,0.006168366
+CHE,Switzerland,Korea,2022,0.006168366
 CHE,Switzerland,Holy See,2022,0
 CHE,Switzerland,Honduras,2022,0.01079464
 CHE,Switzerland,Montserrat,2022,0
@@ -6990,7 +6990,7 @@ SWE,Sweden,Serbia,2022,0.261722367
 SWE,Sweden,Maldives,2022,0.005897926
 SWE,Sweden,Sudan,2022,0.195150937
 SWE,Sweden,Guyana,2022,0.005897926
-SWE,Sweden,Hong Kong (China),2022,0.011524892
+SWE,Sweden,Hong Kong,2022,0.011524892
 SWE,Sweden,Latin America and the Caribbean,2022,3.011125797
 SWE,Sweden,Uruguay,2022,0.047183407
 SWE,Sweden,Nepal,2022,0.238626187
@@ -7017,7 +7017,7 @@ CHE,Switzerland,Guinea,2022,0.024673462
 CHE,Switzerland,Saudi Arabia,2022,0.092525483
 CHE,Switzerland,Uzbekistan,2022,0.035468102
 CHE,Switzerland,Estonia,2022,0.078646661
-CHE,Switzerland,Côte d’Ivoire,2022,0.101778031
+CHE,Switzerland,C�te d'Ivoire,2022,0.101778031
 CHE,Switzerland,Senegal,2022,0.137246133
 CHE,Switzerland,Sint Maarten,2022,0
 CHE,Switzerland,Dominican Republic,2022,0.032383919
@@ -7052,7 +7052,7 @@ CHE,Switzerland,Kuwait,2022,0.018505097
 CHE,Switzerland,Zimbabwe,2022,0.043178559
 CHE,Switzerland,Guatemala,2022,0.050889016
 CHE,Switzerland,Gabon,2022,0.012336731
-CHE,Switzerland,Türkiye,2022,1.5035391
+CHE,Switzerland,Turkey,2022,1.5035391
 CHE,Switzerland,World,2022,100
 CHE,Switzerland,El Salvador,2022,0.029299736
 CHE,Switzerland,Vanuatu,2022,0
@@ -7091,17 +7091,17 @@ CHE,Switzerland,Cyprus,2022,0.072478295
 CHE,Switzerland,Croatia,2022,0.239024165
 CHE,Switzerland,Kenya,2022,0.084815026
 CHE,Switzerland,Marshall Islands,2022,0
-TUR,Türkiye,Chile,2022,0.002868535
-TUR,Türkiye,Libya,2022,0.838022022
-TUR,Türkiye,Timor-Leste,2022,0
-TUR,Türkiye,Comoros,2022,0.086465842
-TUR,Türkiye,Jordan,2022,2.537014347
-TUR,Türkiye,Burkina Faso,2022,0.131952612
-TUR,Türkiye,Myanmar,2022,0.070893795
-TUR,Türkiye,Nicaragua,2022,0.001639163
-TUR,Türkiye,United Arab Emirates,2022,0.011064349
-TUR,Türkiye,Democratic Republic of the Congo,2022,0.109414122
-TUR,Türkiye,Belgium,2022,0.01680142
+TUR,Turkey,Chile,2022,0.002868535
+TUR,Turkey,Libya,2022,0.838022022
+TUR,Turkey,Timor-Leste,2022,0
+TUR,Turkey,Comoros,2022,0.086465842
+TUR,Turkey,Jordan,2022,2.537014347
+TUR,Turkey,Burkina Faso,2022,0.131952612
+TUR,Turkey,Myanmar,2022,0.070893795
+TUR,Turkey,Nicaragua,2022,0.001639163
+TUR,Turkey,United Arab Emirates,2022,0.011064349
+TUR,Turkey,Democratic Republic of the Congo,2022,0.109414122
+TUR,Turkey,Belgium,2022,0.01680142
 CHE,Switzerland,Curaçao,2022,0
 CHE,Switzerland,New Zealand,2022,0.077104569
 CHE,Switzerland,Czechia,2022,0.370101932
@@ -7119,7 +7119,7 @@ CHE,Switzerland,Ireland,2022,0.120283128
 CHE,Switzerland,Myanmar,2022,0.012336731
 CHE,Switzerland,Oceania,2022,0.374728206
 CHE,Switzerland,United States,2022,2.297716163
-CHE,Switzerland,Hong Kong (China),2022,0.186593058
+CHE,Switzerland,Hong Kong,2022,0.186593058
 CHE,Switzerland,Nepal,2022,0.029299736
 CHE,Switzerland,Maldives,2022,0.003084183
 CHE,Switzerland,Kiribati,2022,0
@@ -7145,7 +7145,7 @@ CHE,Switzerland,Jamaica,2022,0.01079464
 CHE,Switzerland,Nauru,2022,0
 CHE,Switzerland,Bosnia and Herzegovina,2022,0.107946397
 CHE,Switzerland,Mali,2022,0.013878822
-CHE,Switzerland,Macau (China),2022,0.013878822
+CHE,Switzerland,Macau,2022,0.013878822
 CHE,Switzerland,Romania,2022,0.667725569
 CHE,Switzerland,Ukraine,2022,0.468795781
 CHE,Switzerland,Cook Islands,2022,0
@@ -7178,180 +7178,180 @@ CHE,Switzerland,Monaco,2022,0.074020386
 CHE,Switzerland,Kosovo,2022,0.251360896
 CHE,Switzerland,Malaysia,2022,0.109488488
 CHE,Switzerland,Cuba,2022,0.046262742
-TUR,Türkiye,Gabon,2022,0.212681384
-TUR,Türkiye,Fiji,2022,0.002048954
-TUR,Türkiye,Kuwait,2022,0.015162257
-TUR,Türkiye,Lebanon,2022,0.588459474
-TUR,Türkiye,Ethiopia,2022,0.389710975
-TUR,Türkiye,Asia unspecified,2022,0.054502166
-TUR,Türkiye,Asia,2022,74.09385027
-TUR,Türkiye,Ghana,2022,0.184815615
-TUR,Türkiye,Albania,2022,0.430690047
-TUR,Türkiye,Vanuatu,2022,0.000819581
-TUR,Türkiye,World,2022,100
-TUR,Türkiye,Zambia,2022,0.082777725
-TUR,Türkiye,Gibraltar,2022,0
-TUR,Türkiye,Mauritania,2022,0.297917853
-TUR,Türkiye,Guinea-Bissau,2022,0.116790355
-TUR,Türkiye,Uzbekistan,2022,1.362554144
-TUR,Türkiye,Rwanda,2022,0.109823913
-TUR,Türkiye,Greece,2022,1.062587337
-TUR,Türkiye,Dominica,2022,0.007786024
-TUR,Türkiye,Tunisia,2022,0.292590574
-TUR,Türkiye,Serbia,2022,0.183586243
+TUR,Turkey,Gabon,2022,0.212681384
+TUR,Turkey,Fiji,2022,0.002048954
+TUR,Turkey,Kuwait,2022,0.015162257
+TUR,Turkey,Lebanon,2022,0.588459474
+TUR,Turkey,Ethiopia,2022,0.389710975
+TUR,Turkey,Asia unspecified,2022,0.054502166
+TUR,Turkey,Asia,2022,74.09385027
+TUR,Turkey,Ghana,2022,0.184815615
+TUR,Turkey,Albania,2022,0.430690047
+TUR,Turkey,Vanuatu,2022,0.000819581
+TUR,Turkey,World,2022,100
+TUR,Turkey,Zambia,2022,0.082777725
+TUR,Turkey,Gibraltar,2022,0
+TUR,Turkey,Mauritania,2022,0.297917853
+TUR,Turkey,Guinea-Bissau,2022,0.116790355
+TUR,Turkey,Uzbekistan,2022,1.362554144
+TUR,Turkey,Rwanda,2022,0.109823913
+TUR,Turkey,Greece,2022,1.062587337
+TUR,Turkey,Dominica,2022,0.007786024
+TUR,Turkey,Tunisia,2022,0.292590574
+TUR,Turkey,Serbia,2022,0.183586243
 CHE,Switzerland,Seychelles,2022,0.004626274
 CHE,Switzerland,Trinidad and Tobago,2022,0.004626274
 CHE,Switzerland,Saint Vincent and the Grenadines,2022,0
-TUR,Türkiye,Morocco,2022,1.341245026
-TUR,Türkiye,New Zealand,2022,0.003278326
-TUR,Türkiye,Congo,2022,0.123756797
-TUR,Türkiye,Democratic People’s Republic of Korea,2022,0.000409791
-TUR,Türkiye,Kazakhstan,2022,1.962077967
-TUR,Türkiye,Holy See,2022,0
-TUR,Türkiye,Indonesia,2022,1.40599196
-TUR,Türkiye,Somalia,2022,4.464260102
-TUR,Türkiye,Northern America,2022,0.340126297
-TUR,Türkiye,Lesotho,2022,0.001639163
-TUR,Türkiye,Cyprus,2022,0
-TUR,Türkiye,Tajikistan,2022,0.274149992
-TUR,Türkiye,Bermuda,2022,0
-TUR,Türkiye,Germany,2022,0.329061948
-TUR,Türkiye,Central African Republic,2022,0.037290956
-TUR,Türkiye,Lao People’s Democratic Republic,2022,0.002458744
-TUR,Türkiye,Egypt,2022,3.111950727
-TUR,Türkiye,Croatia,2022,0.00573707
-TUR,Türkiye,Kenya,2022,0.24505485
-TUR,Türkiye,Marshall Islands,2022,0
-TUR,Türkiye,Mauritius,2022,0.006146861
-TUR,Türkiye,Malta,2022,0.000819581
-TUR,Türkiye,Korea,2022,0.065156724
-TUR,Türkiye,Liechtenstein,2022,0.000409791
-TUR,Türkiye,Norway,2022,0.02294828
-TUR,Türkiye,Austria,2022,0.027046188
-TUR,Türkiye,Luxembourg,2022,0.000819581
-TUR,Türkiye,China (People’s Republic of),2022,0.737213505
-TUR,Türkiye,Cayman Islands,2022,0
-TUR,Türkiye,Iceland,2022,0
-TUR,Türkiye,Netherlands,2022,0.065976306
-TUR,Türkiye,Benin,2022,0.056141329
-TUR,Türkiye,Belize,2022,0.001229372
-TUR,Türkiye,Belarus,2022,0.023767862
-TUR,Türkiye,Bangladesh,2022,0.297917853
-TUR,Türkiye,British Virgin Islands,2022,0
-TUR,Türkiye,Bulgaria,2022,0.486831375
-TUR,Türkiye,Brazil,2022,0.019260164
-TUR,Türkiye,Madagascar,2022,0.030734304
-TUR,Türkiye,United Kingdom,2022,0.112282657
-TUR,Türkiye,Slovak Republic,2022,0.007376233
-TUR,Türkiye,Slovenia,2022,0.002458744
-TUR,Türkiye,Switzerland,2022,0.015981838
-TUR,Türkiye,Equatorial Guinea,2022,0.029095141
-TUR,Türkiye,Tuvalu,2022,0
-TUR,Türkiye,Namibia,2022,0.002458744
-TUR,Türkiye,Japan,2022,0.020489536
-TUR,Türkiye,Bolivia,2022,0.002868535
-TUR,Türkiye,Ireland,2022,0.00573707
-TUR,Türkiye,Tokelau,2022,0
-TUR,Türkiye,El Salvador,2022,0.000819581
-TUR,Türkiye,Other countries unspecified,2022,0.589688846
-TUR,Türkiye,Guatemala,2022,0.001229372
-TUR,Türkiye,Honduras,2022,0.000819581
-TUR,Türkiye,Iran,2022,5.941145857
-TUR,Türkiye,Oceania,2022,0.033602839
-TUR,Türkiye,Europe,2022,5.034278994
-TUR,Türkiye,Burundi,2022,0.077450446
-TUR,Türkiye,Saudi Arabia,2022,0.136050519
-TUR,Türkiye,India,2022,0.174570847
-TUR,Türkiye,Denmark,2022,0.024997234
-TUR,Türkiye,Djibouti,2022,0.581902822
-TUR,Türkiye,Azerbaijan,2022,11.72657124
-TUR,Türkiye,Afghanistan,2022,3.6430395
-TUR,Türkiye,Algeria,2022,0.615915452
-TUR,Türkiye,Puerto Rico,2022,0
-TUR,Türkiye,Israel,2022,0.282755597
-TUR,Türkiye,Colombia,2022,0.024177652
-TUR,Türkiye,Thailand,2022,0.086875633
-TUR,Türkiye,Bosnia and Herzegovina,2022,0.128674286
-TUR,Türkiye,Portugal,2022,0.004097907
-TUR,Türkiye,Macau (China),2022,0
-TUR,Türkiye,Armenia,2022,0.003278326
-TUR,Türkiye,Mali,2022,0.32988153
-TUR,Türkiye,Cambodia,2022,0.010244768
-TUR,Türkiye,Georgia,2022,0.225384896
-TUR,Türkiye,Cook Islands,2022,0
-TUR,Türkiye,Bahrain,2022,0.018850373
-TUR,Türkiye,Singapore,2022,0.004507698
-TUR,Türkiye,Papua New Guinea,2022,0.002868535
-TUR,Türkiye,Canada,2022,0.091383331
+TUR,Turkey,Morocco,2022,1.341245026
+TUR,Turkey,New Zealand,2022,0.003278326
+TUR,Turkey,Congo,2022,0.123756797
+TUR,Turkey,Korea,2022,0.000409791
+TUR,Turkey,Kazakhstan,2022,1.962077967
+TUR,Turkey,Holy See,2022,0
+TUR,Turkey,Indonesia,2022,1.40599196
+TUR,Turkey,Somalia,2022,4.464260102
+TUR,Turkey,Northern America,2022,0.340126297
+TUR,Turkey,Lesotho,2022,0.001639163
+TUR,Turkey,Cyprus,2022,0
+TUR,Turkey,Tajikistan,2022,0.274149992
+TUR,Turkey,Bermuda,2022,0
+TUR,Turkey,Germany,2022,0.329061948
+TUR,Turkey,Central African Republic,2022,0.037290956
+TUR,Turkey,Lao People’s Democratic Republic,2022,0.002458744
+TUR,Turkey,Egypt,2022,3.111950727
+TUR,Turkey,Croatia,2022,0.00573707
+TUR,Turkey,Kenya,2022,0.24505485
+TUR,Turkey,Marshall Islands,2022,0
+TUR,Turkey,Mauritius,2022,0.006146861
+TUR,Turkey,Malta,2022,0.000819581
+TUR,Turkey,Korea,2022,0.065156724
+TUR,Turkey,Liechtenstein,2022,0.000409791
+TUR,Turkey,Norway,2022,0.02294828
+TUR,Turkey,Austria,2022,0.027046188
+TUR,Turkey,Luxembourg,2022,0.000819581
+TUR,Turkey,China,2022,0.737213505
+TUR,Turkey,Cayman Islands,2022,0
+TUR,Turkey,Iceland,2022,0
+TUR,Turkey,Netherlands,2022,0.065976306
+TUR,Turkey,Benin,2022,0.056141329
+TUR,Turkey,Belize,2022,0.001229372
+TUR,Turkey,Belarus,2022,0.023767862
+TUR,Turkey,Bangladesh,2022,0.297917853
+TUR,Turkey,British Virgin Islands,2022,0
+TUR,Turkey,Bulgaria,2022,0.486831375
+TUR,Turkey,Brazil,2022,0.019260164
+TUR,Turkey,Madagascar,2022,0.030734304
+TUR,Turkey,United Kingdom,2022,0.112282657
+TUR,Turkey,Slovak Republic,2022,0.007376233
+TUR,Turkey,Slovenia,2022,0.002458744
+TUR,Turkey,Switzerland,2022,0.015981838
+TUR,Turkey,Equatorial Guinea,2022,0.029095141
+TUR,Turkey,Tuvalu,2022,0
+TUR,Turkey,Namibia,2022,0.002458744
+TUR,Turkey,Japan,2022,0.020489536
+TUR,Turkey,Bolivia,2022,0.002868535
+TUR,Turkey,Ireland,2022,0.00573707
+TUR,Turkey,Tokelau,2022,0
+TUR,Turkey,El Salvador,2022,0.000819581
+TUR,Turkey,Other countries unspecified,2022,0.589688846
+TUR,Turkey,Guatemala,2022,0.001229372
+TUR,Turkey,Honduras,2022,0.000819581
+TUR,Turkey,Iran,2022,5.941145857
+TUR,Turkey,Oceania,2022,0.033602839
+TUR,Turkey,Europe,2022,5.034278994
+TUR,Turkey,Burundi,2022,0.077450446
+TUR,Turkey,Saudi Arabia,2022,0.136050519
+TUR,Turkey,India,2022,0.174570847
+TUR,Turkey,Denmark,2022,0.024997234
+TUR,Turkey,Djibouti,2022,0.581902822
+TUR,Turkey,Azerbaijan,2022,11.72657124
+TUR,Turkey,Afghanistan,2022,3.6430395
+TUR,Turkey,Algeria,2022,0.615915452
+TUR,Turkey,Puerto Rico,2022,0
+TUR,Turkey,Israel,2022,0.282755597
+TUR,Turkey,Colombia,2022,0.024177652
+TUR,Turkey,Thailand,2022,0.086875633
+TUR,Turkey,Bosnia and Herzegovina,2022,0.128674286
+TUR,Turkey,Portugal,2022,0.004097907
+TUR,Turkey,Macau,2022,0
+TUR,Turkey,Armenia,2022,0.003278326
+TUR,Turkey,Mali,2022,0.32988153
+TUR,Turkey,Cambodia,2022,0.010244768
+TUR,Turkey,Georgia,2022,0.225384896
+TUR,Turkey,Cook Islands,2022,0
+TUR,Turkey,Bahrain,2022,0.018850373
+TUR,Turkey,Singapore,2022,0.004507698
+TUR,Turkey,Papua New Guinea,2022,0.002868535
+TUR,Turkey,Canada,2022,0.091383331
 CHE,Switzerland,Mozambique,2022,0.006168366
 CHE,Switzerland,Sweden,2022,0.354681018
 CHE,Switzerland,South Africa,2022,0.20047188
-TUR,Türkiye,Hungary,2022,0.009834977
-TUR,Türkiye,Montenegro,2022,0.063927352
-TUR,Türkiye,Latvia,2022,0.002458744
-TUR,Türkiye,San Marino,2022,0
-TUR,Türkiye,Kiribati,2022,0
-TUR,Türkiye,Paraguay,2022,0.001639163
-TUR,Türkiye,Mongolia,2022,0.206534523
-TUR,Türkiye,Oman,2022,0.00573707
-TUR,Türkiye,Poland,2022,0.011883931
-TUR,Türkiye,Niue,2022,0
-TUR,Türkiye,Pakistan,2022,1.529748757
-TUR,Türkiye,Brunei Darussalam,2022,0.000819581
-TUR,Türkiye,Ecuador,2022,0.006966442
-TUR,Türkiye,Angola,2022,0.015162257
-TUR,Türkiye,Guinea,2022,0.297508063
-TUR,Türkiye,Andorra,2022,0.000819581
-TUR,Türkiye,Anguilla,2022,0
-TUR,Türkiye,Bahamas,2022,0
-TUR,Türkiye,Gambia,2022,0.13646031
-TUR,Türkiye,Botswana,2022,0.002048954
-TUR,Türkiye,Kosovo,2022,0.509779656
-TUR,Türkiye,Kyrgyzstan,2022,0.720821876
-TUR,Türkiye,Argentina,2022,0.001639163
-TUR,Türkiye,Antigua and Barbuda,2022,0.002868535
-TUR,Türkiye,Cameroon,2022,0.460194978
-TUR,Türkiye,Cuba,2022,0.002048954
-TUR,Türkiye,Barbados,2022,0
-TUR,Türkiye,Samoa,2022,0.002048954
-TUR,Türkiye,Palau,2022,0.003278326
-TUR,Türkiye,Iraq,2022,6.889401583
-TUR,Türkiye,Malawi,2022,0.032373467
-TUR,Türkiye,Estonia,2022,0.004097907
-TUR,Türkiye,Australia,2022,0.018850373
-TUR,Türkiye,Lithuania,2022,0.009834977
-TUR,Türkiye,Côte d’Ivoire,2022,0.029095141
-TUR,Türkiye,Viet Nam,2022,0.007786024
-TUR,Türkiye,Malaysia,2022,0.122527425
-TUR,Türkiye,Dominican Republic,2022,0.003688116
-TUR,Türkiye,France,2022,0.052043421
-TUR,Türkiye,Saint Vincent and the Grenadines,2022,0
-TUR,Türkiye,Moldova,2022,0.095891028
-TUR,Türkiye,South Sudan,2022,0.059829445
-TUR,Türkiye,Turks and Caicos Islands,2022,0
-TUR,Türkiye,Monaco,2022,0.000409791
-TUR,Türkiye,Togo,2022,0.050404259
-TUR,Türkiye,Trinidad and Tobago,2022,0
-TUR,Türkiye,Suriname,2022,0.00573707
-TUR,Türkiye,Tanzania,2022,0.200797453
-TUR,Türkiye,Seychelles,2022,0
-TUR,Türkiye,Sint Maarten,2022,0
-TUR,Türkiye,Finland,2022,0.014342675
-TUR,Türkiye,Senegal,2022,0.255299618
-TUR,Türkiye,Turkmenistan,2022,6.295205039
-TUR,Türkiye,Nigeria,2022,1.319526118
-TUR,Türkiye,Sierra Leone,2022,0.069254632
-TUR,Türkiye,Yemen,2022,3.089412237
-TUR,Türkiye,Sao Tome and Principe,2022,0.002048954
-TUR,Türkiye,Europe unspecified,2022,0
-TUR,Türkiye,Venezuela,2022,0.025407025
-TUR,Türkiye,Zimbabwe,2022,0.066386097
-TUR,Türkiye,Uganda,2022,0.126215542
-TUR,Türkiye,Oceania unspecified,2022,0
-TUR,Türkiye,Sri Lanka,2022,0.03401263
-TUR,Türkiye,Northern America unspecified,2022,0
-TUR,Türkiye,Solomon Islands,2022,0.000409791
-TUR,Türkiye,Eswatini,2022,0
+TUR,Turkey,Hungary,2022,0.009834977
+TUR,Turkey,Montenegro,2022,0.063927352
+TUR,Turkey,Latvia,2022,0.002458744
+TUR,Turkey,San Marino,2022,0
+TUR,Turkey,Kiribati,2022,0
+TUR,Turkey,Paraguay,2022,0.001639163
+TUR,Turkey,Mongolia,2022,0.206534523
+TUR,Turkey,Oman,2022,0.00573707
+TUR,Turkey,Poland,2022,0.011883931
+TUR,Turkey,Niue,2022,0
+TUR,Turkey,Pakistan,2022,1.529748757
+TUR,Turkey,Brunei Darussalam,2022,0.000819581
+TUR,Turkey,Ecuador,2022,0.006966442
+TUR,Turkey,Angola,2022,0.015162257
+TUR,Turkey,Guinea,2022,0.297508063
+TUR,Turkey,Andorra,2022,0.000819581
+TUR,Turkey,Anguilla,2022,0
+TUR,Turkey,Bahamas,2022,0
+TUR,Turkey,Gambia,2022,0.13646031
+TUR,Turkey,Botswana,2022,0.002048954
+TUR,Turkey,Kosovo,2022,0.509779656
+TUR,Turkey,Kyrgyzstan,2022,0.720821876
+TUR,Turkey,Argentina,2022,0.001639163
+TUR,Turkey,Antigua and Barbuda,2022,0.002868535
+TUR,Turkey,Cameroon,2022,0.460194978
+TUR,Turkey,Cuba,2022,0.002048954
+TUR,Turkey,Barbados,2022,0
+TUR,Turkey,Samoa,2022,0.002048954
+TUR,Turkey,Palau,2022,0.003278326
+TUR,Turkey,Iraq,2022,6.889401583
+TUR,Turkey,Malawi,2022,0.032373467
+TUR,Turkey,Estonia,2022,0.004097907
+TUR,Turkey,Australia,2022,0.018850373
+TUR,Turkey,Lithuania,2022,0.009834977
+TUR,Turkey,C�te d'Ivoire,2022,0.029095141
+TUR,Turkey,Viet Nam,2022,0.007786024
+TUR,Turkey,Malaysia,2022,0.122527425
+TUR,Turkey,Dominican Republic,2022,0.003688116
+TUR,Turkey,France,2022,0.052043421
+TUR,Turkey,Saint Vincent and the Grenadines,2022,0
+TUR,Turkey,Moldova,2022,0.095891028
+TUR,Turkey,South Sudan,2022,0.059829445
+TUR,Turkey,Turks and Caicos Islands,2022,0
+TUR,Turkey,Monaco,2022,0.000409791
+TUR,Turkey,Togo,2022,0.050404259
+TUR,Turkey,Trinidad and Tobago,2022,0
+TUR,Turkey,Suriname,2022,0.00573707
+TUR,Turkey,Tanzania,2022,0.200797453
+TUR,Turkey,Seychelles,2022,0
+TUR,Turkey,Sint Maarten,2022,0
+TUR,Turkey,Finland,2022,0.014342675
+TUR,Turkey,Senegal,2022,0.255299618
+TUR,Turkey,Turkmenistan,2022,6.295205039
+TUR,Turkey,Nigeria,2022,1.319526118
+TUR,Turkey,Sierra Leone,2022,0.069254632
+TUR,Turkey,Yemen,2022,3.089412237
+TUR,Turkey,Sao Tome and Principe,2022,0.002048954
+TUR,Turkey,Europe unspecified,2022,0
+TUR,Turkey,Venezuela,2022,0.025407025
+TUR,Turkey,Zimbabwe,2022,0.066386097
+TUR,Turkey,Uganda,2022,0.126215542
+TUR,Turkey,Oceania unspecified,2022,0
+TUR,Turkey,Sri Lanka,2022,0.03401263
+TUR,Turkey,Northern America unspecified,2022,0
+TUR,Turkey,Solomon Islands,2022,0.000409791
+TUR,Turkey,Eswatini,2022,0
 GBR,United Kingdom,Belarus,2022,0.022076331
 GBR,United Kingdom,Luxembourg,2022,0.139717986
 GBR,United Kingdom,Norway,2022,0.517830712
@@ -7367,9 +7367,9 @@ GBR,United Kingdom,Turkmenistan,2022,0.008889798
 GBR,United Kingdom,Nigeria,2022,6.530445334
 GBR,United Kingdom,Bulgaria,2022,0.592060522
 GBR,United Kingdom,Slovak Republic,2022,0.238542903
-TUR,Türkiye,Bhutan,2022,0
-TUR,Türkiye,Cabo Verde,2022,0
-TUR,Türkiye,Chad,2022,1.050293615
+TUR,Turkey,Bhutan,2022,0
+TUR,Turkey,Cabo Verde,2022,0
+TUR,Turkey,Chad,2022,1.050293615
 GBR,United Kingdom,Comoros,2022,0.000148163
 GBR,United Kingdom,Saudi Arabia,2022,1.278056572
 GBR,United Kingdom,Bolivia,2022,0.014964493
@@ -7385,8 +7385,8 @@ GBR,United Kingdom,Somalia,2022,0.007408165
 GBR,United Kingdom,Honduras,2022,0.007260001
 GBR,United Kingdom,Ireland,2022,1.450963135
 GBR,United Kingdom,Europe,2022,18.75599135
-GBR,United Kingdom,China (People’s Republic of),2022,22.91049011
-GBR,United Kingdom,Democratic People’s Republic of Korea,2022,0.002370613
+GBR,United Kingdom,China,2022,22.91049011
+GBR,United Kingdom,Korea,2022,0.002370613
 GBR,United Kingdom,Iran,2022,0.343887005
 GBR,United Kingdom,Colombia,2022,0.128605739
 GBR,United Kingdom,Chile,2022,0.126531453
@@ -7400,49 +7400,49 @@ GBR,United Kingdom,Azerbaijan,2022,0.079119199
 GBR,United Kingdom,United Arab Emirates,2022,1.194047984
 GBR,United Kingdom,Democratic Republic of the Congo,2022,0.013186533
 GBR,United Kingdom,Morocco,2022,0.214540449
-TUR,Türkiye,Africa,2022,19.73101337
-TUR,Türkiye,Tonga,2022,0
-TUR,Türkiye,United States,2022,0.248742967
-TUR,Türkiye,Latin America and the Caribbean unspecified,2022,0
-TUR,Türkiye,Curaçao,2022,0
-TUR,Türkiye,Grenada,2022,0
-TUR,Türkiye,Latin America and the Caribbean,2022,0.177439382
-TUR,Türkiye,Italy,2022,0.025816815
-TUR,Türkiye,Liberia,2022,0.049584677
-TUR,Türkiye,Guyana,2022,0.001639163
-TUR,Türkiye,Maldives,2022,0.006556652
-TUR,Türkiye,Czechia,2022,0.002048954
-TUR,Türkiye,Mexico,2022,0.010244768
-TUR,Türkiye,Sweden,2022,0.045076979
-TUR,Türkiye,Syrian Arab Republic,2022,21.45951063
-TUR,Türkiye,South Africa,2022,0.083187516
-TUR,Türkiye,Uruguay,2022,0
-TUR,Türkiye,Hong Kong (China),2022,0
-TUR,Türkiye,Costa Rica,2022,0.003688116
-TUR,Türkiye,Nepal,2022,0.017621001
-TUR,Türkiye,Mozambique,2022,0.024177652
-TUR,Türkiye,Micronesia,2022,0
-TUR,Türkiye,Haiti,2022,0.032373467
-TUR,Türkiye,Saint Lucia,2022,0.000409791
-TUR,Türkiye,Panama,2022,0.003278326
-TUR,Türkiye,Philippines,2022,0.063927352
-TUR,Türkiye,Peru,2022,0.004507698
-TUR,Türkiye,Saint Kitts and Nevis,2022,0.007786024
-TUR,Türkiye,Qatar,2022,0.010654559
-TUR,Türkiye,Russia,2022,0.701151922
-TUR,Türkiye,Sudan,2022,1.154380458
-TUR,Türkiye,Aruba,2022,0
-TUR,Türkiye,Nauru,2022,0
-TUR,Türkiye,Palestinian Authority or West Bank and Gaza Strip,2022,1.974781479
-TUR,Türkiye,Montserrat,2022,0
-TUR,Türkiye,Romania,2022,0.034832211
-TUR,Türkiye,Eritrea,2022,0.069664422
-TUR,Türkiye,Jamaica,2022,0.000819581
-TUR,Türkiye,Africa unspecified,2022,0.126625332
+TUR,Turkey,Africa,2022,19.73101337
+TUR,Turkey,Tonga,2022,0
+TUR,Turkey,United States,2022,0.248742967
+TUR,Turkey,Latin America and the Caribbean unspecified,2022,0
+TUR,Turkey,Curaçao,2022,0
+TUR,Turkey,Grenada,2022,0
+TUR,Turkey,Latin America and the Caribbean,2022,0.177439382
+TUR,Turkey,Italy,2022,0.025816815
+TUR,Turkey,Liberia,2022,0.049584677
+TUR,Turkey,Guyana,2022,0.001639163
+TUR,Turkey,Maldives,2022,0.006556652
+TUR,Turkey,Czechia,2022,0.002048954
+TUR,Turkey,Mexico,2022,0.010244768
+TUR,Turkey,Sweden,2022,0.045076979
+TUR,Turkey,Syrian Arab Republic,2022,21.45951063
+TUR,Turkey,South Africa,2022,0.083187516
+TUR,Turkey,Uruguay,2022,0
+TUR,Turkey,Hong Kong,2022,0
+TUR,Turkey,Costa Rica,2022,0.003688116
+TUR,Turkey,Nepal,2022,0.017621001
+TUR,Turkey,Mozambique,2022,0.024177652
+TUR,Turkey,Micronesia,2022,0
+TUR,Turkey,Haiti,2022,0.032373467
+TUR,Turkey,Saint Lucia,2022,0.000409791
+TUR,Turkey,Panama,2022,0.003278326
+TUR,Turkey,Philippines,2022,0.063927352
+TUR,Turkey,Peru,2022,0.004507698
+TUR,Turkey,Saint Kitts and Nevis,2022,0.007786024
+TUR,Turkey,Qatar,2022,0.010654559
+TUR,Turkey,Russia,2022,0.701151922
+TUR,Turkey,Sudan,2022,1.154380458
+TUR,Turkey,Aruba,2022,0
+TUR,Turkey,Nauru,2022,0
+TUR,Turkey,Palestinian Authority or West Bank and Gaza Strip,2022,1.974781479
+TUR,Turkey,Montserrat,2022,0
+TUR,Turkey,Romania,2022,0.034832211
+TUR,Turkey,Eritrea,2022,0.069664422
+TUR,Turkey,Jamaica,2022,0.000819581
+TUR,Turkey,Africa unspecified,2022,0.126625332
 GBR,United Kingdom,Viet Nam,2022,0.392336402
 GBR,United Kingdom,Iraq,2022,0.091416752
 GBR,United Kingdom,Malawi,2022,0.051412663
-GBR,United Kingdom,Côte d’Ivoire,2022,0.022668984
+GBR,United Kingdom,C�te d'Ivoire,2022,0.022668984
 GBR,United Kingdom,Tanzania,2022,0.093787365
 GBR,United Kingdom,France,2022,1.737362782
 GBR,United Kingdom,Moldova,2022,0.01392735
@@ -7451,9 +7451,9 @@ GBR,United Kingdom,Samoa,2022,0.000740816
 GBR,United Kingdom,Suriname,2022,0.00133347
 GBR,United Kingdom,Lithuania,2022,0.421228244
 GBR,United Kingdom,Togo,2022,0.003259592
-TUR,Türkiye,Ukraine,2022,0.218008663
-TUR,Türkiye,Niger,2022,0.142607171
-TUR,Türkiye,Spain,2022,0.018030792
+TUR,Turkey,Ukraine,2022,0.218008663
+TUR,Turkey,Niger,2022,0.142607171
+TUR,Turkey,Spain,2022,0.018030792
 GBR,United Kingdom,Saint Vincent and the Grenadines,2022,0.010667757
 GBR,United Kingdom,Europe unspecified,2022,0.029928985
 GBR,United Kingdom,Uganda,2022,0.12416084
@@ -7568,7 +7568,7 @@ GBR,United Kingdom,Algeria,2022,0.115715532
 GBR,United Kingdom,Aruba,2022,0.000296327
 GBR,United Kingdom,Ukraine,2022,0.13631023
 GBR,United Kingdom,Cambodia,2022,0.041485722
-GBR,United Kingdom,Macau (China),2022,0.082823281
+GBR,United Kingdom,Macau,2022,0.082823281
 GBR,United Kingdom,Bosnia and Herzegovina,2022,0.010075104
 GBR,United Kingdom,Mali,2022,0.002518776
 GBR,United Kingdom,Portugal,2022,0.90957446
@@ -7594,7 +7594,7 @@ GBR,United Kingdom,Kiribati,2022,0.000148163
 GBR,United Kingdom,Pakistan,2022,3.410126368
 GBR,United Kingdom,Palestinian Authority or West Bank and Gaza Strip,2022,0.035707354
 GBR,United Kingdom,Brazil,2022,0.212318
-GBR,United Kingdom,Türkiye,2022,0.735334427
+GBR,United Kingdom,Turkey,2022,0.735334427
 GBR,United Kingdom,Angola,2022,0.040893069
 GBR,United Kingdom,British Virgin Islands,2022,0.0234098
 GBR,United Kingdom,Andorra,2022,0.003555919
@@ -7634,14 +7634,14 @@ USA,United States,Liechtenstein,2022,0.000731358
 USA,United States,Bermuda,2022,0.030948637
 USA,United States,Lao People’s Democratic Republic,2022,0.012299993
 USA,United States,Lesotho,2022,0.007754697
-USA,United States,Democratic People’s Republic of Korea,2022,0.000550165
+USA,United States,Korea,2022,0.000550165
 USA,United States,Austria,2022,0.093139377
 USA,United States,Malta,2022,0.007473028
 USA,United States,Djibouti,2022,0.000661516
 USA,United States,Madagascar,2022,0.024632918
 USA,United States,Germany,2022,0.745407865
 USA,United States,Honduras,2022,0.258051739
-USA,United States,China (People’s Republic of),2022,31.88277407
+USA,United States,China,2022,31.88277407
 USA,United States,Luxembourg,2022,0.008708756
 USA,United States,Iceland,2022,0.048355274
 USA,United States,Korea,2022,4.592429327
@@ -7700,7 +7700,7 @@ GBR,United Kingdom,Congo,2022,0.004148572
 USA,United States,Hungary,2022,0.079627395
 USA,United States,Latvia,2022,0.028464317
 USA,United States,Mongolia,2022,0.154763252
-GBR,United Kingdom,Hong Kong (China),2022,2.573003759
+GBR,United Kingdom,Hong Kong,2022,2.573003759
 GBR,United Kingdom,Czechia,2022,0.333960064
 GBR,United Kingdom,Guyana,2022,0.017335105
 USA,United States,Kiribati,2022,0.003914414
@@ -7713,7 +7713,7 @@ USA,United States,Niue,2022,0
 USA,United States,Oman,2022,0.277401563
 USA,United States,Pakistan,2022,0.942294461
 USA,United States,British Virgin Islands,2022,0.004722201
-USA,United States,Türkiye,2022,0.9263435
+USA,United States,Turkey,2022,0.9263435
 USA,United States,Kosovo,2022,0.018277681
 USA,United States,Anguilla,2022,0.002159154
 USA,United States,Cameroon,2022,0.106749229
@@ -7734,7 +7734,7 @@ USA,United States,Uzbekistan,2022,0.070848797
 USA,United States,Estonia,2022,0.021447564
 USA,United States,Cuba,2022,0.013596987
 USA,United States,Viet Nam,2022,2.503255441
-USA,United States,Côte d’Ivoire,2022,0.112038749
+USA,United States,C�te d'Ivoire,2022,0.112038749
 USA,United States,Samoa,2022,0.009824249
 USA,United States,Moldova,2022,0.016251627
 USA,United States,Dominican Republic,2022,0.154525389
@@ -7830,7 +7830,7 @@ USA,United States,Sweden,2022,0.256094605
 USA,United States,Africa unspecified,2022,0.000713898
 USA,United States,Maldives,2022,0.00294948
 USA,United States,Belgium,2022,0.097053791
-USA,United States,Hong Kong (China),2022,0.677722968
+USA,United States,Hong Kong,2022,0.677722968
 USA,United States,South Africa,2022,0.287629865
 USA,United States,Haiti,2022,0.122637855
 USA,United States,Mozambique,2022,0.017229732
@@ -7855,7 +7855,7 @@ USA,United States,Ukraine,2022,0.206042584
 USA,United States,Romania,2022,0.09677641
 USA,United States,Bosnia and Herzegovina,2022,0.03148364
 USA,United States,Papua New Guinea,2022,0.012686426
-USA,United States,Macau (China),2022,0.047787648
+USA,United States,Macau,2022,0.047787648
 USA,United States,Portugal,2022,0.109831809
 USA,United States,Puerto Rico,2022,0
 USA,United States,Bahrain,2022,0.046541046
@@ -7915,9 +7915,9 @@ EU25,European Union (25 countries),Morocco,2022,3.114816133
 EU25,European Union (25 countries),Bhutan,2022,0.003582884
 EU25,European Union (25 countries),Chad,2022,0.149547192
 EU25,European Union (25 countries),North Macedonia,2022,0.159662128
-EU25,European Union (25 countries),China (People’s Republic of),2022,5.789769929
+EU25,European Union (25 countries),China,2022,5.789769929
 EU25,European Union (25 countries),Cyprus,2022,1.153289264
-EU25,European Union (25 countries),Democratic People’s Republic of Korea,2022,0.02341633
+EU25,European Union (25 countries),Korea,2022,0.02341633
 EU25,European Union (25 countries),Saudi Arabia,2022,0.200828662
 EU25,European Union (25 countries),Malta,2022,0.026144953
 EU25,European Union (25 countries),Tajikistan,2022,0.044670729
@@ -7954,7 +7954,7 @@ EU25,European Union (25 countries),Japan,2022,0.313815383
 EU25,European Union (25 countries),Libya,2022,0.067215069
 EU25,European Union (25 countries),United Kingdom,2022,1.280436682
 EU25,European Union (25 countries),Switzerland,2022,0.792018684
-EU25,European Union (25 countries),Türkiye,2022,1.913583406
+EU25,European Union (25 countries),Turkey,2022,1.913583406
 EU25,European Union (25 countries),Africa,2022,15.68864789
 EU25,European Union (25 countries),Mozambique,2022,0.149388063
 EU25,European Union (25 countries),Micronesia,2022,0
@@ -7979,7 +7979,7 @@ EU25,European Union (25 countries),Portugal,2022,0.579896817
 EU25,European Union (25 countries),Poland,2022,0.930156135
 EU25,European Union (25 countries),Colombia,2022,1.0854718
 EU25,European Union (25 countries),Papua New Guinea,2022,0.004493787
-EU25,European Union (25 countries),Macau (China),2022,0.017003519
+EU25,European Union (25 countries),Macau,2022,0.017003519
 EU25,European Union (25 countries),Cook Islands,2022,0.000182181
 EU25,European Union (25 countries),Ukraine,2022,3.669079517
 EU25,European Union (25 countries),Canada,2022,0.44255373
@@ -8015,7 +8015,7 @@ EU25,European Union (25 countries),Gambia,2022,0.020464991
 EU25,European Union (25 countries),Argentina,2022,0.300314
 EU25,European Union (25 countries),Kosovo,2022,0.127007163
 EU25,European Union (25 countries),Angola,2022,0.308119177
-EU25,European Union (25 countries),Côte d’Ivoire,2022,0.51357238
+EU25,European Union (25 countries),C�te d'Ivoire,2022,0.51357238
 EU25,European Union (25 countries),Antigua and Barbuda,2022,0.001214537
 EU25,European Union (25 countries),Malaysia,2022,0.219152617
 EU25,European Union (25 countries),Estonia,2022,0.130860483
@@ -8093,7 +8093,7 @@ BRA,Brazil,Dominican Republic,2022,0.212420342
 BRA,Brazil,Kazakhstan,2022,0.00833021
 BRA,Brazil,Other countries unspecified,2022,0.633095922
 BRA,Brazil,Japan,2022,5.947769586
-BRA,Brazil,China (People’s Republic of),2022,1.049606398
+BRA,Brazil,China,2022,1.049606398
 BRA,Brazil,Libya,2022,0.020825524
 BRA,Brazil,Zambia,2022,0.00833021
 BRA,Brazil,Algeria,2022,0.058311467
@@ -8126,13 +8126,13 @@ EU25,European Union (25 countries),Sweden,2022,0.463418975
 EU25,European Union (25 countries),Jamaica,2022,0.011678468
 EU25,European Union (25 countries),Latin America and the Caribbean,2022,7.165836059
 EU25,European Union (25 countries),Uruguay,2022,0.051099821
-EU25,European Union (25 countries),Hong Kong (China),2022,0.041774496
+EU25,European Union (25 countries),Hong Kong,2022,0.041774496
 EU25,European Union (25 countries),South Africa,2022,0.186882754
 BRA,Brazil,Turkmenistan,2022,0.004165105
 BRA,Brazil,Andorra,2022,0.029155733
 BRA,Brazil,Anguilla,2022,0.058311467
 BRA,Brazil,Slovak Republic,2022,0.00833021
-BRA,Brazil,Türkiye,2022,0.07913699
+BRA,Brazil,Turkey,2022,0.07913699
 BRA,Brazil,Madagascar,2022,0.012495314
 BRA,Brazil,Angola,2022,6.989045775
 BRA,Brazil,Argentina,2022,4.606605856
@@ -8159,7 +8159,7 @@ BRA,Brazil,Uzbekistan,2022,0.116622933
 BRA,Brazil,Cuba,2022,1.474447082
 BRA,Brazil,Tanzania,2022,0.037485943
 BRA,Brazil,Samoa,2022,0
-BRA,Brazil,Côte d’Ivoire,2022,0.233245866
+BRA,Brazil,C�te d'Ivoire,2022,0.233245866
 BRA,Brazil,South Sudan,2022,0
 BRA,Brazil,France,2022,0.991294931
 BRA,Brazil,Saint Vincent and the Grenadines,2022,0.004165105
@@ -8212,7 +8212,7 @@ BRA,Brazil,Morocco,2022,0.07913699
 BRA,Brazil,New Zealand,2022,0.00833021
 BRA,Brazil,India,2022,0.116622933
 BRA,Brazil,Burundi,2022,0.016660419
-BRA,Brazil,Democratic People’s Republic of Korea,2022,0.00833021
+BRA,Brazil,Korea,2022,0.00833021
 BRA,Brazil,Iran,2022,0.287392228
 BRA,Brazil,Honduras,2022,0.678912075
 BGR,Bulgaria,Northern America,2022,1.080263021
@@ -8247,7 +8247,7 @@ BRA,Brazil,United States,2022,7.580490649
 BRA,Brazil,Maldives,2022,0
 BRA,Brazil,Sweden,2022,0.041651048
 BRA,Brazil,Latin America and the Caribbean,2022,48.43600317
-BRA,Brazil,Hong Kong (China),2022,0.062476571
+BRA,Brazil,Hong Kong,2022,0.062476571
 BRA,Brazil,South Africa,2022,0.33320838
 BRA,Brazil,Uruguay,2022,2.519888375
 BRA,Brazil,Saint Lucia,2022,0.00833021
@@ -8283,7 +8283,7 @@ BRA,Brazil,Cook Islands,2022,0
 BRA,Brazil,Papua New Guinea,2022,0.012495314
 BRA,Brazil,Canada,2022,0.1749344
 BRA,Brazil,Bahrain,2022,0.020825524
-BRA,Brazil,Macau (China),2022,0.012495314
+BRA,Brazil,Macau,2022,0.012495314
 BRA,Brazil,Spain,2022,0.966304303
 BRA,Brazil,Georgia,2022,0
 BRA,Brazil,Thailand,2022,0
@@ -8369,7 +8369,7 @@ BGR,Bulgaria,Turkmenistan,2022,0.02609331
 BGR,Bulgaria,Slovak Republic,2022,0.046967957
 BGR,Bulgaria,Ecuador,2022,0.010437324
 BGR,Bulgaria,Anguilla,2022,0
-BGR,Bulgaria,Türkiye,2022,4.201022858
+BGR,Bulgaria,Turkey,2022,4.201022858
 BGR,Bulgaria,Andorra,2022,0
 BGR,Bulgaria,Antigua and Barbuda,2022,0
 BRA,Brazil,Jordan,2022,0.029155733
@@ -8384,10 +8384,10 @@ BGR,Bulgaria,Kazakhstan,2022,2.186619351
 BGR,Bulgaria,Other countries unspecified,2022,0
 BGR,Bulgaria,Somalia,2022,0.031311972
 BGR,Bulgaria,Saudi Arabia,2022,0.099154577
-BGR,Bulgaria,China (People’s Republic of),2022,1.116793654
+BGR,Bulgaria,China,2022,1.116793654
 BGR,Bulgaria,Honduras,2022,0.010437324
 BGR,Bulgaria,India,2022,1.94134224
-BGR,Bulgaria,Democratic People’s Republic of Korea,2022,0.02609331
+BGR,Bulgaria,Korea,2022,0.02609331
 BGR,Bulgaria,Iran,2022,0.401836969
 BGR,Bulgaria,Eritrea,2022,0
 BGR,Bulgaria,Israel,2022,0.454023588
@@ -8399,7 +8399,7 @@ BGR,Bulgaria,Afghanistan,2022,0.057405281
 BGR,Bulgaria,Sudan,2022,0.02609331
 BGR,Bulgaria,Romania,2022,0.099154577
 BGR,Bulgaria,Puerto Rico,2022,0
-BGR,Bulgaria,Macau (China),2022,0
+BGR,Bulgaria,Macau,2022,0
 BGR,Bulgaria,Portugal,2022,0.203527815
 BGR,Bulgaria,Bosnia and Herzegovina,2022,0.02609331
 BGR,Bulgaria,Cook Islands,2022,0
@@ -8445,7 +8445,7 @@ BGR,Bulgaria,Gambia,2022,0
 BGR,Bulgaria,Estonia,2022,0.010437324
 BGR,Bulgaria,Equatorial Guinea,2022,0
 BGR,Bulgaria,Samoa,2022,0
-BGR,Bulgaria,Côte d’Ivoire,2022,0.010437324
+BGR,Bulgaria,C�te d'Ivoire,2022,0.010437324
 BGR,Bulgaria,Moldova,2022,2.197056675
 BGR,Bulgaria,France,2022,0.527084855
 BGR,Bulgaria,Dominican Republic,2022,0.005218662
@@ -8489,7 +8489,7 @@ HRV,Croatia,Madagascar,2022,0
 HRV,Croatia,Benin,2022,0.034873583
 HRV,Croatia,Bulgaria,2022,0.2092415
 HRV,Croatia,Brunei Darussalam,2022,0
-HRV,Croatia,Türkiye,2022,1.063644289
+HRV,Croatia,Turkey,2022,1.063644289
 HRV,Croatia,Slovak Republic,2022,0.488230166
 HRV,Croatia,Switzerland,2022,0.610287707
 HRV,Croatia,Slovenia,2022,3.487358326
@@ -8514,9 +8514,9 @@ HRV,Croatia,Northern America,2022,2.545771578
 HRV,Croatia,Kazakhstan,2022,0.087183958
 HRV,Croatia,Somalia,2022,0
 HRV,Croatia,Europe,2022,88.94507411
-HRV,Croatia,China (People’s Republic of),2022,0.331299041
+HRV,Croatia,China,2022,0.331299041
 HRV,Croatia,Oceania,2022,0.10462075
-HRV,Croatia,Democratic People’s Republic of Korea,2022,0
+HRV,Croatia,Korea,2022,0
 HRV,Croatia,Tajikistan,2022,0.017436792
 HRV,Croatia,Holy See,2022,0
 HRV,Croatia,Indonesia,2022,0.156931125
@@ -8591,7 +8591,7 @@ HRV,Croatia,Maldives,2022,0
 HRV,Croatia,Czechia,2022,0.662598082
 HRV,Croatia,Congo,2022,0.034873583
 HRV,Croatia,Africa unspecified,2022,0
-HRV,Croatia,Hong Kong (China),2022,0
+HRV,Croatia,Hong Kong,2022,0
 HRV,Croatia,Iraq,2022,0.034873583
 HRV,Croatia,Kyrgyzstan,2022,0
 HRV,Croatia,Angola,2022,0.017436792
@@ -8604,7 +8604,7 @@ HRV,Croatia,Palau,2022,0
 HRV,Croatia,Moldova,2022,0.10462075
 HRV,Croatia,Kosovo,2022,0.924149956
 HRV,Croatia,Uzbekistan,2022,0.034873583
-HRV,Croatia,Côte d’Ivoire,2022,0
+HRV,Croatia,C�te d'Ivoire,2022,0
 HRV,Croatia,Malaysia,2022,0.017436792
 HRV,Croatia,Monaco,2022,0
 HRV,Croatia,Viet Nam,2022,0.017436792
@@ -8713,10 +8713,10 @@ HRV,Croatia,Bosnia and Herzegovina,2022,41.15082825
 HRV,Croatia,Portugal,2022,2.057541412
 HRV,Croatia,Cook Islands,2022,0
 HRV,Croatia,Ukraine,2022,0.470793374
-HRV,Croatia,Macau (China),2022,0
+HRV,Croatia,Macau,2022,0
 HRV,Croatia,Papua New Guinea,2022,0
 HRV,Croatia,Bahrain,2022,0
-BGR,Bulgaria,Hong Kong (China),2022,0.005218662
+BGR,Bulgaria,Hong Kong,2022,0.005218662
 BGR,Bulgaria,Sweden,2022,1.346414779
 BGR,Bulgaria,United States,2022,0.772361966
 HRV,Croatia,Mongolia,2022,0
@@ -8812,7 +8812,7 @@ ROU,Romania,Turkmenistan,2022,0.540664903
 ROU,Romania,Brunei Darussalam,2022,0
 ROU,Romania,Anguilla,2022,0
 ROU,Romania,Slovak Republic,2022,0.028758771
-ROU,Romania,Türkiye,2022,0.839756126
+ROU,Romania,Turkey,2022,0.839756126
 ROU,Romania,Switzerland,2022,0.488899114
 ROU,Romania,Argentina,2022,0.008627631
 ROU,Romania,Bangladesh,2022,0.186932014
@@ -8832,9 +8832,9 @@ ROU,Romania,Kazakhstan,2022,0.08052456
 ROU,Romania,Other countries unspecified,2022,0
 ROU,Romania,Somalia,2022,0.023007017
 ROU,Romania,Bolivia,2022,0.017255263
-ROU,Romania,China (People’s Republic of),2022,0.224318417
+ROU,Romania,China,2022,0.224318417
 ROU,Romania,Cyprus,2022,0.204187277
-ROU,Romania,Democratic People’s Republic of Korea,2022,0.005751754
+ROU,Romania,Korea,2022,0.005751754
 ROU,Romania,Portugal,2022,0.169676751
 ROU,Romania,Cook Islands,2022,0
 ROU,Romania,Israel,2022,6.784194179
@@ -8847,7 +8847,7 @@ ROU,Romania,Afghanistan,2022,0.138042103
 ROU,Romania,Bahrain,2022,0.002875877
 ROU,Romania,Canada,2022,0.350857011
 ROU,Romania,Singapore,2022,0.002875877
-ROU,Romania,Macau (China),2022,0
+ROU,Romania,Macau,2022,0
 ROU,Romania,Georgia,2022,0.005751754
 ROU,Romania,Puerto Rico,2022,0
 ROU,Romania,Latvia,2022,0.005751754
@@ -8889,7 +8889,7 @@ ROU,Romania,Cameroon,2022,0.287587714
 HRV,Croatia,Cambodia,2022,0
 HRV,Croatia,Singapore,2022,0
 HRV,Croatia,Latvia,2022,0.226678291
-ROU,Romania,Côte d’Ivoire,2022,0.025882894
+ROU,Romania,C�te d'Ivoire,2022,0.025882894
 ROU,Romania,Cuba,2022,0.063269297
 ROU,Romania,Samoa,2022,0
 ROU,Romania,South Sudan,2022,0
@@ -8930,7 +8930,7 @@ BRA,Brazil,Belgium,2022,0.241576076
 EU25,European Union (25 countries),Costa Rica,2022,0.099647663
 USA,United States,North Macedonia,2022,0.025611023
 GBR,United Kingdom,Grenada,2022,0.004889389
-TUR,Türkiye,North Macedonia,2022,0.255299618
+TUR,Turkey,North Macedonia,2022,0.255299618
 CHE,Switzerland,Belgium,2022,1.005443583
 SWE,Sweden,Latin America and the Caribbean unspecified,2022,0
 ESP,Spain,Uruguay,2022,0.548575666
@@ -8984,7 +8984,7 @@ ROU,Romania,Maldives,2022,0
 ROU,Romania,Latin America and the Caribbean,2022,0.578051306
 ROU,Romania,Sweden,2022,0.641320603
 ROU,Romania,South Africa,2022,0.069021051
-ROU,Romania,Hong Kong (China),2022,0.008627631
+ROU,Romania,Hong Kong,2022,0.008627631
 ROU,Romania,Nepal,2022,0.02013114
 ROU,Romania,Costa Rica,2022,0.023007017
 ROU,Romania,Panama,2022,0.002875877
@@ -8998,9 +8998,9 @@ ROU,Romania,Aruba,2022,0.051765789
 ROU,Romania,Jamaica,2022,0.008627631
 ROU,Romania,Sudan,2022,0.1006557
 SVN,Slovenia,Suriname,2022,
-JPN,Japan,Hong Kong (China),2022,
-JPN,Japan,Macau (China),2022,
-JPN,Japan,Democratic People’s Republic of Korea,2022,
+JPN,Japan,Hong Kong,2022,
+JPN,Japan,Macau,2022,
+JPN,Japan,Korea,2022,
 MEX,Mexico,Mauritania,2022,
 MEX,Mexico,Tokelau,2022,
 MEX,Mexico,Other countries unspecified,2022,
@@ -9017,9 +9017,9 @@ MEX,Mexico,Iran,2022,
 MEX,Mexico,Tuvalu,2022,
 MEX,Mexico,Kazakhstan,2022,
 MEX,Mexico,Ireland,2022,
-MEX,Mexico,China (People’s Republic of),2022,
+MEX,Mexico,China,2022,
 MEX,Mexico,Croatia,2022,
-MEX,Mexico,Democratic People’s Republic of Korea,2022,
+MEX,Mexico,Korea,2022,
 MEX,Mexico,Malta,2022,
 MEX,Mexico,Lesotho,2022,
 MEX,Mexico,Tajikistan,2022,
@@ -9066,7 +9066,7 @@ ROU,Romania,Estonia,2022,0
 MEX,Mexico,Angola,2022,
 MEX,Mexico,Andorra,2022,
 MEX,Mexico,Argentina,2022,
-MEX,Mexico,Türkiye,2022,
+MEX,Mexico,Turkey,2022,
 MEX,Mexico,Bulgaria,2022,
 MEX,Mexico,Gambia,2022,
 MEX,Mexico,Botswana,2022,
@@ -9086,7 +9086,7 @@ MEX,Mexico,Malawi,2022,
 MEX,Mexico,Estonia,2022,
 MEX,Mexico,Equatorial Guinea,2022,
 MEX,Mexico,Australia,2022,
-MEX,Mexico,Côte d’Ivoire,2022,
+MEX,Mexico,C�te d'Ivoire,2022,
 MEX,Mexico,Samoa,2022,
 MEX,Mexico,Tanzania,2022,
 MEX,Mexico,Viet Nam,2022,
@@ -9159,7 +9159,7 @@ MEX,Mexico,Montserrat,2022,
 MEX,Mexico,Somalia,2022,
 SVN,Slovenia,Belize,2022,
 SVN,Slovenia,Bangladesh,2022,
-SVN,Slovenia,Türkiye,2022,
+SVN,Slovenia,Turkey,2022,
 SVN,Slovenia,Andorra,2022,
 SVN,Slovenia,Angola,2022,
 SVN,Slovenia,Guinea,2022,
@@ -9176,8 +9176,8 @@ SVN,Slovenia,Ireland,2022,
 SVN,Slovenia,Tajikistan,2022,
 SVN,Slovenia,Denmark,2022,
 SVN,Slovenia,Cyprus,2022,
-SVN,Slovenia,China (People’s Republic of),2022,
-SVN,Slovenia,Democratic People’s Republic of Korea,2022,
+SVN,Slovenia,China,2022,
+SVN,Slovenia,Korea,2022,
 SVN,Slovenia,Honduras,2022,
 SVN,Slovenia,Lesotho,2022,
 SVN,Slovenia,India,2022,
@@ -9203,7 +9203,7 @@ MEX,Mexico,Maldives,2022,
 MEX,Mexico,Nepal,2022,
 MEX,Mexico,South Africa,2022,
 MEX,Mexico,Uruguay,2022,
-MEX,Mexico,Hong Kong (China),2022,
+MEX,Mexico,Hong Kong,2022,
 MEX,Mexico,Mozambique,2022,
 MEX,Mexico,Micronesia,2022,
 MEX,Mexico,Paraguay,2022,
@@ -9225,7 +9225,7 @@ MEX,Mexico,Jamaica,2022,
 MEX,Mexico,Puerto Rico,2022,
 MEX,Mexico,Algeria,2022,
 MEX,Mexico,Cook Islands,2022,
-MEX,Mexico,Macau (China),2022,
+MEX,Mexico,Macau,2022,
 MEX,Mexico,Saint Lucia,2022,
 MEX,Mexico,Niger,2022,
 MEX,Mexico,Romania,2022,
@@ -9355,7 +9355,7 @@ SVN,Slovenia,Belgium,2022,
 SVN,Slovenia,Costa Rica,2022,
 SVN,Slovenia,Nepal,2022,
 SVN,Slovenia,Haiti,2022,
-SVN,Slovenia,Hong Kong (China),2022,
+SVN,Slovenia,Hong Kong,2022,
 SVN,Slovenia,Mozambique,2022,
 SVN,Slovenia,Niger,2022,
 SVN,Slovenia,Saint Lucia,2022,
@@ -9380,7 +9380,7 @@ SVN,Slovenia,Eritrea,2022,
 SVN,Slovenia,Poland,2022,
 SVN,Slovenia,Romania,2022,
 SVN,Slovenia,Cook Islands,2022,
-SVN,Slovenia,Macau (China),2022,
+SVN,Slovenia,Macau,2022,
 SVN,Slovenia,Portugal,2022,
 SVN,Slovenia,Mali,2022,
 SVN,Slovenia,Spain,2022,
@@ -9424,14 +9424,14 @@ MEX,Mexico,Hungary,2022,
 MEX,Mexico,Bermuda,2022,
 MEX,Mexico,Armenia,2022,
 SVN,Slovenia,Samoa,2022,
-SVN,Slovenia,Côte d’Ivoire,2022,
+SVN,Slovenia,C�te d'Ivoire,2022,
 SVN,Slovenia,Moldova,2022,
 SVN,Slovenia,Dominican Republic,2022,
 SVN,Slovenia,South Sudan,2022,
 SVN,Slovenia,Sao Tome and Principe,2022,
 MEX,Mexico,Europe unspecified,2022,2.318913481
 MEX,Mexico,Northern America,2022,44.71327968
-JPN,Japan,China (People’s Republic of),2022,48.44855443
+JPN,Japan,China,2022,48.44855443
 JPN,Japan,Korea,2022,6.499814348
 MEX,Mexico,Oceania unspecified,2022,0.075452716
 MEX,Mexico,Asia,2022,0.957411133
@@ -9471,7 +9471,7 @@ CRI,Costa Rica,India,2022,
 CRI,Costa Rica,Europe,2022,
 CRI,Costa Rica,Somalia,2022,
 CRI,Costa Rica,Denmark,2022,
-CRI,Costa Rica,China (People’s Republic of),2022,
+CRI,Costa Rica,China,2022,
 CRI,Costa Rica,Cyprus,2022,
 CRI,Costa Rica,Croatia,2022,
 CRI,Costa Rica,Iran,2022,
@@ -9488,7 +9488,7 @@ CRI,Costa Rica,Central African Republic,2022,
 CRI,Costa Rica,Lao People’s Democratic Republic,2022,
 CRI,Costa Rica,Liechtenstein,2022,
 CRI,Costa Rica,Lesotho,2022,
-CRI,Costa Rica,Democratic People’s Republic of Korea,2022,
+CRI,Costa Rica,Korea,2022,
 CRI,Costa Rica,Germany,2022,
 CRI,Costa Rica,Kenya,2022,
 CRI,Costa Rica,Luxembourg,2022,
@@ -9534,7 +9534,7 @@ CRI,Costa Rica,Cuba,2022,
 CRI,Costa Rica,Australia,2022,
 CRI,Costa Rica,Lithuania,2022,
 CRI,Costa Rica,Samoa,2022,
-CRI,Costa Rica,Côte d’Ivoire,2022,
+CRI,Costa Rica,C�te d'Ivoire,2022,
 CRI,Costa Rica,South Sudan,2022,
 CRI,Costa Rica,Tanzania,2022,
 CRI,Costa Rica,Dominican Republic,2022,
@@ -9616,7 +9616,7 @@ PER,Peru,Oceania,2022,
 PER,Peru,Burundi,2022,
 PER,Peru,Somalia,2022,
 PER,Peru,Saudi Arabia,2022,
-PER,Peru,China (People’s Republic of),2022,
+PER,Peru,China,2022,
 PER,Peru,India,2022,
 PER,Peru,Denmark,2022,
 PER,Peru,Democratic Republic of the Congo,2022,
@@ -9641,7 +9641,7 @@ CRI,Costa Rica,Micronesia,2022,
 CRI,Costa Rica,Nepal,2022,
 CRI,Costa Rica,South Africa,2022,
 CRI,Costa Rica,Uruguay,2022,
-CRI,Costa Rica,Hong Kong (China),2022,
+CRI,Costa Rica,Hong Kong,2022,
 CRI,Costa Rica,Mozambique,2022,
 CRI,Costa Rica,Syrian Arab Republic,2022,
 CRI,Costa Rica,Niger,2022,
@@ -9665,7 +9665,7 @@ CRI,Costa Rica,Israel,2022,
 CRI,Costa Rica,Colombia,2022,
 CRI,Costa Rica,Bosnia and Herzegovina,2022,
 CRI,Costa Rica,Portugal,2022,
-CRI,Costa Rica,Macau (China),2022,
+CRI,Costa Rica,Macau,2022,
 CRI,Costa Rica,Mali,2022,
 CRI,Costa Rica,Ukraine,2022,
 CRI,Costa Rica,Georgia,2022,
@@ -9690,7 +9690,7 @@ CRI,Costa Rica,Poland,2022,
 CRI,Costa Rica,Mongolia,2022,
 CRI,Costa Rica,Niue,2022,
 CRI,Costa Rica,Slovak Republic,2022,
-CRI,Costa Rica,Türkiye,2022,
+CRI,Costa Rica,Turkey,2022,
 CRI,Costa Rica,Switzerland,2022,
 CRI,Costa Rica,Ecuador,2022,
 CRI,Costa Rica,Slovenia,2022,
@@ -9757,7 +9757,7 @@ PER,Peru,Netherlands,2022,
 PER,Peru,Luxembourg,2022,
 PER,Peru,Lao People’s Democratic Republic,2022,
 PER,Peru,Lesotho,2022,
-PER,Peru,Democratic People’s Republic of Korea,2022,
+PER,Peru,Korea,2022,
 PER,Peru,Croatia,2022,
 PER,Peru,Austria,2022,
 PER,Peru,Marshall Islands,2022,
@@ -9825,7 +9825,7 @@ PER,Peru,Georgia,2022,
 PER,Peru,Singapore,2022,
 PER,Peru,Bahrain,2022,
 PER,Peru,Canada,2022,
-PER,Peru,Macau (China),2022,
+PER,Peru,Macau,2022,
 PER,Peru,Spain,2022,
 PER,Peru,Papua New Guinea,2022,
 PER,Peru,Hungary,2022,
@@ -9843,7 +9843,7 @@ PER,Peru,Niue,2022,
 PER,Peru,British Virgin Islands,2022,
 PER,Peru,Guinea,2022,
 PER,Peru,Argentina,2022,
-PER,Peru,Türkiye,2022,
+PER,Peru,Turkey,2022,
 PER,Peru,Slovenia,2022,
 PER,Peru,Lithuania,2022,
 PER,Peru,Turks and Caicos Islands,2022,
@@ -9862,7 +9862,7 @@ PER,Peru,Botswana,2022,
 PER,Peru,Cameroon,2022,
 PER,Peru,Malawi,2022,
 PER,Peru,Uzbekistan,2022,
-PER,Peru,Côte d’Ivoire,2022,
+PER,Peru,C�te d'Ivoire,2022,
 PER,Peru,Cuba,2022,
 PER,Peru,Tanzania,2022,
 PER,Peru,Samoa,2022,
@@ -9897,7 +9897,7 @@ PER,Peru,Uruguay,2022,
 PER,Peru,Nepal,2022,
 PER,Peru,Micronesia,2022,
 PER,Peru,Latin America and the Caribbean,2022,
-TUR,Türkiye,Türkiye,2022,
+TUR,Turkey,Turkey,2022,
 BEL,Belgium,Belgium,2022,
 AUT,Austria,Austria,2022,
 AUS,Australia,Australia,2022,
@@ -9938,7 +9938,7 @@ USA,United States,United States,2022,
 ROU,Romania,Nauru,2022,0
 SVN,Slovenia,Monaco,2022,
 MEX,Mexico,Canada,2022,1.167002012
-PER,Peru,Hong Kong (China),2022,
+PER,Peru,Hong Kong,2022,
 GBR,United Kingdom,United Kingdom,2022,
 PER,Peru,Bulgaria,2022,
 PER,Peru,United Kingdom,2022,
