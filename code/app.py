@@ -17,7 +17,8 @@ section = st.sidebar.radio(
     ["Migration Animation", "Major Flows Map", "GDP vs Students"]
 )
 
-DATA_DIR = Path("data")
+DATA_DIR = Path(__file__).parent.parent / "data"
+
 
 # ─── Utility: find a column by substring(s) ───
 def find_col(df, *candidates):

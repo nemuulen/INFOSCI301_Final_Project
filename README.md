@@ -6,36 +6,67 @@
 - Yiqing Wang  
 - Nemuulen Togtbaatar  
 
-## Project Overview
+### Team Contribution Statement
+
+- **Yiqing Wang**: Data acquisition and transformation, initial visualizations, GitHub repo organization  
+- **Nemuulen Togtbaatar**: Literature review, design improvements, GDP forecasting, deployment
+
+---
+
+### Project Overview
 This project analyzes global trends in international student mobility by examining inbound and outbound student flows across countries over time.  
 By integrating UNESCO Institute for Statistics (UIS) mobility data with World Bank GDP indicators, we explore the relationship between a country's economic status and its role in international education exchanges.
 
-🔗 **Live App**: [infosci301finalproject.streamlit.app](https://infosci301finalproject-j34vzlrqpnbbp22g879wld.streamlit.app/?embed_options=dark_theme)
-
 ![Final Project Poster](301_Nemuulen_Yiqing_Poster.png)
-
 ---
-## Acknowledgements
+
+### Acknowledgements
 - Professor Luyao (Sunshine) Zhang’s insightful guidance and lectures throughout the course and our classmates’ thoughtful feedback and shared enthusiasm were essential in the completion of this project.
 - A special thanks to Dongping Liu from Amazon and David Schaaf, the Deputy Head of Chemistry Education and Head of the NanoBioLab at Saarland University, for their great lectures introducing new visualization technologies.
-  
-##  Deployment details
+---
 
-This project was deployed using **Streamlit Community Cloud**, which allows for seamless integration with GitHub repositories and automatic deployment upon code updates.
+### Connection to SDG 4 (Quality Education)
+This project contributes to SDG 4 by:
+- Highlighting global disparities in access to international education.
+- Promoting data-driven awareness of trends in educational migration.
+- Supporting conversations around equity in educational opportunities and resources worldwide.
+By visualizing these mobility trends, our project encourages actions toward **promoting equitable access to international education opportunities**.
+![SDG4logo](visualizations/sdg4.png)
+---
 
-### Deployment steps:
-1. **GitHub Repository**: The project's codebase is hosted on GitHub.
-2. **Streamlit App File**: The main application file is `app.py`.
-3. **Dependencies**: All required Python libraries are listed in `requirements.txt`.
-4. **Deployment**:
-   - Signed in to [Streamlit Community Cloud](https://streamlit.io/cloud).
-   - Connected the GitHub account and selected the repository.
-   - Chose the `app.py` file as the entry point.
-   - Deployed the app, which will be accessible via a unique URL.
+🔗 **Live App**: [infosci301finalproject.streamlit.app](https://infosci301finalproject-j34vzlrqpnbbp22g879wld.streamlit.app/?embed_options=dark_theme)
+
+🎥 **Demo video**
+
+ - [Video](https://www.youtube.com/watch?v=video_id) - A short video showing the website functionality
 
 ---
 
-## Technical details
+### 📁 Repository Structure & Navigation
+
+```bash
+INFOSCI301_Final_Project/
+│
+├── code/                # Streamlit app, Python scripts, utilities
+│   └── app.py           # Main application file
+│
+├── data/                # All processed datasets
+│   ├── GDP.csv
+│   ├── inbound_intl.csv
+│   ├── ...
+│   └── README.md        # Data sources & preprocessing steps
+│
+├── visualizations/      # PNG/SVG outputs or pilot visualizations
+│
+├── docs/                # Report
+│   └── Final_Report.pdf
+│
+├── requirements.txt     # Environment setup
+└── README.md            # You're here
+
+---
+
+### Technical details
 
 - **Programming Language**: Python
 - **Data Manipulation**: `pandas`
@@ -43,12 +74,12 @@ This project was deployed using **Streamlit Community Cloud**, which allows for 
 - **Web Framework**: `streamlit`
 - **Development Environment**: Google Colab, VS code
 - **Version Control**: GitHub
-
+ 
 ---
 
 ## Research Questions
 - Which countries are the largest senders and receivers of international students, and how does this correlate with their GDP?
-- How have student mobility patterns evolved over the past two decades, particularly in relation to economic changes?
+- How have student mobility patterns evolved over the past two decades, particularly in relation to economic changes and what is the future direction?
 - Are there identifiable regional trends in student migration linked to economic indicators?
 
 ## Scholarly Grounding
@@ -59,8 +90,7 @@ We draw design inspiration from:
 > IEEE Transactions on Visualization and Computer Graphics (TVCG).
 > https://doi.org/10.1109/TVCG.2024.3456352
 
-This paper highlights challenges in thematic map design, such as overlapping symbols, navigation difficulties, and loss of context, and suggests strategies like dynamic scaling and interactive features.  
-Our project adapts these ideas to create accessible, responsive migration visualizations.
+This paper highlights challenges in thematic map design, such as overlapping symbols, navigation difficulties, and loss of context, and suggests strategies like dynamic scaling and interactive features. Our project adapts these ideas to create accessible, responsive migration visualizations.
 
 ## Workflow Pipeline
 ![Innovation Flowchart](visualizations/Innovation_Flowchart.jpg)
@@ -90,23 +120,23 @@ Our project adapts these ideas to create accessible, responsive migration visual
 ## Data Analysis: Overall Trends in International Student Migration (2000–2021)
 ![International Student Migration 2000-2021](visualizations/International_Student_Migration2000_2022.jpg)
 
-Between 2000 and 2021, international student migration patterns underwent significant transformations, reflecting broader trends in globalization, economic development, and educational access.
+- Between 2000 and 2021, international student migration patterns underwent significant transformations, reflecting broader trends in globalization, economic development, and educational access.
 
-In 2000, the landscape of international education was relatively concentrated. A small group of developed countries — particularly those in Western Europe, North America, and Oceania — acted as the primary destinations for mobile students. Inbound flows were modest in scale and largely limited to traditional education hubs like France, Germany, the United Kingdom, Australia, and the United States. Meanwhile, outbound flows from developing countries were present but relatively limited, both in volume and in geographic reach.
+- In 2000, the landscape of international education was relatively concentrated. A small group of developed countries — particularly those in Western Europe, North America, and Oceania — acted as the primary destinations for mobile students. Inbound flows were modest in scale and largely limited to traditional education hubs like France, Germany, the United Kingdom, Australia, and the United States. Meanwhile, outbound flows from developing countries were present but relatively limited, both in volume and in geographic reach.
 
-As the decade progressed, the 2010 snapshot revealed the early signs of a more interconnected world. A larger number of countries began to engage actively in sending and receiving students. Notably, China, India, and Southeast Asian nations exhibited growing outbound migration. Inbound hubs such as Australia and the UK expanded further, while Europe as a whole solidified its position as a central magnet for international students.
+- As the decade progressed, the 2010 snapshot revealed the early signs of a more interconnected world. A larger number of countries began to engage actively in sending and receiving students. Notably, China, India, and Southeast Asian nations exhibited growing outbound migration. Inbound hubs such as Australia and the UK expanded further, while Europe as a whole solidified its position as a central magnet for international students.
 
-By 2021, international student mobility had not only intensified but diversified. Inbound flows into major economies became significantly larger, represented by the dramatic growth in bubble sizes. The United States, Australia, the United Kingdom, Germany, and Canada emerged as dominant global destinations. At the same time, China rose sharply as the world's largest sender of outbound students, followed by India and other Asian economies. Outbound migration patterns became more dispersed, no longer concentrated in a handful of nations but rather involving a wider range of countries from different regions.
+- By 2021, international student mobility had not only intensified but diversified. Inbound flows into major economies became significantly larger, represented by the dramatic growth in bubble sizes. The United States, Australia, the United Kingdom, Germany, and Canada emerged as dominant global destinations. At the same time, China rose sharply as the world's largest sender of outbound students, followed by India and other Asian economies. Outbound migration patterns became more dispersed, no longer concentrated in a handful of nations but rather involving a wider range of countries from different regions.
 
-Throughout these two decades, several overarching trends can be observed:
+- Throughout these two decades, several overarching trends can be observed:
 - **Expansion and Diversification**: Both the number of mobile students and the number of participating countries increased dramatically, reflecting a broader democratization of international education.
 - **Economic Correlation**: Wealthier nations consistently attract higher numbers of inbound students, suggesting that economic strength remains a key driver of educational migration.
 - **Rise of Asia**: Asia shifted from being predominantly a source of outbound students to becoming a crucial player in shaping global mobility patterns, both as senders and increasingly as receivers.
 - **Resilience Despite Challenges**: Even in the face of global disruptions such as the COVID-19 pandemic, the data shows sustained student flows in 2021, underscoring the resilience and continued demand for international education.
 
-These findings highlight how global education has evolved into a complex, multi-directional network of opportunities, aligning closely with Sustainable Development Goal 4 (SDG 4), which advocates for inclusive and equitable quality education and the promotion of lifelong learning opportunities for all.
+- These findings highlight how global education has evolved into a complex, multi-directional network of opportunities, aligning closely with Sustainable Development Goal 4 (SDG 4), which advocates for inclusive and equitable quality education and the promotion of lifelong learning opportunities for all.
 
-## Data Analysis: Major Student Flows (2022)
+## Data Analysis: Major Student Flows (2022) 
 
 ![Major Student Flows 2022](visualizations/Major_Student_Flows2022.jpg)
 The 2022 international student flow map reveals several key insights:
@@ -117,7 +147,7 @@ The 2022 international student flow map reveals several key insights:
 - **Latin American Patterns**: Latin American students, especially from Brazil, Colombia, and Argentina, predominantly head toward the United States and Spain for higher education opportunities.
 - **Access Gaps**: Sparse outbound flows from Sub-Saharan Africa point to ongoing challenges in equitable access to international education pathways.
   
-Overall, the 2022 snapshot visualizes a complex, multi-centered network of global student mobility, demonstrating both traditional and emerging educational migration routes.
+- Overall, the 2022 snapshot visualizes a complex, multi-centered network of global student mobility, demonstrating both traditional and emerging educational migration routes.
 
 ## Data Analysis: Relationship Between GDP and Student Migration (2022)
 
@@ -130,7 +160,7 @@ The scatter plot reveals several important trends between a country's economic s
 - **Inbound Disparities**: Some wealthy countries have relatively fewer inbound students compared to their GDP size, suggesting that factors beyond economics—such as language, visa policies, or educational reputation—also impact inbound attractiveness.
 - **Outliers and Exceptions**: A few smaller economies (e.g., Malaysia, the UAE) punch above their economic weight by attracting large numbers of international students, indicating the emergence of new regional education hubs.
 
-Overall, the scatter plot highlights the economic dimension of global education mobility and points to persistent inequalities in access and destination attractiveness.
+- Overall, the scatter plot highlights the economic dimension of global education mobility and points to persistent inequalities in access and destination attractiveness.
 
 ## Research Questions and Findings
 
@@ -154,23 +184,7 @@ Overall, the scatter plot highlights the economic dimension of global education 
 - **Latin America**: Economic instability in certain countries led to both outbound surges (students seeking stability) and reduced inbound attractiveness.
 - **Emerging Education Hubs**: Economically growing regions like the UAE and Malaysia strategically invested in education infrastructure, becoming new magnets for regional mobility.
 
-Overall, regional migration trends are closely tied to macroeconomic growth patterns: stronger economies attract more inbound students while rising middle classes in developing regions drive outbound growth.
-
-## Connection to SDG 4 (Quality Education)
-This project contributes to SDG 4 by:
-- Highlighting global disparities in access to international education.
-- Promoting data-driven awareness of trends in educational migration.
-- Supporting conversations around equity in educational opportunities and resources worldwide.
-By visualizing these mobility trends, our project encourages actions toward **promoting equitable access to international education opportunities**.
-![SDG4logo](visualizations/sdg4.png)
-
-## Team Contribution Statement
-- **Yiqing Wang**: Data acquisition and analysis, data visualization, GitHub repository development.
-- **Nemuulen Togtbaatar**: Data acquisition and cleaning, literature review, visualization improvements, and website deployment.
-
-## Acknowledgements
-
-We sincerely acknowledge Professor Luyao (Sunshine) Zhang for her insightful guidance and inspiring lectures throughout the course, which greatly shaped the direction and quality of our project. We also thank our classmates for their thoughtful feedback, collaborative spirit, and shared enthusiasm during the project development process. A special thanks to Dongping Liu from Amazon and David Schaaf, the Deputy Head of Chemistry Education and Head of the NanoBioLab at Saarland University, for their great lectures introducing new visualization technologies.
+- Overall, regional migration trends are closely tied to macroeconomic growth patterns: stronger economies attract more inbound students while rising middle classes in developing regions drive outbound growth.
 
 ## Competing Interests
 
