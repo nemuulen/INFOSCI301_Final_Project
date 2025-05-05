@@ -168,6 +168,17 @@ By visualizing these mobility trends, our project encourages actions toward **pr
 - **Yiqing Wang**: Data acquisition and analysis, data visualization, GitHub repository development.
 - **Nemuulen Togtbaatar**: Data acquisition and cleaning, literature review, visualization improvements, and website deployment.
 
+## Reflection on Our Learning Journey
+
+Throughout the development of this project, we evolved from creating static charts to building an interactive, data-driven dashboard that presents complex global education trends. Our key takeaways include:
+	•	Project Complexity: We learned how to manage a multi-step workflow—from cleaning global datasets to designing layered visual interfaces and deploying them online.
+	•	Collaboration and Role Distribution: Working as a team helped us define our strengths in areas like visualization design, data analysis, backend logic, and documentation.
+	•	Ethical Visualization: We reflected on fairness, clarity, and accessibility in our visual storytelling, especially when representing inequalities in global education.
+	•	SDG Integration: This project helped us meaningfully connect personal academic interests (such as migration, education, and global development) with Sustainable Development Goal 4 on Quality Education.
+	•	Fieldwork Insight: The Zhouzhuang museum visit was unexpectedly powerful—it reminded us that conveying sensitive or large-scale topics requires not just data, but also empathy and intention in design.
+
+Together, this project has broadened both our technical and humanistic understanding of what meaningful information visualization can be.
+
 ## Acknowledgements
 
 We sincerely acknowledge Professor Luyao (Sunshine) Zhang for her insightful guidance and inspiring lectures throughout the course, which greatly shaped the direction and quality of our project. We also thank our classmates for their thoughtful feedback, collaborative spirit, and shared enthusiasm during the project development process. A special thanks to Dongping Liu from Amazon and David Schaaf, the Deputy Head of Chemistry Education and Head of the NanoBioLab at Saarland University, for their great lectures introducing new visualization technologies.
