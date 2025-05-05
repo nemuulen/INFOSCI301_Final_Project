@@ -10,7 +10,7 @@
 This project analyzes global trends in international student mobility by examining inbound and outbound student flows across countries over time.  
 By integrating UNESCO Institute for Statistics (UIS) mobility data with World Bank GDP indicators, we explore the relationship between a country's economic status and its role in international education exchanges.
 
-🔗 **Live App**: [infosci301finalproject.streamlit.app](https://infosci301finalproject-j34vzlrqpnbbp22g879wld.streamlit.app/?embed_options=dark_theme)
+🔗 **Live App**: [infosci301finalproject.streamlit.app](https://intl-student-migration.streamlit.app/?embed_options=dark_theme)
 
 ![Final Project Poster](301_Nemuulen_Yiqing_Poster.png)
 
