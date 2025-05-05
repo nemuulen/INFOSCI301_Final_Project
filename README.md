@@ -1,10 +1,6 @@
-# 🌍 INFOSCI301 Final Project: Global Student Mobility Dashboard
+# 🌍 INFOSCI301 Final Project
 
-## International Student Mobility Visualization Project
-
-**Team Members**  
-- Yiqing Wang  
-- Nemuulen Togtbaatar  
+## Title: “Global Student Mobility Dashboard: Visualizing International Education Flows and Economic Correlations”
 
 ### Team Contribution Statement
 
@@ -14,33 +10,41 @@
 ---
 
 ### Project Overview
-This project analyzes global trends in international student mobility by examining inbound and outbound student flows across countries over time.  
-By integrating UNESCO Institute for Statistics (UIS) mobility data with World Bank GDP indicators, we explore the relationship between a country's economic status and its role in international education exchanges.
+This project analyzes global trends in international student mobility by examining inbound and outbound student flows across countries over time. By integrating UNESCO Institute for Statistics (UIS) mobility data with World Bank GDP indicators, we explore the relationship between a country's economic status and its role in international education exchanges.
 
 ![Final Project Poster](301_Nemuulen_Yiqing_Poster.png)
 ---
 
-### Acknowledgements
+### Acknowledgments
 - Professor Luyao (Sunshine) Zhang’s insightful guidance and lectures throughout the course and our classmates’ thoughtful feedback and shared enthusiasm were essential in the completion of this project.
 - A special thanks to Dongping Liu from Amazon and David Schaaf, the Deputy Head of Chemistry Education and Head of the NanoBioLab at Saarland University, for their great lectures introducing new visualization technologies.
 ---
 
-### Connection to SDG 4 (Quality Education)
-This project contributes to SDG 4 by:
+### Contribution to SDG 4
+This project contributes to SDG 4 (Quality Education) by:
 - Highlighting global disparities in access to international education.
 - Promoting data-driven awareness of trends in educational migration.
 - Supporting conversations around equity in educational opportunities and resources worldwide.
 By visualizing these mobility trends, our project encourages actions toward **promoting equitable access to international education opportunities**.
-![SDG4logo](visualizations/sdg4.png)
----
+<div align="center">
+<img src="visualizations/sdg4.png" alt="SDG4logo" height="200"/>
+</div>
 
 🔗 **Live App**: [infosci301finalproject.streamlit.app](https://infosci301finalproject-j34vzlrqpnbbp22g879wld.streamlit.app/?embed_options=dark_theme)
 
-🎥 **Demo video**
-
- - [Video](https://www.youtube.com/watch?v=video_id) - A short video showing the website functionality
+🎥 **Demo video**: [Demo Video](https://www.youtube.com/watch?v=video_id) - A short video showing the website functionality.
 
 ---
+
+### 📌 Table of Contents
+- [Project Overview](#project-overview)
+- [Acknowledgments](#acknowledgments)
+- [Team Members & Contributions](#team-contribution-statement)
+- [Contribution to the SDGs](#contribution-to-sdg-4)
+- [Repository Structure & Navigation](#repository-structure-&-navigation)
+- [Technical Details](#technical-details)
+- [Project Report](#project-report)
+- [Statement of Learning & Growth](#statement-of-intellectual-and-professional-growth)
 
 ### 📁 Repository Structure & Navigation
 
@@ -63,7 +67,7 @@ INFOSCI301_Final_Project/
 │
 ├── requirements.txt     # Environment setup
 └── README.md            # You're here
-
+```
 ---
 
 ### Technical details
@@ -76,13 +80,14 @@ INFOSCI301_Final_Project/
 - **Version Control**: GitHub
  
 ---
+## Project Report
 
-## Research Questions
+### Research Questions
 - Which countries are the largest senders and receivers of international students, and how does this correlate with their GDP?
 - How have student mobility patterns evolved over the past two decades, particularly in relation to economic changes and what is the future direction?
 - Are there identifiable regional trends in student migration linked to economic indicators?
 
-## Scholarly Grounding
+### Scholarly Grounding
 We draw design inspiration from:
 
 > Schöttler, S., Hinrichs, U., & Bach, B. (2025).  
@@ -92,7 +97,7 @@ We draw design inspiration from:
 
 This paper highlights challenges in thematic map design, such as overlapping symbols, navigation difficulties, and loss of context, and suggests strategies like dynamic scaling and interactive features. Our project adapts these ideas to create accessible, responsive migration visualizations.
 
-## Workflow Pipeline
+### Workflow Pipeline
 ![Innovation Flowchart](visualizations/Innovation_Flowchart.jpg)
 - **Data Acquisition**: Sources include World Bank, UNESCO UIS, and OECD datasets.
 - **Data Cleaning**: Handling excess values, reshaping wide/long formats, and matching country names.
@@ -101,7 +106,7 @@ This paper highlights challenges in thematic map design, such as overlapping sym
 - **Data Analysis**: Exploring trends, regional differences, and economic correlations.
 - **Report and Deployment**: Documenting findings on GitHub with organized code, results, and a project poster.
 
-## Datasets Used
+### Datasets Used
 | Dataset | Source |
 |:--------|:-------|
 | **GDP.csv** | [World Bank GDP Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) |
@@ -112,12 +117,12 @@ This paper highlights challenges in thematic map design, such as overlapping sym
 | **Share_students_origin_to_destination.csv** | [OECD Data Explorer](https://data-explorer.oecd.org) |
 | **Total_num_students_going_abroad.csv** | [OECD Data Explorer](https://data-explorer.oecd.org) |
 
-## Visualizations
+### Visualizations
 - **Main Animated Map**: Displays changing inbound and outbound student volumes globally from 2000–2021.
 - **GDP vs Students Scatter Plot**: Shows correlation between GDP and student mobility numbers across countries over time.
 - **2022 Flows Map**: Focuses on 2022 only, visualizing student flows between origin and destination countries via connecting lines.
 
-## Data Analysis: Overall Trends in International Student Migration (2000–2021)
+### Data Analysis: Overall Trends in International Student Migration (2000–2021)
 ![International Student Migration 2000-2021](visualizations/International_Student_Migration2000_2022.jpg)
 
 - Between 2000 and 2021, international student migration patterns underwent significant transformations, reflecting broader trends in globalization, economic development, and educational access.
@@ -136,7 +141,7 @@ This paper highlights challenges in thematic map design, such as overlapping sym
 
 - These findings highlight how global education has evolved into a complex, multi-directional network of opportunities, aligning closely with Sustainable Development Goal 4 (SDG 4), which advocates for inclusive and equitable quality education and the promotion of lifelong learning opportunities for all.
 
-## Data Analysis: Major Student Flows (2022) 
+### Data Analysis: Major Student Flows (2022) 
 
 ![Major Student Flows 2022](visualizations/Major_Student_Flows2022.jpg)
 The 2022 international student flow map reveals several key insights:
@@ -149,7 +154,7 @@ The 2022 international student flow map reveals several key insights:
   
 - Overall, the 2022 snapshot visualizes a complex, multi-centered network of global student mobility, demonstrating both traditional and emerging educational migration routes.
 
-## Data Analysis: Relationship Between GDP and Student Migration (2022)
+### Data Analysis: Relationship Between GDP and Student Migration (2022)
 
 ![Relationship Between GDP and Student Migration 2022](visualizations/Relationship_Between_GDP_and_Student_Migration2022.jpg)
 The scatter plot reveals several important trends between a country's economic strength and its international student flows:
@@ -162,7 +167,7 @@ The scatter plot reveals several important trends between a country's economic s
 
 - Overall, the scatter plot highlights the economic dimension of global education mobility and points to persistent inequalities in access and destination attractiveness.
 
-## Research Questions and Findings
+### Research Questions and Findings
 
 ### 1. Which countries are the largest senders and receivers of international students, and how does this correlate with their GDP?
 
@@ -184,40 +189,19 @@ The scatter plot reveals several important trends between a country's economic s
 - **Latin America**: Economic instability in certain countries led to both outbound surges (students seeking stability) and reduced inbound attractiveness.
 - **Emerging Education Hubs**: Economically growing regions like the UAE and Malaysia strategically invested in education infrastructure, becoming new magnets for regional mobility.
 
-<<<<<<< HEAD
 - Overall, regional migration trends are closely tied to macroeconomic growth patterns: stronger economies attract more inbound students while rising middle classes in developing regions drive outbound growth.
-=======
-Overall, regional migration trends are closely tied to macroeconomic growth patterns: stronger economies attract more inbound students while rising middle classes in developing regions drive outbound growth.
 
-## Connection to SDG 4 (Quality Education)
-This project contributes to SDG 4 by:
-- Highlighting global disparities in access to international education.
-- Promoting data-driven awareness of trends in educational migration.
-- Supporting conversations around equity in educational opportunities and resources worldwide.
-By visualizing these mobility trends, our project encourages actions toward **promoting equitable access to international education opportunities**.
+### Statement of Intellectual and Professional Growth
 
-<img src="visualizations/sdg4.png" alt="sdg4" width="300"/>
+This project marks a leap from static infographics to an interactive, multi-layered visualization product.
 
-## Team Contribution Statement
-- **Yiqing Wang**: Data acquisition and analysis, data visualization, GitHub repository development.
-- **Nemuulen Togtbaatar**: Data acquisition and cleaning, literature review, visualization improvements, and website deployment.
+Throughout this project, we experienced a significant learning curve that strengthened both our technical and collaborative capacities. We learned how to manage a complex pipeline—from sourcing and cleaning international datasets to deploying a live visualization dashboard—while maintaining consistency and clarity in our narrative. Working as a team, we each took on different but interconnected roles in design, analysis, and development, gaining a deeper appreciation for the interdisciplinary nature of data visualization. Our work also challenged us to reflect on broader issues of equity, inclusion, and accessibility in how we communicate data. Importantly, this project helped us connect our academic interests to real-world challenges, particularly those aligned with the UN Sustainable Development Goals. Through each step, we developed a more critical and creative perspective on how data can inform, inspire, and empower decision-making in global education.
 
-## Reflection on Our Learning Journey
+Based on our classmates’ feedback, we improved the first visualization by making it animated. To better support government decision-making, we also created individual graphs for each country, showing the relationship between GDP and student numbers, along with projections through 2030.
 
-Throughout the development of this project, we evolved from creating static charts to building an interactive, data-driven dashboard that presents complex global education trends. Our key takeaways include:
-	•	Project Complexity: We learned how to manage a multi-step workflow—from cleaning global datasets to designing layered visual interfaces and deploying them online.
-	•	Collaboration and Role Distribution: Working as a team helped us define our strengths in areas like visualization design, data analysis, backend logic, and documentation.
-	•	Ethical Visualization: We reflected on fairness, clarity, and accessibility in our visual storytelling, especially when representing inequalities in global education.
-	•	SDG Integration: This project helped us meaningfully connect personal academic interests (such as migration, education, and global development) with Sustainable Development Goal 4 on Quality Education.
-	•	Fieldwork Insight: The Zhouzhuang museum visit was unexpectedly powerful—it reminded us that conveying sensitive or large-scale topics requires not just data, but also empathy and intention in design.
+The Zhouzhuang field trip reminded us that meaningful communication—whether about the body or the world—requires care in tone, empathy in design, and attention to accessibility.
 
-Together, this project has broadened both our technical and humanistic understanding of what meaningful information visualization can be.
 
-## Acknowledgements
-
-We sincerely acknowledge Professor Luyao (Sunshine) Zhang for her insightful guidance and inspiring lectures throughout the course, which greatly shaped the direction and quality of our project. We also thank our classmates for their thoughtful feedback, collaborative spirit, and shared enthusiasm during the project development process. A special thanks to Dongping Liu from Amazon and David Schaaf, the Deputy Head of Chemistry Education and Head of the NanoBioLab at Saarland University, for their great lectures introducing new visualization technologies.
->>>>>>> 2cc23c2c0964fe0322c6c933a33a0cfbd69ac6a8
-
-## Competing Interests
+### Competing Interests
 
 The authors declare no competing interests.
