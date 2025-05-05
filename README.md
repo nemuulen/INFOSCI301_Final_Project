@@ -123,49 +123,53 @@ This paper highlights challenges in thematic map design, such as overlapping sym
 - **2022 Flows Map**: Focuses on 2022 only, visualizing student flows between origin and destination countries via connecting lines.
 
 ### Data Analysis: Overall Trends in International Student Migration (2000–2021)
-![International Student Migration 2000-2021](visualizations/International_Student_Migration2000_2022.jpg)
+![International Student Migration 2000-2021](visualizations/international-migration-2000-2022.png)
+![Top 10 outbound countries 2021](visualizations/top-outbound-countries.png)
+![Top 10 inbound countries 2021](visualizations/top-inbound-countries.png)
 
-- Between 2000 and 2021, international student migration patterns underwent significant transformations, reflecting broader trends in globalization, economic development, and educational access.
+Between 2000 and 2021, international student migration patterns underwent significant transformations, reflecting broader trends in globalization, economic development, and educational access.
 
-- In 2000, the landscape of international education was relatively concentrated. A small group of developed countries — particularly those in Western Europe, North America, and Oceania — acted as the primary destinations for mobile students. Inbound flows were modest in scale and largely limited to traditional education hubs like France, Germany, the United Kingdom, Australia, and the United States. Meanwhile, outbound flows from developing countries were present but relatively limited, both in volume and in geographic reach.
+In 2000, the landscape of international education was relatively concentrated. A small group of developed countries — particularly those in Western Europe, North America, and Oceania - acted as the primary destinations for mobile students. Inbound flows were modest in scale and largely limited to traditional education hubs like France, Germany, the United Kingdom, Australia, and the United States. Meanwhile, outbound flows from developing countries were present but relatively limited, both in volume and in geographic reach.
+As the decade progressed, the 2010 snapshot revealed the early signs of a more interconnected world. A larger number of countries began to engage actively in sending and receiving students. Notably, China, India, and Southeast Asian nations exhibited growing outbound migration. Inbound hubs such as Australia and the UK expanded further, while Europe as a whole solidified its position as a central magnet for international students.
 
-- As the decade progressed, the 2010 snapshot revealed the early signs of a more interconnected world. A larger number of countries began to engage actively in sending and receiving students. Notably, China, India, and Southeast Asian nations exhibited growing outbound migration. Inbound hubs such as Australia and the UK expanded further, while Europe as a whole solidified its position as a central magnet for international students.
+By 2021, international student mobility had not only intensified but diversified. Inbound flows into major economies became significantly larger, represented by the dramatic growth in bubble sizes. The United States, Australia, the United Kingdom, and Germany emerged as dominant global destinations. At the same time, China rose sharply as the world's largest sender of outbound students, followed by India and other Asian economies. Outbound migration patterns became more dispersed, no longer concentrated in a handful of nations but rather involving a wider range of countries from different regions.
 
-- By 2021, international student mobility had not only intensified but diversified. Inbound flows into major economies became significantly larger, represented by the dramatic growth in bubble sizes. The United States, Australia, the United Kingdom, Germany, and Canada emerged as dominant global destinations. At the same time, China rose sharply as the world's largest sender of outbound students, followed by India and other Asian economies. Outbound migration patterns became more dispersed, no longer concentrated in a handful of nations but rather involving a wider range of countries from different regions.
+Throughout these two decades, several overarching trends can be observed:
+- Expansion and Diversification: Both the number of mobile students and the number of participating countries increased dramatically, reflecting a broader democratization of international education.
+- Economic Correlation: Wealthier nations consistently attract higher numbers of inbound students, suggesting that economic strength remains a key driver of educational migration.
+Rise of Asia: Asia shifted from being predominantly a source of outbound students to becoming a crucial player in shaping global mobility patterns, both as senders and increasingly as receivers.
+- Resilience Despite Challenges: Even in the face of global disruptions such as the COVID-19 pandemic, the data shows sustained student flows in 2021, underscoring the resilience and continued demand for international education.
+- hese findings highlight how global education has evolved into a complex, multi-directional network of opportunities, aligning closely with Sustainable Development Goal 4 (SDG 4), which advocates for inclusive and equitable quality education and the promotion of lifelong learning opportunities for all.
 
-- Throughout these two decades, several overarching trends can be observed:
-- **Expansion and Diversification**: Both the number of mobile students and the number of participating countries increased dramatically, reflecting a broader democratization of international education.
-- **Economic Correlation**: Wealthier nations consistently attract higher numbers of inbound students, suggesting that economic strength remains a key driver of educational migration.
-- **Rise of Asia**: Asia shifted from being predominantly a source of outbound students to becoming a crucial player in shaping global mobility patterns, both as senders and increasingly as receivers.
-- **Resilience Despite Challenges**: Even in the face of global disruptions such as the COVID-19 pandemic, the data shows sustained student flows in 2021, underscoring the resilience and continued demand for international education.
-
-- These findings highlight how global education has evolved into a complex, multi-directional network of opportunities, aligning closely with Sustainable Development Goal 4 (SDG 4), which advocates for inclusive and equitable quality education and the promotion of lifelong learning opportunities for all.
 
 ### Data Analysis: Major Student Flows (2022) 
 
-![Major Student Flows 2022](visualizations/Major_Student_Flows2022.jpg)
-The 2022 international student flow map reveals several key insights:
+![Major Student Flows 2022](visualizations/major-flow-2022.png)
+![Top Student Flows 2022](visualizations/top-flow.png)
 
-- **Dominant Destinations**: The United States and the United Kingdom remain the largest receivers of international students. Thick lines represent major inflows from Asia, Europe, and Latin America.
-- **Emerging Intra-Asia Mobility**: A significant volume of students is moving between Asian countries, particularly from India, Vietnam, and Bangladesh to destinations such as Japan, South Korea, and Malaysia. This trend highlights the strengthening role of regional education hubs in Asia.
-- **European Educational Connectivity**: Europe shows dense internal student mobility, with strong educational exchanges between EU countries. Initiatives like Erasmus likely contribute to this vibrant intra-European student movement.
-- **Latin American Patterns**: Latin American students, especially from Brazil, Colombia, and Argentina, predominantly head toward the United States and Spain for higher education opportunities.
-- **Access Gaps**: Sparse outbound flows from Sub-Saharan Africa point to ongoing challenges in equitable access to international education pathways.
-  
-- Overall, the 2022 snapshot visualizes a complex, multi-centered network of global student mobility, demonstrating both traditional and emerging educational migration routes.
+The 2022 international student flow map reveals several key insights:
+Dominant Destinations: The United States and the United Kingdom remain the largest recipients of international students. Thick lines represent major inflows from Asia, Europe, and Latin America.
+
+- Emerging Intra-Asia Mobility: A significant volume of students is moving between Asian countries, particularly from India, Vietnam, and Bangladesh to destinations such as Japan, South Korea, and Malaysia. This trend highlights the strengthening role of regional education hubs in Asia.
+- European Educational Connectivity: Europe shows dense internal student mobility, with strong educational exchanges between EU countries. Initiatives like Erasmus likely contribute to this vibrant intra-European student movement.
+- Latin American Patterns: Latin American students, especially from Brazil, Colombia, and Argentina, predominantly head toward the United States and Spain for higher education opportunities.
+- Access Gaps: Sparse outbound flows from Sub-Saharan Africa point to ongoing challenges in equitable access to international education pathways.
+Overall, the 2022 snapshot visualizes a complex, multi-centered network of global student mobility, demonstrating both traditional and emerging educational migration routes.
+
 
 ### Data Analysis: Relationship Between GDP and Student Migration (2022)
 
-![Relationship Between GDP and Student Migration 2022](visualizations/Relationship_Between_GDP_and_Student_Migration2022.jpg)
+![Relationship Between GDP and Student Migration 2022](visualizations/gdp-migration-bubble.png)
+![Relationship Between GDP and Student Migration by country 2000-2021](visualizations/in-out-gdp-by-country.png)
+
 The scatter plot reveals several important trends between a country's economic strength and its international student flows:
+- Positive Correlation: Generally, countries with higher GDP levels tend to have higher numbers of both inbound and outbound international students. This suggests that economic resources enable better access to education abroad and greater attractiveness as education destinations.
+- Top Economies Dominate: Economies like the United States, China, Germany, and the United Kingdom are positioned in the upper right, indicating they are both major sources and hosts of international students.
+- Outbound Mobility from Developing Economies: Several developing countries with moderate GDPs (e.g., India, Vietnam, Nigeria) show relatively high outbound student numbers, reflecting strong demand for education abroad despite economic constraints.
+- Inbound Disparities: Some wealthy countries have relatively fewer inbound students compared to their GDP size, suggesting that factors beyond economics, such as language, visa policies, or educational reputation, also impact inbound attractiveness.
+- Outliers and Exceptions: A few smaller economies (e.g., Malaysia, the UAE) punch above their economic weight by attracting large numbers of international students, indicating the emergence of new regional education hubs.
+Overall, the scatter plot highlights the economic dimension of global education mobility and points to persistent inequalities in access and destination attractiveness.
 
-- **Positive Correlation**: Generally, countries with higher GDP levels tend to have higher numbers of both inbound and outbound international students. This suggests that economic resources enable better access to education abroad and greater attractiveness as education destinations.
-- **Top Economies Dominate**: Economies like the United States, China, Germany, and the United Kingdom are positioned in the upper right, indicating they are both major sources and hosts of international students.
-- **Outbound Mobility from Developing Economies**: Several developing countries with moderate GDPs (e.g., India, Vietnam, Nigeria) show relatively high outbound student numbers, reflecting strong demand for education abroad despite economic constraints.
-- **Inbound Disparities**: Some wealthy countries have relatively fewer inbound students compared to their GDP size, suggesting that factors beyond economics—such as language, visa policies, or educational reputation—also impact inbound attractiveness.
-- **Outliers and Exceptions**: A few smaller economies (e.g., Malaysia, the UAE) punch above their economic weight by attracting large numbers of international students, indicating the emergence of new regional education hubs.
-
-- Overall, the scatter plot highlights the economic dimension of global education mobility and points to persistent inequalities in access and destination attractiveness.
 
 ### Research Questions and Findings
 
