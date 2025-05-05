@@ -59,17 +59,17 @@ We draw design inspiration from:
 > IEEE Transactions on Visualization and Computer Graphics (TVCG).
 > https://doi.org/10.1109/TVCG.2024.3456352
 
-This paper highlights challenges in thematic map design — such as overlapping symbols, navigation difficulties, and loss of context — and suggests strategies like dynamic scaling and interactive features.  
+This paper highlights challenges in thematic map design, such as overlapping symbols, navigation difficulties, and loss of context, and suggests strategies like dynamic scaling and interactive features.  
 Our project adapts these ideas to create accessible, responsive migration visualizations.
 
 ## Workflow Pipeline
-![Innovation Flowchart](Images/Innovation_Flowchart.jpg)
+![Innovation Flowchart](visualizations/Innovation_Flowchart.jpg)
 - **Data Acquisition**: Sources include World Bank, UNESCO UIS, and OECD datasets.
 - **Data Cleaning**: Handling excess values, reshaping wide/long formats, and matching country names.
 - **Visualization Planning**: Identifying key metrics (GDP, inbound/outbound numbers) and appropriate visualization types.
 - **Visualization Coding**: Using Python libraries (pandas, plotly) and Google Colab for development.
 - **Data Analysis**: Exploring trends, regional differences, and economic correlations.
-- **Report and Deployment**: Documenting findings on GitHub with organized codes, results, and a project poster.
+- **Report and Deployment**: Documenting findings on GitHub with organized code, results, and a project poster.
 
 ## Datasets Used
 | Dataset | Source |
@@ -88,7 +88,7 @@ Our project adapts these ideas to create accessible, responsive migration visual
 - **2022 Flows Map**: Focuses on 2022 only, visualizing student flows between origin and destination countries via connecting lines.
 
 ## Data Analysis: Overall Trends in International Student Migration (2000–2021)
-![International Student Migration 2000-2021](Images/International_Student_Migration2000_2022.jpg)
+![International Student Migration 2000-2021](visualizations/International_Student_Migration2000_2022.jpg)
 
 Between 2000 and 2021, international student migration patterns underwent significant transformations, reflecting broader trends in globalization, economic development, and educational access.
 
@@ -100,15 +100,15 @@ By 2021, international student mobility had not only intensified but diversified
 
 Throughout these two decades, several overarching trends can be observed:
 - **Expansion and Diversification**: Both the number of mobile students and the number of participating countries increased dramatically, reflecting a broader democratization of international education.
-- **Economic Correlation**: Wealthier nations consistently attracted higher numbers of inbound students, suggesting that economic strength remains a key driver of educational migration.
+- **Economic Correlation**: Wealthier nations consistently attract higher numbers of inbound students, suggesting that economic strength remains a key driver of educational migration.
 - **Rise of Asia**: Asia shifted from being predominantly a source of outbound students to becoming a crucial player in shaping global mobility patterns, both as senders and increasingly as receivers.
 - **Resilience Despite Challenges**: Even in the face of global disruptions such as the COVID-19 pandemic, the data shows sustained student flows in 2021, underscoring the resilience and continued demand for international education.
 
-These findings highlight how global education has evolved into a complex, multi-directional network of opportunities — aligning closely with Sustainable Development Goal 4 (SDG 4), which advocates for inclusive and equitable quality education and the promotion of lifelong learning opportunities for all.
+These findings highlight how global education has evolved into a complex, multi-directional network of opportunities, aligning closely with Sustainable Development Goal 4 (SDG 4), which advocates for inclusive and equitable quality education and the promotion of lifelong learning opportunities for all.
 
 ## Data Analysis: Major Student Flows (2022)
 
-![Major Student Flows 2022](Images/Major_Student_Flows2022.jpg)
+![Major Student Flows 2022](visualizations/Major_Student_Flows2022.jpg)
 The 2022 international student flow map reveals several key insights:
 
 - **Dominant Destinations**: The United States and the United Kingdom remain the largest receivers of international students. Thick lines represent major inflows from Asia, Europe, and Latin America.
@@ -121,7 +121,7 @@ Overall, the 2022 snapshot visualizes a complex, multi-centered network of globa
 
 ## Data Analysis: Relationship Between GDP and Student Migration (2022)
 
-![Relationship Between GDP and Student Migration 2022](Images/Relationship_Between_GDP_and_Student_Migration2022.jpg)
+![Relationship Between GDP and Student Migration 2022](visualizations/Relationship_Between_GDP_and_Student_Migration2022.jpg)
 The scatter plot reveals several important trends between a country's economic strength and its international student flows:
 
 - **Positive Correlation**: Generally, countries with higher GDP levels tend to have higher numbers of both inbound and outbound international students. This suggests that economic resources enable better access to education abroad and greater attractiveness as education destinations.
@@ -162,7 +162,7 @@ This project contributes to SDG 4 by:
 - Promoting data-driven awareness of trends in educational migration.
 - Supporting conversations around equity in educational opportunities and resources worldwide.
 By visualizing these mobility trends, our project encourages actions toward **promoting equitable access to international education opportunities**.
-![SDG4logo](Images/sdg4.png)
+![SDG4logo](visualizations/sdg4.png)
 
 ## Team Contribution Statement
 - **Yiqing Wang**: Data acquisition and analysis, data visualization, GitHub repository development.
