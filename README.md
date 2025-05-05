@@ -184,7 +184,39 @@ The scatter plot reveals several important trends between a country's economic s
 - **Latin America**: Economic instability in certain countries led to both outbound surges (students seeking stability) and reduced inbound attractiveness.
 - **Emerging Education Hubs**: Economically growing regions like the UAE and Malaysia strategically invested in education infrastructure, becoming new magnets for regional mobility.
 
+<<<<<<< HEAD
 - Overall, regional migration trends are closely tied to macroeconomic growth patterns: stronger economies attract more inbound students while rising middle classes in developing regions drive outbound growth.
+=======
+Overall, regional migration trends are closely tied to macroeconomic growth patterns: stronger economies attract more inbound students while rising middle classes in developing regions drive outbound growth.
+
+## Connection to SDG 4 (Quality Education)
+This project contributes to SDG 4 by:
+- Highlighting global disparities in access to international education.
+- Promoting data-driven awareness of trends in educational migration.
+- Supporting conversations around equity in educational opportunities and resources worldwide.
+By visualizing these mobility trends, our project encourages actions toward **promoting equitable access to international education opportunities**.
+
+<img src="visualizations/sdg4.png" alt="sdg4" width="300"/>
+
+## Team Contribution Statement
+- **Yiqing Wang**: Data acquisition and analysis, data visualization, GitHub repository development.
+- **Nemuulen Togtbaatar**: Data acquisition and cleaning, literature review, visualization improvements, and website deployment.
+
+## Reflection on Our Learning Journey
+
+Throughout the development of this project, we evolved from creating static charts to building an interactive, data-driven dashboard that presents complex global education trends. Our key takeaways include:
+	•	Project Complexity: We learned how to manage a multi-step workflow—from cleaning global datasets to designing layered visual interfaces and deploying them online.
+	•	Collaboration and Role Distribution: Working as a team helped us define our strengths in areas like visualization design, data analysis, backend logic, and documentation.
+	•	Ethical Visualization: We reflected on fairness, clarity, and accessibility in our visual storytelling, especially when representing inequalities in global education.
+	•	SDG Integration: This project helped us meaningfully connect personal academic interests (such as migration, education, and global development) with Sustainable Development Goal 4 on Quality Education.
+	•	Fieldwork Insight: The Zhouzhuang museum visit was unexpectedly powerful—it reminded us that conveying sensitive or large-scale topics requires not just data, but also empathy and intention in design.
+
+Together, this project has broadened both our technical and humanistic understanding of what meaningful information visualization can be.
+
+## Acknowledgements
+
+We sincerely acknowledge Professor Luyao (Sunshine) Zhang for her insightful guidance and inspiring lectures throughout the course, which greatly shaped the direction and quality of our project. We also thank our classmates for their thoughtful feedback, collaborative spirit, and shared enthusiasm during the project development process. A special thanks to Dongping Liu from Amazon and David Schaaf, the Deputy Head of Chemistry Education and Head of the NanoBioLab at Saarland University, for their great lectures introducing new visualization technologies.
+>>>>>>> 2cc23c2c0964fe0322c6c933a33a0cfbd69ac6a8
 
 ## Competing Interests
 
