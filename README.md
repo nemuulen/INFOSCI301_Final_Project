@@ -162,7 +162,7 @@ This project contributes to SDG 4 by:
 - Promoting data-driven awareness of trends in educational migration.
 - Supporting conversations around equity in educational opportunities and resources worldwide.
 By visualizing these mobility trends, our project encourages actions toward **promoting equitable access to international education opportunities**.
-![SDG4logo](visualizations/sdg4.png)
+
 <img src="visualizations/sdg4.png" alt="sdg4" width="300"/>
 
 ## Team Contribution Statement
