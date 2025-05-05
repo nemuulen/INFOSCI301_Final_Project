@@ -32,7 +32,8 @@ By visualizing these mobility trends, our project encourages actions toward **pr
 
 🔗 **Live App**: [infosci301finalproject.streamlit.app](https://infosci301finalproject-j34vzlrqpnbbp22g879wld.streamlit.app/?embed_options=dark_theme)
 
-🎥 **Demo video**: [Demo Video](https://www.youtube.com/watch?v=video_id) - A short video showing the website functionality.
+🎥 **Demo video**: 
+[![Watch the Demo](visualizations/demo_thumbnail.png)](https://duke.box.com/s/1upqgdtsr2qphtmh19cwumnjz4yzb684) - A short video showing the website functionality.
 
 ---
 
