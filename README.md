@@ -170,31 +170,6 @@ The scatter plot reveals several important trends between a country's economic s
 - Outliers and Exceptions: A few smaller economies (e.g., Malaysia, the UAE) punch above their economic weight by attracting large numbers of international students, indicating the emergence of new regional education hubs.
 Overall, the scatter plot highlights the economic dimension of global education mobility and points to persistent inequalities in access and destination attractiveness.
 
-
-### Research Questions and Findings
-
-### 1. Which countries are the largest senders and receivers of international students, and how does this correlate with their GDP?
-
-- **Largest Senders**: China, India, Vietnam, and Nigeria are among the biggest sources of outbound students. These countries often have rapidly growing economies but face domestic educational capacity limitations, encouraging international mobility.
-- **Largest Receivers**: The United States, United Kingdom, Australia, Germany, and Canada are leading inbound destinations, offering high-quality education and strong economic support systems.
-- **Correlation with GDP**: There is a general positive correlation—wealthier nations tend to attract more inbound students, while emerging economies are significant outbound contributors. However, the relationship is not purely linear, as factors like education quality, visa policies, and language also play critical roles.
-
-### 2. How have student mobility patterns evolved over the past two decades, particularly in relation to economic changes?
-
-- **Early 2000s**: Student mobility was heavily concentrated between a few Western countries. Outbound flows primarily came from developing regions toward North America and Europe.
-- **2010s Growth**: Rapid economic growth in Asia, particularly China and India, led to a surge in outbound students. Meanwhile, new destinations like Australia and Germany increased their global share of inbound students.
-- **2020s Trends**: The global landscape is diversifying. Regional hubs in Asia and the Middle East have emerged. Economic slowdowns and geopolitical tensions also influence destination choices, making student flows more dynamic and multi-directional.
-
-### 3. Are there identifiable regional trends in student migration linked to economic indicators?
-
-- **Asia**: As economies like China, India, and Vietnam expanded, outbound student numbers surged. Rising GDP per capita enabled more families to afford international education, particularly favoring destinations like the U.S., U.K., and Australia.
-- **Europe**: European countries with stable and high GDP (e.g., Germany, France, the Netherlands) increasingly became both major receivers and intra-regional exchange hubs (e.g., through Erasmus programs).
-- **Africa**: Lower GDP levels correlated with a more selective outbound flow, often dependent on scholarships or bilateral agreements. South Africa emerged as a regional study destination within Africa.
-- **Latin America**: Economic instability in certain countries led to both outbound surges (students seeking stability) and reduced inbound attractiveness.
-- **Emerging Education Hubs**: Economically growing regions like the UAE and Malaysia strategically invested in education infrastructure, becoming new magnets for regional mobility.
-
-- Overall, regional migration trends are closely tied to macroeconomic growth patterns: stronger economies attract more inbound students while rising middle classes in developing regions drive outbound growth.
-
 ### Statement of Intellectual and Professional Growth
 
 This project marks a leap from static infographics to an interactive, multi-layered visualization product.
